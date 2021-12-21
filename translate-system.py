@@ -1,17 +1,13 @@
 import os
 import glob
-# You will have to just replace these with the correct file names.
-# I would enumerate the files valid for this folder but I am lazy.
-
-# UPDATE: I did it for you, this is also not the best way to do it.
-
-# They are all the files like game_*, error.txt, eventnames.txt, discord.txt, unitgames.txt, shop.txt, profile.txt etc.
+# These are all the files like game_*, error.txt, eventnames.txt, discord.txt, unitgames.txt, shop.txt, profile.txt etc.
 # cards_misc.txt is valid for this, but not the translate-cards.py script.
 # This is because misc has no flavor=, name= or descr= tags.
 # You will know because they all follow < SOME_KEYWORD > then the line and use // for comments.
 # Some will use [EOF], others will not.
 # Artists and VA names (voiceactors.txt and cardartists.txt) are not translated.
 # When using this script, you can add them below if you want to translate them. Otherwise, just leave them out and copy them over untouched.
+# A fix must be applied to menuscreens.txt due to a block that contains extraneous newlines.
 fileList = glob.glob('./LanguageFiles/game_*.txt')
 fileList.append('./LanguageFiles/cards_misc.txt')
 fileList.append('./LanguageFiles/error.txt')
@@ -64,6 +60,10 @@ for fn in fileList:
 		# Some files from the game start with the \ufeff encoding character.
 		# This is a workaround for that. I'm not sure why it's there in some but not others.
 		if line.startswith("<") or line.startswith("\ufeff<") and line.endswith(">"):
+			# Workaround for a bug where the <empty> placeholder text
+			if line.equals("<empty>"):
+				cleanedLines.append(line)
+				continue
 			sysids.append(line)
 			continue
 		if line.startswith("[EOF]"):
