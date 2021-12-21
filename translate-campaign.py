@@ -1,6 +1,5 @@
 import glob
-import os
-fileList = glob.glob('./LanguageFiles/charavoice_*.txt')
+fileList = glob.glob('./LanguageFiles/campaign_*.txt')
 
 def translateLoop(lines):
 	translatedLines = []
@@ -12,7 +11,6 @@ def translateLoop(lines):
 		translatedLines.append(a)
 		print('translated: \"' + l + '\" resulting in: \"' + a + '\"')
 	return translatedLines
-
 for fn in fileList:
 	# open file
 	file = open(fn, 'r', errors='ignore', encoding='utf-8')
@@ -22,13 +20,19 @@ for fn in fileList:
 	# trim <XXXX> and newlines from lines
 	trimmedlines = []
 	for line in lines:
-		trimmedlines.append(line.strip('\n')[7:])
-
-	while("" in trimmedlines):
-		trimmedlines.remove("")
-
+		trimmedlines.append(line.strip('\n'))
+	cleanedLines = []
+	for line in trimmedlines:
+		if line.startswith("//"):
+			continue
+		cleanedLines.append(line)
+	while("" in cleanedLines):
+		cleanedLines.remove("")
+	trimmedlines = []
+	for l in cleanedLines:
+		trimmedlines.append(l[7:])
+	print("translating: " + fn)
 	result = translateLoop(trimmedlines)
-	# Write the file out and then delete the original.
 	translatedfile = open('./translated/' + fn[16:] + '.translated', "w+", errors='ignore', encoding='utf-8')
 	count = 0;
 	for tln in result:
