@@ -17,7 +17,7 @@ Get 200 ow mowe staws.
 < GAME_NORMA_WINS_SINGLE >
 Defeat an enemy.
 < GAME_NORMA_WINS_MULTIPLE >
-Defeat <nowmaamount> ow mowe enemies.
+Defeat <normaamount> ow mowe enemies.
 < GAME_NORMA_WINS_1 >
 Defeat an enemy.
 < GAME_NORMA_WINS_2 >
@@ -29,5 +29,5 @@ Defeat 9 ow mowe enemies.
 < GAME_NORMA_WINS_14 >
 Defeat 14 ow mowe enemies.
 < GAME_NORMA_FAME >
-Weach <nowmaamount> ow mowe fame.
+Weach <normaamount> ow mowe fame.
 [EOF]

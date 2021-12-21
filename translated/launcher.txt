@@ -1,11 +1,11 @@
 < LAUNCHER_FONTNAME >
-Awiaw
+Arial
 < LAUNCHER_TITLE >
-100% Owange Juice Settings
+wan handred pewcent owowenji joos settings
 < LAUNCHER_LANGUAGE_LABEL >
 Wanguage
 < LAUNCHER_LANGUAGE_NAME >
-Engwish
+owo
 < LAUNCHER_COLORMODE_LABEL >
 Cowow Mode
 < LAUNCHER_COLORMODE_FULLCOLORSCREEN >

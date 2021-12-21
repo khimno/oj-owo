@@ -65,46 +65,48 @@ Do you want to stop at Home?
 < GAME_MESSAGE_HEALING >
 Heawing!
 < GAME_MESSAGE_EVENTPREFIX >
-!
+
 < GAME_MESSAGE_EVENTSUFFIX >
-Chocowate Fwenzy!
+!
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
-Chocowate stowed!
+Chocowate Fwenzy!
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_SUCCESS >
-Not enough chocowate to stowe...
+Chocowate stowed!
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
-Choose a candy.
+Not enough chocowate to stowe...
 < GAME_MESSAGE_HLWN2018_CHOOSECANDY >
-Give this candy away?
+Choose a candy.
 < GAME_MESSAGE_HLWN2018_GIVECANDY >
-Choose tawget panew.
+Give this candy away?
 < GAME_MESSAGE_CHOOSETARGETPANEL >
-Choose panew to thwow at.
+Choose tawget panew.
 < GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE >
-Choose panew to thwow at / pway a cawd.
+Choose panew to thwow at.
 < GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE_CARD >
-Choose panews to thwow at.
+Choose panew to thwow at / pway a cawd.
 < GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_MULTIPLE >
-Choose panew to move to.
+Choose panews to thwow at.
 < GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND >
-Choose panew to move to / pway a cawd.
+Choose panew to move to.
 < GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND_CARD >
-Waiting fow othew pwayews...
+Choose panew to move to / pway a cawd.
 < GAME_MESSAGE_XMAS2018_SNOWFIGHT_WAITING >
-Wotate cwockwise
+Waiting fow othew pwayews...
 < GAME_MESSAGE_XMAS2018_CASTLE_ROTATE >
-Pwace piece
+Wotate cwockwise
 < GAME_MESSAGE_XMAS2018_CASTLE_PLACE >
-Change piece
+Pwace piece
 < GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
-Do you want to stop at the Shop?
+Change piece
 < GAME_MESSAGE_SHOPSTOP >
-Chawwenge this monstew?
+Do you want to stop at the Shop?
 < GAME_MESSAGE_MONSTERCHALLENGE >
-Speed Up!
+Chawwenge this monstew?
 < GAME_MESSAGE_SUMMER2020_SPEEDUP >
-Sewect a panew to tewepowt to.
+Speed Up!
 < GAME_MESSAGE_TELEPORT >
-Sewect a panew.
+Sewect a panew to tewepowt to.
 < GAME_MESSAGE_SELECT_PANEL >
+Sewect a panew.
+< GAME_MESSAGE_AWAIT_ACTION >
 Awaiting pwayew action...
