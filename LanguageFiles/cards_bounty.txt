@@ -31,26 +31,32 @@ flavor=
 < CARD_BOUNTY_WOLLY_HUNT >
 name=Wolly
 descr=When damaged, Wolly takes 1 extra damage.
+flavor=
 
 < CARD_BOUNTY_TERRAWYRMER_HUNT >
 name=Terrawyrmer
 descr=If hit for more than 2 damage at once, Terrawyrmer gains +1 ATK, +1 DEF & -1 EVD until end of battle. This effect can stack.
+flavor=
 
 < CARD_BOUNTY_RUFFSHROOM_HUNT >
 name=Ruffshroom
 descr=When Ruffshroom is defeated, you gain 2 HP.
+flavor=
 
 < CARD_BOUNTY_GOST_HUNT >
 name=Göst
 descr=Göst gains +1 EVD for every positive point of ATK you have.
+flavor=
 
 < CARD_BOUNTY_EMERANGLER_HUNT >
 name=Emerangler
 descr=When Emerangler is damaged, it gains +1 ATK on next attack. When Emerangler damages you, it gains +1 DEF on next defense.
+flavor=
 
 < CARD_BOUNTY_GLOBBU_HUNT >
 name=Globbu
 descr=Every time Globbu damages you, gain -1 DEF until end of battle.
+flavor=
 
 < CARD_BOUNTY_GRASSINFIMARY_QUEST >
 name=
