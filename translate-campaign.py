@@ -1,3 +1,4 @@
+import os
 import glob
 fileList = glob.glob('./LanguageFiles/campaign_*.txt')
 
