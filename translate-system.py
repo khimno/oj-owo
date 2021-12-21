@@ -31,7 +31,6 @@ fileList.append('./LanguageFiles/launcher.txt')
 fileList.append('./LanguageFiles/menuscreens.txt')
 fileList.append('./LanguageFiles/multiplayer.txt')
 fileList.append('./LanguageFiles/result.txt')
-fileList.append('./LanguageFiles/unitgames.txt')
 
 def translateLoop(lines):
 	translatedLines = []
