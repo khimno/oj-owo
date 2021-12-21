@@ -10,7 +10,8 @@ import glob
 # This is because misc has no flavor=, name= or descr= tags.
 # You will know because they all follow < SOME_KEYWORD > then the line and use // for comments.
 # Some will use [EOF], others will not.
-# Artists and VA names are not translated.
+# Artists and VA names (voiceactors.txt and cardartists.txt) are not translated.
+# When using this script, you can add them below if you want to translate them. Otherwise, just leave them out and copy them over untouched.
 fileList = glob.glob('./LanguageFiles/game_*.txt')
 fileList.append('./LanguageFiles/cards_misc.txt')
 fileList.append('./LanguageFiles/error.txt')
@@ -60,7 +61,9 @@ for fn in fileList:
 	for line in trimmedlines:
 		if line.startswith("//"):
 			continue
-		if line.startswith("<") and line.endswith(">"):
+		# Some files from the game start with the \ufeff encoding character.
+		# This is a workaround for that. I'm not sure why it's there in some but not others.
+		if line.startswith("<") or line.startswith("\ufeff<") and line.endswith(">"):
 			sysids.append(line)
 			continue
 		if line.startswith("[EOF]"):
