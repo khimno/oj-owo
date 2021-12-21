@@ -1,0 +1,68 @@
+< INVENTORY_MEDICINALHERB >
+name=Medicinal Herb
+descr=An herb with healing properties.
+
+< INVENTORY_TURNISLIME >
+name=Turni-slime
+descr=Used to be part of a Turnislime's body.
+
+< INVENTORY_CHILLINGWIND >
+name=Bag of Chilling Wind
+descr=A bag filled with an extremely cold breeze. Holding it carelessly could cause your hands to freeze instantly.
+
+< INVENTORY_FLOUR >
+name=Never-Ending Flour
+descr=A bag of flour that never seems to end. Just what does it have inside?
+
+< INVENTORY_BROKENBLADE >
+name=Broken Blade
+descr=A worn weapon left behind by the fallen.
+
+< INVENTORY_TROLLITEHORN >
+name=Trollite Horn
+descr=An old horn that used to belong to a Trollite. Wherever there's one of these, trouble lurks nearby.
+
+< INVENTORY_MISTYSAP >
+name=Misty Sap
+descr=Sap from a tree. Tastes sweet.
+
+< INVENTORY_CACTUS >
+name=Cactus
+descr=A cactus from a desert which contains some water in it.
+
+< INVENTORY_GOST >
+name=Göst Spirit
+descr=A defeated playful Göst.
+
+< INVENTORY_WOLLY >
+name=Wolly Milk
+descr=Fresh milk from a Wolly.
+
+< INVENTORY_BUCKET >
+name=Empty Bucket
+descr=An empty bucket that can be used to carry various things.
+
+< INVENTORY_HEATGLOVES >
+name=Heat-Resistant Gloves
+descr=Gloves that are able to help you endure even the highest temperatures.
+
+< INVENTORY_GLOBBU >
+name=Globbu
+descr=A magmatic prankster that likes setting people on fire.
+
+< INVENTORY_SANDALS >
+name=Wooden Sandals
+descr=A very common pair of shoes allowing you to sprint fast without hurting your feet. Adds +1 MOV.
+
+< INVENTORY_LEATHERBOOTS >
+name=Leather Boots
+descr=The latest creation of famous leatherworkers, which is a direct upgrade from the usual sandals and common shoes. Adds +1 MOV, and an additional 1 if you're not carrying any quest item.
+
+< INVENTORY_GALESHOES >
+name=Gale Shoes
+descr=Powered by powerful magic, you will never feel tired while wearing this pair of shoes. Adds +1 MOV, and an additional 2 if carrying no quest items and having less than 2 cards.
+
+// Winter 2020 Event Special Item
+< INVENTORY_DELICACY >
+name=Delicacy
+descr=A tasty morsel for Cook. Collect up to 3 per game.
