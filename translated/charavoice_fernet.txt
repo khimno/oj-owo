@@ -1,0 +1,160 @@
+<0000> Wike this.
+<0001> That's it.
+<0002> Thewe we go.
+<0003> Hmph.
+<0004> I'ww be using a cawd.
+<0005> I'ww go with this cawd.
+<0006> This, pewhaps?
+<0007> How's this?
+<0008> I'm setting this down.
+<0009> Shouwd I put this hewe?
+<0010> I'm waying down a cawd.
+<0011> I hope this catches someone.
+<0012> Then I'ww go with this cawd.
+<0013> My twump cawd.
+<0014> Suwpwise.
+<0015> I have this.
+<0016> Hmph, faww befowe me.
+<0017> Awwow me to wesume.
+<0018> Good gwief.
+<0019> Wet's continue.
+<0020> I hate waiting.
+<0021> These things happen.
+<0022> No big deaw.
+<0023> Whatevew.
+<0024> I don't cawe.
+<0025> Eat this.
+<0026> Take this.
+<0027> This is going to huwt!
+<0028> Behave youwsewf!
+<0029> Oww!
+<0030> The newve!
+<0031> How dawe you!
+<0032> Kyaa.
+<0033> What a wewief.
+<0034> Good gwief.
+<0035> Phew.
+<0036> Not bad.
+<0037> What? What's going on?
+<0038> Ah... H-howd on!
+<0039> W-whewe awe you taking me?
+<0040> Escowt me pwopewwy!
+<0041> No way.
+<0042> I was negwigent.
+<0043> My goodness.
+<0044> What awe you doing?!
+<0045> Pwepawe youwsewf.
+<0046> You'we in the way.
+<0047> Out of the way.
+<0048> Fight me.
+<0049> I won't show mewcy.
+<0050> I'm weady.
+<0051> You've got some newve.
+<0052> I'ww make you wegwet this.
+<0053> Faww befowe me!
+<0054> Eat wead.
+<0055> Eat this!
+<0056> Hewe I go!
+<0057> Geh.
+<0058> Ngh.
+<0059> I'm not done yet.
+<0060> That huwts.
+<0061> Cut it out!
+<0062> Howd on!
+<0063> That huwts!
+<0064> Kyaa!
+<0065> Not good enough.
+<0066> You've got a ways to go.
+<0067> Is that aww you've got?
+<0068> Oh, how simpwe.
+<0069> Natuwawwy.
+<0070> My apowogies.
+<0071> Oh, it's ovew?
+<0072> Do come again.
+<0073> You'ww pay fow this.
+<0074> This... doesn't bothew me.
+<0075> How dawe you.
+<0076> Ha... hahahaha.
+<0077> I'ww take these.
+<0078> Weww, not bad.
+<0079> I accept.
+<0080> Just what I was waiting fow.
+<0081> Just a twifwe.
+<0082> Hmph.
+<0083> Heheh.
+<0084> What? That much?
+<0085> Oh no!
+<0086> What the heck?
+<0087> Ngh.
+<0088> Someone set a twap!
+<0089> Did you think I wouwd be afwaid?
+<0090> Oh, it seems wike something's hewe.
+<0091> ...It's huge.
+<0092> You'we not as tough as you wook.
+<0093> I'ww cowwect staws.
+<0094> Weww, I'ww cowwect them wight away.
+<0095> So many is kind of a pain.
+<0096> It's okay if I steaw them, wight?
+<0097> I diswike savagewy, but...
+<0098> It's the same eithew way.
+<0099> Thewe's no need to howd back, wight?
+<0100> Hahaha... this has gotten fun.
+<0101> A good decision.
+<0102> I'm pwepawed.
+<0103> Oh, gweetings.
+<0104> M-me?
+<0105> I'm heading out.
+<0106> Now then, wet us begin.
+<0107> Oh good gwief.
+<0108> Awwow me to enjoy this.
+<0109> The obvious outcome.
+<0110> This is no big deaw.
+<0111> Awe we done now?
+<0112> I-it seems I won...
+<0113> I don't have this yet.
+<0114> This is pwetty good.
+<0115> Shouwd I twy using it?
+<0116> Oh, how spwendid.
+<0117> Undewstood.
+<0118> Vewy nice.
+<0119> Yes.
+<0120> No.
+<0121> What's this?
+<0122> Whatevew.
+<0123> What is it?
+<0124> Wet's head out.
+<0125> How wiww it go?
+<0126> I'm going.
+<0127> Gweetings.
+<0128> Ngh.
+<0129> Vewy good.
+<0130> Amazing!
+<0131> Hmph.
+<0132> Awwow me to use this.
+<0133> May I use this?
+<0134> What a cawd!
+<0135> This is a pwetty good cawd.
+<0136> Hmph! T-thanks, I guess...
+<0137> Oh, gweetings.
+<0138> Give up on being a piwot awweady.
+<0139> How dawe you!
+<0140> Isn't that dwess a bit showt?
+<0141> Stop speaking in such a stwange mannew.
+<0142> Chiwdwen shouwd go home.
+<0143> You pwane fanatics awe aww idiots!
+<0144> You'we a piwot too?
+<0145> ...Whoa.
+<0146> How vuwgaw...
+<0147> A pewvewt has appeawed.
+<0148> Ah... I can't see anything.
+<0149> Such a cheap fwavow...
+<0150> To... wose to a wowwy beast!
+<0151> I want this fow my home.
+<0152> This weawwy was a nuisance.
+<0153> They made such a stupid thing.
+<0154> I'm not angwy, okay?
+<0155> What a shamewess cawd!
+<0156> I'm bowwowing youw powew!
+<0157> Eww... my cwothes awe a mess now!
+<0158> The tea is sewved, it's going to be a pewfect paw- gyah?!
+<0159> So coow...

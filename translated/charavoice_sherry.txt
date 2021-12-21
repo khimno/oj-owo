@@ -1,0 +1,156 @@
+<0000> Ey!
+<0001> Toh.
+<0002> Thewe!
+<0003> Thewe you go!
+<0004> I'ww use a cawd.
+<0005> How about I pway this?
+<0006> Wike this?
+<0007> This is it!
+<0008> I'm setting this hewe.
+<0009> This ought to be fun.
+<0010> I'm putting a cawd down hewe.
+<0011> Who's going to wawk into this, I wondew?
+<0012> Hewe's my speciaw cawd.
+<0013> It's now ow nevew.
+<0014> I'ww pway this cawd hewe!
+<0015> I have something good.
+<0016> Aww wight, wet's get stawted!
+<0017> I got hew wunning again.
+<0018> Aww wight, we'we back up.
+<0019> Wepaiws compwete.
+<0020> Okay, it's time to wesume!
+<0021> Faiwed to westawt the engine.
+<0022> We can't move yet.
+<0023> Guess we'ww have to wait a wittwe mowe.
+<0024> We'ww be weady soon.
+<0025> Take that!
+<0026> Fiwe!
+<0027> Eeey!
+<0028> How do you wike that!
+<0029> Ouch!
+<0030> How dawe you!
+<0031> That huwts.
+<0032> That came fwom a bwind spot!
+<0033> Time fow wepaiws...
+<0034> With this... evewything's fine.
+<0035> Ah, it saved my wife.
+<0036> That's a wewief.
+<0037> Oh, deaw.
+<0038> Goodness.
+<0039> Whewe wiww it fwy me ovew?
+<0040> This is so thwiwwing!
+<0041> We got beaten.
+<0042> Oh no, she's bwoken...
+<0043> She needs wepaiws.
+<0044> We won't be abwe to fwy fow a whiwe.
+<0045> Bwing it on!
+<0046> I wequest that you fight me.
+<0047> Hewe I come!
+<0048> I won't go easy!
+<0049> So you want to fight me?
+<0050> Wet me see what you've got.
+<0051> If you want to fight, I am game.
+<0052> Don't be shy to chawwenge me.
+<0053> Pwepawe youwsewf!
+<0054> Can you dodge this!
+<0055> Thewe!
+<0056> Got you!
+<0057> Good wowk.
+<0058> Ouch!
+<0059> Did I get hit!?
+<0060> I got hit!
+<0061> Owww!
+<0062> That was vewy good!
+<0063> This is bad.
+<0064> That weawwy huwt.
+<0065> That was so cwose.
+<0066> You can't hit me.
+<0067> Not good enough.
+<0068> You stiww have a wong way to go.
+<0069> Victowy!
+<0070> One down!
+<0071> I won this one.
+<0072> I hope to fight you again.
+<0073> You defeated me.
+<0074> I wost.
+<0075> You'we good.
+<0076> I suwwendew.
+<0077> I wike this.
+<0078> Good pwogwess.
+<0079> How nice!
+<0080> I'ww keep getting mowe and mowe.
+<0081> Oh, that's unfowtunate.
+<0082> I don't wike this.
+<0083> Not faiw.
+<0084> Oh no.
+<0085> Oh, deaw.
+<0086> Someone got me.
+<0087> Ah, this is annoying.
+<0088> Who set this up?
+<0089> That's some enemy. 
+<0090> Oh, what a suwpwise.
+<0091> Wooks wike big twoubwe.
+<0092> Weww, what shouwd I do now?
+<0093> I'ww gathew staws.
+<0094> I'd wathew go fow staws.
+<0095> Wet's gathew pwenty.
+<0096> This is my choice.
+<0097> Fufu, I guess I feew wike doing this.
+<0098> I'm enjoying mysewf.
+<0099> How savage.
+<0100> This is what I usuawwy do.
+<0101> Me? Suwe.
+<0102> So you want to go with me.
+<0103> I bewieve in you.
+<0104> Wet's give it ouw aww.
+<0105> Wet's get pumped.
+<0106> I'm so excited.
+<0107> I can't wait to have fun.
+<0108> Bwing it!
+<0109> Boy, was that fun.
+<0110> Easy win.
+<0111> Wet's go get Isway and toast to my victowy.
+<0112> Wet's have anothew wound.
+<0113> I had no idea thewe was something wike this.
+<0114> Oh, I'm gwad I got this.
+<0115> Wet's add it to the cowwection.
+<0116> I'ww take it.
+<0117> Good.
+<0118> Nice.
+<0119> Yes.
+<0120> No.
+<0121> That's bad.
+<0122> Ah, tawk about wucky.
+<0123> What is it?
+<0124> Now, wet's go!
+<0125> Hewe goes!
+<0126> Go, go.
+<0127> Hewwo.
+<0128> Hmm...
+<0129> Thewe, thewe.
+<0130> You impwessed me.
+<0131> Uh-oh.
+<0132> Seems wike a fun cawd to pway!
+<0133> Good to know I can do this.
+<0134> Not suwe what this does... but, hewe goes!
+<0135> Awwow me to use this one.
+<0136> Come at me, Mawc!
+<0137> Fufu, I've been waiting fow this moment.
+<0138> You stiww have a wot to wowk on, wittwe wascaw.
+<0139> Awe those eaws in fashion these days?
+<0140> No going easy on me, pwease.
+<0141> Do you have any idea how ungentwemanwy you wook wight now?
+<0142> Behave youwsewf, okay?
+<0143> You'we one dangewous giww.
+<0144> Wow, that's quite a magic twick.
+<0145> Just wooking at hew... makes me wanna wike hew; I wondew why.
+<0146> You'we as much of a smaww fwy as you wook.
+<0147> It's not as safe as it used to be awound hewe.
+<0148> I'm getting the thwiwws!
+<0149> We'ww decide who's stwongew once and fow aww.
+<0150> It's mine now.
+<0151> Taking aim.
+<0152> I'ww chawwenge you! Just kidding.
+<0153> What kind of equipment wiww I get?
+<0154> It's not good fow you to sweep down thewe.
+<0155> Maybe I ovewdid it a wittwe.

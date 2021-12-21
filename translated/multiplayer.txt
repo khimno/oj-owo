@@ -1,0 +1,137 @@
+< FREEBATTLE_CREATELOBBY >
+Campaign mode
+< FREEBATTLE_JOINLOBBY >
+Join Wobby
+< FREEBATTLE_SINGLEPLAYER >
+Fwee pway
+< FREEBATTLE_RETURN >
+Back
+< LOBBYLIST_RETRIEVINGLOBBIES >
+Wetwieving game wobbies.\nPwease wait...
+< LOBBYLIST_RETRIEVINGDATA >
+Wetwieving wobby data...
+< LOBBYLIST_DATATIMEOUT >
+Wobby data timeout.
+< LOBBY_NOSTEAM >
+Couwd not connect to Steam.
+< LOBBY_CREATING >
+Cweating Steam wobby...
+< LOBBY_CREATEFAILED >
+Couwd not cweate Steam wobby.
+< LOBBY_CONNECTING >
+Connecting to wobby. Pwease wait...
+< LOBBY_CONNECTED >
+Connected to wobby.
+< LOBBY_CONNECTFAILED >
+Faiwed to connect to wobby.
+< LOBBY_NORESPONSE >
+No wesponse weceived.
+< LOBBY_GAMEABORTED >
+The game has been abowted.
+< LOBBY_JOINRESPONSE >
+Waiting fow wesponse fwom sewvew...
+< LOBBY_JOINFAILED >
+Couwdn't join the game.
+< LOBBY_FULL >
+The wobby is fuww.
+< LOBBY_STEAMID_EXISTS >
+SteamID awweady in game.
+< LOBBY_WRONGPASSWORD >
+Wwong passwowd.
+< LOBBY_BANNEDFROMLOBBY >
+You have been expewwed fwom this wobby.
+< LOBBY_VERSIONDIFFERENCE >
+Wobby vewsion is not compatibwe.
+< LOBBY_VERSIONUPDATE >
+Pwease update to the watest vewsion.
+< LOBBY_HOSTHASOLDVERSION >
+Wobby is using an owdew vewsion.
+< LOBBY_LEAVECONFIRM >
+Weave the wobby?
+< LOBBY_LEAVEWAIT >
+Exiting, pwease wait...
+< LOBBY_PLAYERLEFT >
+A pwayew has weft the game.
+< LOBBY_KICKCONFIRM >
+Weawwy kick this pwayew?
+< LOBBY_KICKED >
+Wemoved fwom the wobby.
+< LOBBY_PLAYERCONNECTIONLOST >
+Connection to a pwayew wost.
+< LOBBY_HOSTCONNECTIONLOST >
+Wost connection to host pwayew.
+< LOBBY_REMOVEDFORIDLING >
+You have been wemoved fow idwing.
+< LOBBY_CHANGING_OWNER >
+Changing wobby ownew...
+< LOBBY_REPLACINGPLAYER >
+Wepwacing with a CPU pwayew.
+< LOBBY_SPECTATOR_CONNECTING >
+A spectatow is connecting...
+< LOBBY_SPECTATOR_JOINREQUEST >
+wants to join...
+< LOBBY_SPECTATOR_JOINREQUESTING >
+Wequesting pewmission to join...
+< LOBBY_SPECTATOR_JOINDENIED >
+Join wequest wejected.
+< LOBBY_SPECTATOR_JOINNOPLAYERSLOTS >
+No mowe fwee pwayew swots.
+< LOBBY_SPECTATOR_JOIN1 >
+Spectatow
+< LOBBY_SPECTATOR_JOIN2 >
+wants to join as pwayew.
+< LOBBY_PLAYERTOSPECTATOR_CONFIRM >
+Change into spectatow?
+< LOBBY_SPECTATORTOPLAYER_CONFIRM >
+Change into pwayew?
+< CHAT_TYPEPROMPT >
+SYSTEM
+<Type a message and press ENTER.>
+--------
+< CHAT_NAME_SYSTEM >
+Can not mute sewf.
+< CHAT_NAME_EMPTY >
+You have muted %s.
+<empty>
+You have unmuted %s.
+< CHAT_NAME_DASHES >
+Wobby %s cweated!
+< CHAT_MUTE_SELF_ERROR >
+Joined wobby %s!
+< CHAT_MUTED_USER >
+%s has joined the wobby!
+< CHAT_UNMUTED_USER >
+The game has ended! Wetuwning to wobby.
+< CHAT_SYSTEM_LOBBYCREATED >
+Wequested fow pwayew swot fwom host...
+< CHAT_SYSTEM_LOBBYJOINED >
+Wequested fow spectatow swot fwom host...
+< CHAT_SYSTEM_PLAYERJOINEDLOBBY >
+Pwayew swot wequest timeout.
+< CHAT_SYSTEM_GAMEENDED >
+Spectatow swot wequest timeout.
+< CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
+%s is taking ovew fow Pwayew %d.
+< CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
+Switched to pwayew!
+< CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
+Switched to spectatow!
+< CHAT_SYSTEM_SPECTATORSLOTREQUESTTIMEOUT >
+%s has switched fwom pwayew to spectatow.
+< CHAT_SYSTEM_PLAYERTAKEOVER >
+%s has switched fwom spectatow to pwayew.
+< CHAT_SYSTEM_SWITCHEDTOPLAYER >
+%s has weft the game.
+< CHAT_SYSTEM_SWITCHEDTOSPECTATOR >
+Wost connection to %s.
+< CHAT_SYSTEM_PLAYERSWITCHEDTOSPECTATOR >
+Invite Pending
+< CHAT_SYSTEM_SPECTATORSWITCHEDTOPLAYER >
+Go to the Main Menu to join the game.
+< CHAT_SYSTEM_PLAYERHASLEFTGAME >
+Speed: %d
+< CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
+Speed: %d, %s, %s
+< GAMEINVITE_PENDING_TITLE >
+Quick join.
+[EOF]

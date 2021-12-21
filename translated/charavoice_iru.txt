@@ -1,0 +1,156 @@
+<0000> Hoy!
+<0001> Be a good woww.
+<0002> Toh!
+<0003> Give me a good numbew.
+<0004> I'ww pway a cawd!
+<0005> This is whewe I'ww use this!
+<0006> Aww wight, I'ww go with this one.
+<0007> Ehehe, hewe I come.
+<0008> A twap!
+<0009> This is totawwy my thing, too.
+<0010> Wet's see if someone'ww faww fow it.
+<0011> Mhfuu, this is a good twap.
+<0012> To make doubwy suwe!
+<0013> I'ww upgwade mysewf.
+<0014> A battwe cawd.
+<0015> I'ww destwoy you.
+<0016> Take this!
+<0017> Phew, I'd bettew be mowe cawefuw.
+<0018> Aww wight, I can move now.
+<0019> I'm gonna tuwn the tide now!
+<0020> The game isn't ovew yet.
+<0021> I messed up...
+<0022> Stiww no good? Dang it.
+<0023> I guess I'ww take some mowe west.
+<0024> Uuu.
+<0025> I'ww shoot thwough you!
+<0026> Thewe!
+<0027> I'ww hit you.
+<0028> How's that?!
+<0029> Ouch.
+<0030> How dawe you?!
+<0031> Oww!
+<0032> Whoa.
+<0033> I'm cuwed!
+<0034> Phew, I feew awive again.
+<0035> Wow, I'm getting bettew.
+<0036> Aww wight, I can stiww win this!
+<0037> A wawp!?
+<0038> Uwaah...
+<0039> What the?!
+<0040> I'm wawping!
+<0041> Wet me get some west.
+<0042> Ugh, I can't stand up.
+<0043> Kyuu...
+<0044> I scwewed up...
+<0045> Wet's battwe!
+<0046> I'ww put up a fight fow you!
+<0047> Now, wet's fight.
+<0048> It's battwe time!
+<0049> Oh, suwe, absowutewy!
+<0050> Hehe, aww wight! Bwing it on!
+<0051> You'we wawing to go, huh.
+<0052> I won't wose!
+<0053> Teyah!
+<0054> Stay put, okay?
+<0055> Eat this!
+<0056> Shot!
+<0057> Kyah.
+<0058> Wah.
+<0059> You'we good!
+<0060> Wafu!
+<0061> That huwts!
+<0062> Uwah!
+<0063> This isn't funny!
+<0064> That was intense!
+<0065> You can't hit me!
+<0066> Tawk about swow.
+<0067> Yoh.
+<0068> Ahaha, whewe wewe you aiming?
+<0069> Easy peasy!
+<0070> I did it.
+<0071> That was fun. Wet's do this again sometime.
+<0072> I won!
+<0073> Man, you got me...
+<0074> You'we stwong. I'm impwessed.
+<0075> Uuu, I can't bewieve I wost.
+<0076> Boy, I can't move anymowe.
+<0077> I got staws!
+<0078> So, I can get staws wike this, huh.
+<0079> Wow, staws.
+<0080> Wucky me!
+<0081> That was a fwop!
+<0082> I dwopped staws!?
+<0083> Gyaan!
+<0084> Wait, wait up!
+<0085> A twap!?
+<0086> Why hewe!?
+<0087> I feww fow it!
+<0088> Not hewe...!
+<0089> Whoa, a boss appeawed!
+<0090> Hewe's a stwong-wooking one.
+<0091> I shouwd keep my guawd up when I get cwosew.
+<0092> I can teww... that guy's stwong.
+<0093> Mhm, I feew wike going fow staws.
+<0094> I'ww win in staws and win this game!
+<0095> Gathew staws? Okay!
+<0096> Staws wook adowabwe, don't they?
+<0097> I'ww battwe a wot!
+<0098> Battwe, battwe!
+<0099> I choose to fight!
+<0100> Fighting's just my cup of tea.
+<0101> Hi thewe, I'm Iwu.
+<0102> Me? Suwe, why not? Wet's go!
+<0103> Aww wight, wet's get down to it!
+<0104> Count on me!
+<0105> Aww wight, I'ww give this my best shot!
+<0106> I'ww win this match.
+<0107> Aww wight, wet's have some fun awound hewe.
+<0108> I'm going to take down evewyone.
+<0109> That was so much fun. One mowe wound!
+<0110> Yay! I won out!
+<0111> I won! I won!
+<0112> I won... and it's no suwpwise.
+<0113> Good fow you! You got something new!
+<0114> You got something good? I'm happy fow you!
+<0115> Did you get what you wanted?
+<0116> You got someting good!
+<0117> Okay!
+<0118> Suwe.
+<0119> Yeah.
+<0120> No.
+<0121> Uee...
+<0122> Wooking good!
+<0123> Mhm?
+<0124> Come on, wet's go!
+<0125> Dice!
+<0126> Hewe we go!
+<0127> Yah!
+<0128> Mhm...
+<0129> Oh, that's coow!
+<0130> That's awesome, weawwy!
+<0131> What... You've got to be kidding me...
+<0132> I'ww use this cawd.
+<0133> Hehe, I wanted to pway this one.
+<0134> I wondew what this one does.
+<0135> Not suwe what'ww happen, but I'ww use this anyway.
+<0136> Saki, we shouwd battwe once in a whiwe!
+<0137> Oh, you up fow a fight? You'we gonna make me some sweets if I win, okay?
+<0138> Aww wight, you'we gonna make me some cake today.
+<0139> Ehehe, you'we stwong.
+<0140> Hey, wet me take a wook at what you'we equipped with!
+<0141> Wow, that's one coow mecha you got thewe!
+<0142> That was one good fight! We shouwd fight again!
+<0143> Youw equipment's incwedibwe... I have no wegwets wosing.
+<0144> Wow, youw aiwcwaft's owd-fashioned, but wooks weaw nice!
+<0145> Is that an aiwcwaft? Wow, it's badass.
+<0146> Give me a wide in youw aiwcwaft watew, okay?
+<0147> I wasn't taking youw owd-fashioned pwane wightwy... but you'we bettew than I thought.
+<0148> Hey, Kyoko... Wait, who awe you!?
+<0149> What!? Kyoko... No, it's not hew!
+<0150> Boy, who was this guy?
+<0151> Uu... So, who awe you?
+<0152> Whoa, is it okay to fight it? I think it is!
+<0153> Huh? Do I have to fight this thing!?
+<0154> I-I won! Aww wight!
+<0155> Uu, it's unfaiw to bwing out a giant wobot against me...

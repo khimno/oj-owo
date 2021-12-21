@@ -1,0 +1,162 @@
+<0000> Hewe I go.
+<0001> Thwow!
+<0002> Go!
+<0003> Thewe.
+<0004> I'm gonna use this cawd!
+<0005> I'm using a cawd.
+<0006> Hehehe.
+<0007> Weww, I wondew how this'ww go.
+<0008> It's a twap.
+<0009> I'm waying a twap.
+<0010> I wondew who'ww get caught in this.
+<0011> Kehehe.
+<0012> I'ww win with this.
+<0013> I'm going aww out.
+<0014> Take this!
+<0015> Battwe cawd!
+<0016> It's time fow a gambwe!
+<0017> Awwight!
+<0018> I'm wevived!
+<0019> Now it's my tuwn!
+<0020> I've got this!
+<0021> How stupid.
+<0022> You'we kidding...
+<0023> Damnit!
+<0024> I stiww can't do it...?
+<0025> Take that!
+<0026> Hyaa!
+<0027> Thewe!
+<0028> Eat this!
+<0029> Ugh.
+<0030> That huwts.
+<0031> Cwap...
+<0032> Owwwww...
+<0033> I'm heawed!
+<0034> I feew bettew.
+<0035> I can stiww keep going.
+<0036> Hah... Heavenwy...
+<0037> I'm fwying?!
+<0038> Whewe am I going?
+<0039> I've been sent fwyiiiiing.
+<0040> Woah!
+<0041> Aah...
+<0042> No way... not me...
+<0043> You... we... kidding...
+<0044> What the heww...?
+<0045> It's buwwying time.
+<0046> Wet's go.
+<0047> Pwepawe youwsewf!
+<0048> Weww then, wet's do this.
+<0049> Bwing it on.
+<0050> You want to chawwenge me? Gutsy, I give you that.
+<0051> Okay, come at me fwom any diwection.
+<0052> You think you can beat me?
+<0053> You'we swow.
+<0054> This is going to huwt a wittwe.
+<0055> Attack!
+<0056> Hewe I come!
+<0057> Oww.
+<0058> Ooooh.
+<0059> Not bad.
+<0060> Tch.
+<0061> Owww!!
+<0062> Cut me a wittwe swack hewe!
+<0063> Gaaaah!
+<0064> Geh.
+<0065> You think you can hit me?
+<0066> You can't hit me.
+<0067> I'm too quick.
+<0068> I can see youw moves as pwain as day.
+<0069> My win.
+<0070> Weww, this is the obvious outcome.
+<0071> Do you undewstand how tewwifying I am, now?
+<0072> Hehehe, this must be fwustwating.
+<0073> Ah, you'ww pay fow this...
+<0074> Ngh...
+<0075> I don't... accept this...
+<0076> How fwustwating!!
+<0077> Ka-ching, ka-ching.
+<0078> The staws awe mine!
+<0079> I'm wowwing in staws.
+<0080> How wucky!
+<0081> Waaaah!
+<0082> M-my staws...!
+<0083> No! My staws!
+<0084> Not good!
+<0085> A twap...!
+<0086> Sewiouswy?!
+<0087> A twap in a pwace wike this?!
+<0088> Someone got me...?!
+<0089> Hmm, this seems kind of dangewous.
+<0090> What's this? This one's dangewous.
+<0091> I get the feewing this one's a big-shot...
+<0092> This has gotten intewesting.
+<0093> I'ww cowwect staws.
+<0094> It's gotta be staws.
+<0095> I'ww cowwect staws and win big.
+<0096> Staws sound good.
+<0097> I'ww keep winning.
+<0098> Wawuda, to battwe!
+<0099> I'ww show you my powew.
+<0100> I'ww bwow you aww away!
+<0101> Oh, me?
+<0102> Hey thewe.
+<0103> I'ww give it my aww.
+<0104> It's my tuwn?
+<0105> We'we stawting.
+<0106> Weww then, wet's go.
+<0107> A new game is stawting.
+<0108> Wet's go and win.
+<0109> That was the obvious wesuwt.
+<0110> Weww, that's how it goes.
+<0111> Aww wight, a totaw victowy!
+<0112> Heh, that was pwetty fun.
+<0113> Something new?
+<0114> Oh, this is...
+<0115> Vewy nice.
+<0116> Now my battwe stwength has incweased.
+<0117> Okay.
+<0118> Nice.
+<0119> Yeah!
+<0120> Not good.
+<0121> Sewiouswy?
+<0122> Wucky!
+<0123> Hm?
+<0124> Awwight, wet's go!
+<0125> Hewe goes nothing.
+<0126> Hewe I go!
+<0127> Yo.
+<0128> Weww then...
+<0129> That's it!
+<0130> Amazing.
+<0131> What the heww...
+<0132> Youw powew bewongs to me.
+<0133> I'm bowwowing this fow a bit.
+<0134> Wet me use that.
+<0135> So this is how it feews!
+<0136> Thank you.
+<0137> Hewe I come, QP.
+<0138> Bwing it, QP!
+<0139> You wewe naive to think you couwd beat me, QP.
+<0140> No way, I wost to QP...
+<0141> I'ww test youw powew.
+<0142> Show me youw combined powews.
+<0143> Good twy, but you've stiww got a ways to go.
+<0144> You've gotten stwong... My compwiments.
+<0145> The most dangewous woman in the Wawuda... I'ww test youw twue powew!
+<0146> Woah, Kiwiko, you came out of nowhewe!
+<0147> Phew... You'we totawwy cwazy.
+<0148> Having you as an enemy is tewwifying...
+<0149> Thewe's no way I couwd wose to you...
+<0150> Tch, so you'we my opponent!
+<0151> I won somehow...
+<0152> Ngh, I wost aftew aww...
+<0153> Pudding, huh? O-hoho.
+<0154> Pudding with soy sauce tastes wike sea uwchin!
+<0155> You'we weawing some pwetty coow cwothes, missus!
+<0156> What's with this giww... she's sewiouswy fiwed up.
+<0157> Beat me, and I'ww buy you some food.
+<0158> Kwiwa! Awwight, you bwing it on!
+<0159> You'we stiww no match fow me.
+<0160> Whoa, you did way bettew than I thought you wouwd.
+<0161> A game pwayed onwy by Wawudas, wet's do it!

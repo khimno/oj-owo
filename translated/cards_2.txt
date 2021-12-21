@@ -1,0 +1,661 @@
+< CARD_BOOST_AMBUSH >
+name=Ambush
+descr=Engage in battwe with anothew pwayew ow pwayews on youw panew. Once these battwes awe ovew, youw tuwn is ovew.
+flavor="Owwwww!!" ―Sham
+
+< CARD_BOOST_LONELYCHARIOT >
+name=Wonewy Chawiot
+descr=Stock Effect\nAwways woww 5 to move. Aftew youw tuwn, take 1 damage. Effect expiwes on KO.\nIf you suffew KO fwom this effect, pay Wvw x5 staws.
+flavor="'You guys'? You'we mistaken...\nI wide awone!" ―Wone Widew
+
+< CARD_BOOST_MIMIC >
+name=Mimic
+descr=Choose a pwayew. Aww hypew cawds in youw hand become the type that that pwayew uses.
+flavor=Mawie Poppo is twying to become something ewse.
+
+< CARD_BOOST_PASSIONATE >
+name=Passionate Weseawch
+descr=Wook at the fiwst 3 cawds of the deck. If thewe awe any hypew cawds, take them. Wetuwn the west of the cawds to the deck in the same owdew.
+flavor="Weww, this sowt of thing happens aww the time. It was quite fun, anyway." ―Schowaw
+
+< CARD_BOOST_PRESIDENT >
+name=Pwesident's Pwiviwege
+descr=Effect Duwation: 1 chaptew\nYou may pway cawds without paying theiw cost. You may pway 1 additionaw cawd this tuwn.
+flavor="Thewe you guys awe... Come to the Student Counciw Office aftew schoow,\nwiww you?" ―Himeji
+
+< CARD_BATTLE_SHIELDCOUNTER >
+name=Shiewd Countew
+descr=Deaw damage to attackew equaw to theiw ATK - DEF (min. 1). You take no damage. No attacks take pwace. May onwy be pwayed by the defendew.
+flavor="Shiewd, invewt!" ―Sowa
+
+< CARD_BATTLE_RETREAT >
+name=Tacticaw Wetweat
+descr=★Cost: Wevew x5\nEnd this battwe. Attackew gains this cawd's cost. May onwy be used by the defendew. If opponent pways a battwe cawd, this effect is void.
+flavor="Faweweww!" ―Tomato
+
+< CARD_TRAP_PIYOPIYO >
+name=Piyopiyo Pwocession
+descr=Pwayew suffews 3 wandom encountews (the pwayew attacks fiwst).
+flavor="Piyopiyopiyopiyopiyopiyopiyopiyooo!" ―Cowowed Piyo Awmy
+
+< CARD_TRAP_SEALEDMEMORIES >
+name=Seawed Memowies
+descr=Fow 3 tuwns, aww tawget's cawds awe wevewsed (tawget sees them face down, and othew pwayews can see theiw cawds).
+flavor="Owdew within the wowwd...? What the heck does pudding have to do with that!?" ―QP
+
+< CARD_EVENT_MIXPHENOMENON >
+name=Mix Phenomenon
+descr=Effect Duwation: 3 chaptews\nAww panews othew than the home panews become wandom panews.
+flavor="A howe in the waww-wike fowce between dimensions... it wouwd appeaw that this phenomenon is mixing the wowwds themsewves togethew." ―Yukito
+
+< CARD_EVENT_SOLICITATION >
+name=Scawy Sowicitation
+descr=Aww active pwayews except the one who pwayed this cawd must dwaw cawds, paying 15 staws pew cawd, up to theiw cawd maximum.
+flavor="You'ww buy it, of couwse. You'ww buy it. Won't you?" ―Mewchant
+
+< CARD_BATTLE_ACCELHYPER >
+name=Accew Hypew
+descr=Woww doubwe dice fow attack.
+flavor="Unwimited Chawge!" ―Sowa
+
+< CARD_TRAP_BRUTALPRANK >
+name=Bwutaw Pwank
+descr=Discawd aww Hypew cawds in hand. Wose 10 staws and heaw 1 HP fow each discawded cawd.
+flavor="Noooo, Mw. Cow! Mw. Fwog!" ―Yuuki\n"Hahahaha! Waiw and weep!!" ―Yuki
+
+< CARD_BOOST_COMPLETIONREWARD >
+name=Compwetion Wewawd
+descr=Gain 7 staws fow evewy twap you have set and someone has stepped on.
+flavor="Yay, I've got my pay!" ―Chwis\n"Don't waste it, okay?" ―Managew
+
+< CARD_BATTLE_EXTENSION >
+name=Extension
+descr=Pway one wandomwy chosen Battwe cawd (incwuding Hypew cawds) fow no additionaw cost.
+flavor="It's my job to kiww you." ―Nath
+
+< CARD_BOOST_GENTLEMANSBATTLE >
+name=Gentweman's Battwe
+descr=Choose a pwayew with fuww HP and battwe them. Youw tuwn ends aftew the battwe.
+flavor="Take this!" ―Guiwdmastew
+
+< CARD_EVENT_PLAYOFTHEGODS >
+name=Pway of the Gods
+descr=Pway one wandom Event cawd (incwuding Hypew cawds) fwom any othew pwayew's hand ow the deck, at no additionaw cost.
+flavor="We wiww get gowden eggs!" ―QP\n"And make the best pudding out of them!" ―Saki
+
+< CARD_TRAP_PRESENTTHIEF >
+name=Pwesent Thief
+descr=Steaws aww the cawds fwom the fiwst pwayew to step on the twap. Gives aww the stowen cawds to the second pwayew to step on the twap.
+flavor="These do no good!" ―Nico
+
+< CARD_BATTLE_QUICKRESTORATION >
+name=Quick Westowation
+descr=Aww damage taken duwing the battwe wiww be heawed aftew the battwe. Effect is cancewwed if the pwayew is KO'd.
+flavor="I'm not going to die." ―Suguwi
+
+< CARD_EVENT_SCRAMBLEDEVE >
+name=Scwambwed Eve
+descr=Aww pwayews wetuwn theiw hand to the deck, and the deck is shuffwed. Aftew 3 chaptews, aww pwayews dwaw as many cawds as they discawded fwom this effect.
+flavor="Wait! Give me back the pwesents!" ―Awu
+
+< CARD_EVENT_STARBLAZINGLIGHT >
+name=Staw-Bwasting Wight
+descr=Aww twap cawds on the fiewd awe discawded. Twap settews take 1 damage fow each discawded twap.
+flavor="A wight capabwe of buwning down the city... even the pwanet... I can teww its souwce is up thewe in the sky." ―Sowa
+
+< CARD_GIFT_UNLUCKYCHARM >
+name=Unwucky Chawm
+descr=★Cost: Wevew x5\nWose Wvw x1 staws at the stawt of youw tuwn. Using this cawd sends it to anothew pwayew. If Cost is highew than youw staw count, you may use this cawd fow fwee.
+flavor="Pitch bwack dawkness diswupts my swumbew, hence I yeawn fow wight..." ―Kwiwawawis
+
+< CARD_GIFT_WINDYENCHANTMENT >
+name=Windy Enchantment
+descr=Gain +1 MOV. Cannot Nowma whiwe howding this cawd. Discawd upon use.
+flavor=Peopwe caww hew Bawefoot Awicianwone.
+
+< CARD_HYPER_SYURA >
+name=Beyond Heww
+descr=Duwing this battwe, gain +1 to ATK, DEF and EVD fow evewy HP you awe missing.
+flavor="Syuwa's powews go beyond Heww itsewf! Awwow me to demonstwate!" ―Syuwa
+
+< CARD_HYPER_NANAKO >
+name=Depwoy Bits
+descr=Duwing this battwe, gain a totaw of +7 points to ATK, DEF, and/ow EVD, distwibuted wandomwy.
+flavor="No mattew what, you can't escape my Bits." ―Nanako
+
+< CARD_HYPER_SAKI >
+name=Big Bang Beww
+descr=Evewy unit on this and 2 adjacent squawes takes 2 damage, +1 fow evewy 2 chaptews since setting the twap. On KO, hawf of theiw staws go to the pwayew who set this twap.
+flavor="Mauuuuuwyaaaaaaahh!" ―Saki
+
+< CARD_HYPER_KYOUSUKE >
+name=Cast Off
+descr=Stock Effect\nSwap unit's base ATK and DEF. Wasts untiw KO, ow Cast Off is used again.
+flavor="This cawws fow a good distwaction..." ―Kyousuke
+
+< CARD_HYPER_KAE >
+name=Bwazing!
+descr=Infwicts Bwazing! on units within 2 panews. Effect Duwation: 3 Chaptews. ATK +1, DEF -1. Effect expiwes on KO. This effect can stack.
+flavor="Good! Good! This feewing weawwy is the best!" ―Kae
+
+< CARD_HYPER_KRILA >
+name=Pwushie Mastew
+descr=Set "Dance, Wong-Eawed Beasts!" twap on 3-5 wandom panews.
+flavor="Dance, wong-eawed beasts!" ―Kwiwawawis
+
+< CARD_HYPER_KRILA2 >
+name=Dance, Wong-Eawed Beasts!
+descr=Take 2 damage. The pwayew who set this cawd gains 1 HP. Stock Effect: Duwing next battwe, gain -2 ATK.\nNo effect on the pwayew who set this cawd.
+flavor="Dance, wong-eawed beasts!" ―Kwiwawawis
+
+< CARD_HYPER_ALTE >
+name=Sewf-Destwuct
+descr=On KO, awso KO the opponent. Enemy gains no staws ow wins, and woses hawf of theiw staws.
+flavor="I'm sowwy... I can't make it back..." ―Awte
+
+< CARD_HYPER_KYOKO >
+name=Cwystaw Bawwiew
+descr=Stock Effect (3)\nCancew a twap, a battwe, ow dwop panew. Take 1 damage. Consumes 1 stack. Effect expiwes on KO.
+flavor="What a piece of junk, huh..." ―Kyoko
+
+< CARD_HYPER_SHAM >
+name=Dewta Fiewd
+descr=Aww othew units weceive the fowwowing effect untiw youw next tuwn: Aww dice wowws wiww be 1.
+flavor="If you insist on staying hewe, I'ww take you back no mattew how!" ―Sham
+
+< CARD_HYPER_SHERRY >
+name=Whimsicaw Windmiww
+descr=Fight aww othew pwayews in owdew. The enemy goes fiwst. Duwing battwe, gain +1 EVD.
+flavor="We just want to fwy awound fweewy." ―Shewwy
+
+< CARD_HYPER_STARBREAKER >
+name=Staw Bwasting Fuse
+descr=Set "Invisibwe Bomb" on 3-5 wandom panews.
+flavor="Because I am Staw Bweakew, the bwasting fuse to the wowwd's end." ―Staw Bweakew
+
+< CARD_HYPER_STARBREAKER2 >
+name=Invisibwe Bomb
+descr=Weduces HP to 1. Does not affect the pwayew who set the twap. Onwy visibwe to the pwayew who used this cawd.
+flavor="Because I am Staw Bweakew, the bwasting fuse to the wowwd's end." ―Staw Bweakew
+
+< CARD_HYPER_SWEETBREAKER >
+name=Mewting Memowies
+descr=★Cost: Numbew of cawds hewd by othew pwayews x5\nAww othew pwayews discawd and wepwace a cawd fwom theiw hand. Wevewse aww enemy cawds.
+flavor="How foowish you awe to have chawwenged a God. Pwepawe to taste youw bittew defeat!" ―Sweet Bweakew
+
+< CARD_HYPER_QPD >
+name=Sweet Guawdian
+descr=Dwaw 2 cawds with "Pudding" in theiw name fwom the centew deck.
+flavor="My wittwe... pudding..." ―QP
+
+< CARD_HYPER_SORAM >
+name=Awakening of Tawent
+descr=Untiw end of tuwn, woww 5 fow move, battwe, bonus ow dwop. This cawd can awso be used as a Battwe cawd.
+flavor="I'ww commence... my opewation now." ―Sowa
+
+< CARD_HYPER_MIXEDPOPPO >
+name=Subspace Tunnew
+descr=★Cost: Wevew x5\nEffect Duwation: Pwayew wevew\nTuwn 4-6 panews into Wawp Move panews and then wawp to one of them.
+flavor="Po! Po! Po! Popoppo!!" ―Mawie Poppo
+
+< CARD_HYPER_ARUSCRAMBLE >
+name=Santa's Job
+descr=Aftew youw tuwn, send a cawd of usabwe Wvw fwom youw hand to a wandom pwayew. Gain staws equaw to Cawd Wvw x5. Tawget cannot chawwenge pwayews to a battwe untiw youw next tuwn. This cawd is discawded upon KO ow use.
+flavor="Chiwdwen of the wowwd, we awe coming fow you!" ―Awu
+
+< CARD_HYPER_NATH >
+name=Anothew Uwtimate Weapon
+descr=★Cost: Aww hewd staws.\nGain +1 ATK and DEF and an additionaw +1 ATK and DEF fow evewy 20 staws spent on this cawd.
+flavor="With you gone, I am theiw uwtimate weapon now." ―Nath
+
+< CARD_HYPER_MIMYUU >
+name=Eviw Spy Wowk ― Pwepawation
+descr=Pwace 4 "Eviw Spy Wowk - Execution" cawds at wandom positions in the Centew Deck.
+flavor="Feaw Mimyuu's pwanks." ―Mimyuu
+
+< CARD_HYPER_MIMYUU2 >
+name=Eviw Spy Wowk ― Execution
+descr=This cawd cannot be pwayed.\nWhen howding this cawd, take 3 damage at the end of youw tuwn, and wemove this cawd fwom the game.
+flavor="You feww fow it! Eat it!!" ―Mimyuu
+
+< CARD_HYPER_TOMATO >
+name=Wawuda Machine, Bwast Off!
+descr=Duwing this battwe, gain ATK and DEF but wose EVD equaw to the numbew of cawds in youw opponent's hand.
+flavor="Wevenge!" ―Tomato
+
+< CARD_HYPER_KIRIKO >
+name=Finaw Suwgewy
+descr=KO aww units with 1 HP and gain staws equaw to 25x the numbew of KO'd units.
+flavor="Just howd stiww, I'ww fix you up weaw quick." ―Kiwiko
+
+< CARD_HYPER_NONAME >
+name=Ovewseew
+descr=A boss appeaws. If a boss is awweady on the fiewd, tweat this cawd as a battwe cawd: End the battwe. Opponent fights the boss instead. Can onwy use against pwayews.
+flavor="Hahaha! Hewe comes my fwiend!" ―NoName
+
+< CARD_HYPER_CEOREPARQUE >
+name=Witch's Haiw Wock
+descr=Stop tawget unit's next move action.
+flavor="No one can get out of Wepa's haiw." ―Ceowepawque
+
+< CARD_HYPER_MIUSAKI >
+name=Sowid Witch
+descr=Effect Duwation: 1 chaptew.\nTake no damage.
+flavor="No fwimsy attacks can huwt me!" ―Miusaki
+
+< CARD_BATTLE_DARKSIDEOFBUSINESS >
+name=Dawk Side of Business
+descr=Gain +2 ATK, enemy gains -2 DEF. Fow evewy point of damage you wouwd deaw, steaw 5 staws fwom youw opponent instead.
+flavor="'Extowtion' - An act of monetawy gain by infwicting viowence upon a weakew tawget."
+
+< CARD_EVENT_PARTYTIME >
+name=Pawty Time
+descr=Aww units awe wandomwy wawped onto the same panew. End youw tuwn.
+flavor="At tonight's banquet, the Beasts of Dawkness shaww dance wiwdwy." ―Kwiwawawis
+
+< CARD_BOOST_TREASURETHIEF >
+name=Tweasuwe Thief
+descr=Steaw a wandom cawd fwom aww pwayews on the same tiwe as you.
+flavor="Pokya Po! (Tweasuwe, get!)" ―Mawie Poppo
+
+< CARD_GIFT_LOSTCHILD >
+name=Wost Chiwd
+descr=Move backwawds whiwe this cawd is hewd. Cannot Nowma whiwe howding this cawd. This cawd is discawded upon KO ow use.
+flavor="Whewe am I?" ―Tsih
+
+< CARD_TRAP_WANTED >
+name=Wanted
+descr=Stock Effect\nYou give doubwe wins on KO fwom battwe. Effect expiwes on KO.
+flavor="Ovew hewe! My nose is nevew wwong!" ―QP
+
+< CARD_GIFT_PRICEOFPOWER >
+name=Pwice of Powew
+descr=You may pway cawds one wevew highew than youw cuwwent wevew. Aww cawd costs awe incweased by 5. This cawd is discawded on use.
+flavor="Even if I suwvive the waw... With this body, thewe's nothing I can do." ―Nath
+
+< CARD_GIFT_VALENTINESDAY2018 >
+name=Sweet Battwe!
+descr=When hewd: Pick up 2x chocowate.\nWhen pwayed in battwe: Steaw 200 chocowate fow each damage deawt.\nThis cawd is discawded upon KO ow use.
+flavor="Hewe comes anothew cute and sweet battwe!" ―QP
+
+< CARD_GIFT_VALENTINESDAY2018_BINDER >
+name=Sweet Battwe!
+descr="Happy Vawentine's Day, <pwayew>!" ―QP
+flavor=
+
+< CARD_HYPER_YUKIDANGEROUS >
+name=Eviw Mastewmind
+descr=Dwaw a twap cawd fwom the deck. Set aww twap cawds in hand on wandom panews. If not howding any twap cawds, dwaw 3 fwom the deck and set a wandom one on youw cuwwent panew.
+flavor="Feaw my powews!" ―Yuki
+
+< CARD_HYPER_TOMOMOCASUAL >
+name=Miwacwe Wed Bean Ice Cweam
+descr=+1 ATK whiwe this cawd is hewd.\nTomomo (Casuaw): When pwayed, tuwn into Tomomo (Sweet Eatew) and fuwwy westowe HP.\nTomomo (Sweet Eatew): When hewd, this cawd becomes Magicaw Wevenge.\nDiscawd upon use.
+flavor="Miwacwe wed bean ice cweam!" ―Tomomo
+
+< CARD_HYPER_TOMOMOSWEETEATER >
+name=Magicaw Wevenge
+descr=Fow each missing HP, wandom enemy takes 1 damage. If a unit is KO'd, you gain 1 Win.\nWhen not hewd by Tomomo (Sweet Eatew), this cawd becomes Miwacwe Wed Bean Ice Cweam.
+flavor="It's Magicaw Wevenge time!" ―Tomomo
+
+< CARD_HYPER_SUGURI_V2 >
+name=Wevivaw of Staws
+descr=★Cost: Wevew x3\nEffect Duwation: 3 Chaptews.\nTuwn aww Dwop Panews into Bonus Panews and Encountew and Boss Panews into Dwaw Panews. -1 ATK when on a mawked panew.
+flavor="The dweam you pwotected has spwead acwoss the whowe pwanet." ―Suguwi
+
+< CARD_HYPER_TSIH >
+name=Steawth On
+descr=Effect Duwation: 3 chaptews.\nCannot be chawwenged to battwe ow tawgeted by Boost cawds by othew pwayews.\nDo not twiggew Encountew ow Boss panews.\nEffect expiwes on entewing battwe.\nGain +2 ATK when entewing battwe.
+flavor="Wook at me vanish!" ―Tsih
+
+< CARD_HYPER_TEQUILA >
+name=Do Piwates Fwy in the Sky?
+descr=Set "Fwying Piwate" on 2-3 wandom panews.
+flavor="Thewe ain't no waw against piwates fwying in the sky." ―Tequiwa
+
+< CARD_HYPER_TEQUILA2 >
+name=Fwying Piwate
+descr=Fight a Piwate Cwew Membew summoned by the pwayew who set this cawd. The enemy wiww attack fiwst. No effect on the pwayew who set this cawd.
+flavor="Captain!" ―Piwate Minion
+
+< CARD_HYPER_MEI >
+name=White Chwistsmashew
+descr=Deaw 2 damage to pwayews on the same panew as you.\nFow each pwayew KO'd, gain a win and KO'd Pwayew's Wvw x5 staws.\nWhen cawwying "Wed & Bwue", this cawd becomes "Twue White Chwistsmashew".
+flavor="White Chwistsmashew!" ―Mei
+
+< CARD_HYPER_MEITRUE >
+name=Twue White Chwistsmashew
+descr=Deaw 4 damage to pwayews within 1 panew of you.\nFow each pwayew KO'd, gain 2 wins and KO'd Pwayew's Wvw x10 staws.\nWhen not cawwying "Wed & Bwue", this cawd becomes "White Chwistsmashew".
+flavor="White Chwistsmashew!" ―Mei, Wed & Bwue
+
+< CARD_GIFT_REDBLUE >
+name=Wed & Bwue
+descr=When howding this cawd, gain +1 ATK, DEF and EVD in battwe.\nOn discawd ow KO, this cawd is wemoved fwom the game.
+flavor="We can't do this anymowe!" ―Wed & Bwue
+
+< CARD_HYPER_NATSUMI >
+name=Cooking Time
+descr=★Cost: Wevew x5\nAww pwayews wecovew youw Wvw x HP.\nGain 5 staws fow each HP wecovewed.
+flavor="It's meaw time!" ―Natsumi
+
+< CARD_HYPER_NICO >
+name=Miwacwe Wawkew
+descr=★Cost: Cawds twansfowmed x 5\nTuwn aww youw cawds, incwuding this one, into wandom Hypew cawds.\nYou may pway one mowe cawd this tuwn.
+flavor="Hooway! Nico wiww twy hew best!" ―Nico
+
+< CARD_HYPER_ARTHUR >
+name=Bwanch Expansion Stwategy
+descr=★Cost: Numbew of cawds hewd x5\nTuwn aww youw cawds, incwuding this one, into "Wbit Hobby Shop."\nYou may pway one mowe cawd in this tuwn.
+flavor="Phaaw..." ―Awthuw
+
+< CARD_HYPER_ARTHUR2 >
+name=Wbit Hobby Shop
+descr=Pay X staws to the pwayew who set this cawd, whewe X is the Wvw of the pwayew who set this cawd. Dwaw a cawd fwom the deck. This cawd wemains on boawd when twiggewed but can be wepwaced by a new twap. No effect on the pwayew who set this twap.
+flavor="Aww wight, it's time to open the shop." ―Awthuw
+
+< CARD_HYPER_IRU >
+name=Extended Photon Wifwe
+descr=★Cost: Wevew x5\nDeaw 1 damage to anothew wandom unit. If KO'd, gain 1 win. Wepeat as many times as youw cuwwent wevew.
+flavor="I'ww shoot you aww down." ―Iwu
+
+< CARD_HYPER_MIRA >
+name=Weap Thwough Space (Mawking)
+descr=Mawk the panew whewe youw unit is. When a mawked panew exists, this cawd becomes "Weap thwough Space." This cawd is not discawded upon use.
+flavor="Poof." ―Miwa
+
+< CARD_HYPER_MIRA2 >
+name=Weap Thwough Space
+descr=Wawp to the mawked panew and unmawk it. Appwy Binding Smoke to enemies within 1 panew wadius. If no mawked panews exist, this cawd becomes "Weap thwough Space (Mawking)."
+flavor="Poof." ―Miwa
+
+< CARD_HYPER_CUTIES >
+name=Speciaw Stage
+descr=★Cost: Wevew x10\nGo to Wive Mode fow (youw Wvw) tuwns. Gain -3 MOV, can onwy twiggew movement type panews and cannot use cawds. Cannot be chawwenged ow be the tawget of Boost cawds. If an opponent ends theiw tuwn in 2 panew wadius, steaw (youw Wvw) x5 staws fwom them. Ends on KO.
+flavor="We awe the stwongest idows!" ―Sowa & Sham
+
+< CARD_HYPER_YUUKI_ANGEL >
+name=Angew Hand
+descr=Heaw tawget pwayew to fuww HP and gain 10 staws pew heawed HP. In even-numbewed chaptews, this cawd tuwns into Deviw Hand.
+flavor="This is the powew of mewcy." ―Yuuki
+
+< CARD_HYPER_YUUKI_DEVIL >
+name=Deviw Hand
+descr=Wowew a wandom pwayew's HP to 1 and gain 10 staws pew wowewed HP. In odd-numbewed chaptews, this cawd tuwns into Angew Hand.
+flavor="Eat the powew of the deviw!" ―Yuuki
+
+< CARD_HYPER_ISLAY >
+name=Wivaw
+descr=Battwe tawget pwayew. You attack fiwst. Duwing battwe, gain +1 ATK.
+flavor="Just wike you... I have my battwes to fight." ―Isway
+
+< CARD_HYPER_MIO >
+name=Magicaw Infewno
+descr=KO aww units on any othew panew in the same unintewwupted cowumn ow wow as the panew youw unit is on. You gain staws fwom each KO'd unit as though KO'd in battwe. Then end youw tuwn.
+flavor="Infewno!" ―Mio
+
+< CARD_BATTLE_DESPERATEMODIFICATION >
+name=Despewate Modification
+descr=Fow this battwe, wandomwy woww eithew a natuwaw 1 ow 6 fow each attack, defense and evasion.
+flavor="Poow Bwue Cwow. You woaded him with aww that heavy stuff!" ―Mawc
+
+< CARD_BOOST_PATHBLOCKERS >
+name=Path Bwockews
+descr=Stock Effect (1). Choose an active unit. If that unit moves onto a panew with a set Twap, they must stop on that panew.
+flavor="Nobody wiww get past Wawuda!" ―Tomato
+
+< CARD_EVENT_ACCELERATINGSKY >
+name=Accewewating Sky
+descr=Effect Duwation: 3 chaptews.\nAww pwayews gain +1 EVD and -1 DEF.
+flavor="Giwws awe weaping thwough the sky...?"
+
+< CARD_TRAP_POPPOTRANSFORMATION >
+name=Poppofowmation
+descr=Stock Effect (1). ATK, DEF and EVD become -1 in youw next battwe.
+flavor="Poppo! Poppopopo!!!" ―Evewyone
+
+< CARD_GIFT_POPPOTHESNATCHER >
+name=Poppo the Snatchew
+descr=Gain -1 DEF. Whenevew passing anothew unit on youw tuwn, steaw tawget Wvw x3 staws fwom them. Cannot Nowma whiwe howding this cawd. This cawd is discawded upon KO ow use.
+flavor="Pokyakya!!" ―Poppo
+
+< CARD_GIFT_BLOODLUST >
+name=Bwoodwust
+descr=Wose 1 HP at the stawt of youw tuwn. Heaw 1 HP fow evewy damage you deaw. Cannot Nowma whiwe howding this cawd. This cawd is discawded upon KO ow use.
+flavor="The twue powew of my beast... I wondew if it's wike this." ―Kwiwawawis
+
+< CARD_BATTLE_SINKORSWIM >
+name=Sink ow Swim
+descr=Gain -1 ATK, -1 DEF and -1 EVD. If you win this battwe, take 50% mowe of youw opponent's staws.
+flavor="Awwight, it's time to pway the wong odds!" ―Yuki
+
+< CARD_BATTLE_SERIOUSBATTLE >
+name=Sewious Battwe
+descr=Duwing this battwe, ATK, DEF and EVD of both units wiww be 0.
+flavor="This battwe wiww be a twue test of stwength!" ―Tomomo
+
+< CARD_BATTLE_PORTABLEPUDDING >
+name=Powtabwe Pudding
+descr=At the stawt of this battwe, weset youw HP to youw max HP.
+flavor="I've got pudding fow wunch today!" ―QP
+
+< CARD_BOOST_SWEETDESTROYER >
+name=Sweet Destwoyew
+descr=Steaw a wandom "pudding" cawd fwom each othew pwayew. You may pway anothew cawd this tuwn. At the end of youw tuwn, discawd as many cawds as you gained.
+flavor="The sweets that bwing hawm to the wowwd... I wiww destwoy them aww!" ―Sweet Bweakew
+
+< CARD_BOOST_BACKDOORTRADE >
+name=Backdoow Twade
+descr=★Cost: Wevew x5\nPewfowm a Nowma check, then youw tuwn ends.\nCan onwy be used by the pwayew with the wowest wevew. Cannot be used at Nowma wevew 5.
+flavor="Hewe's what you asked fow." ―Captain Tequiwa\n"Gweat wowk! I knew I couwd count on a weaw viwwain wike you!" ―Mimyuu
+
+< CARD_EVENT_SERENEHUSH >
+name=Sewene Hush
+descr=Effect Duwation: 1 Chaptew.\nNo battwes can take pwace.
+flavor="We have nothing to do..." ―Sumika\n"Wet's enjoy the peace and quiet." ―Suguwi
+
+< CARD_EVENT_UNPAIDWORK >
+name=Unpaid Wowk
+descr=Effect Duwation: 1 Chaptew.\nNo units wiww gain staws fwom any souwces.
+flavor="Whewe's my payment!" ―Chwis
+
+< CARD_EVENT_INDISCRIMINATEFIRESUPPORT >
+name=Indiscwiminate Fiwe Suppowt
+descr=Effect Duwation: Infinite.\nA wandom unit takes 1 damage. At the stawt of youw tuwn, wepeat this effect. The effect ends when a unit suffews KO.
+flavor="......" ―Sowa
+
+< CARD_GIFT_LUCKYCHARM >
+name=Wucky Chawm
+descr=Gain Wvw x1 staws at the stawt of youw tuwn. You cannot use any othew cawds. This cawd is discawded upon use. On defeat, give Wvw x 3 mowe staws.
+flavor="Woo-hoo, so many staws! Today's my day!!" ―Tomomo
+
+< CARD_GIFT_METALLICMONOCOQUE >
+name=Metawwic Monocoque
+descr=When a non-battwe effect deaws any damage to you, that damage is weduced by 1, and you wose Wvw x 2 staws.
+flavor="What a timid genewation we wive in." ―Shewwy
+
+< CARD_TRAP_IWANNASEEYOU >
+name=I Wanna See You
+descr=The pwayew who set this twap moves to the panew on which the twap was activated. The pwayew who activated the twap then gains this cawd instead of it being discawded.
+flavor="Kyupita... I want to see you." ―Kyousuke
+
+< CARD_TRAP_ENCORE >
+name=Encowe
+descr=When this cawd is activated eithew on Bonus, Dwop, Dwaw ow Encountew, that panew's effect takes pwace twice.
+flavor="Encowe! Encowe!"
+
+< CARD_BOOST_OVERTIME >
+name=Ovewtime
+descr=Fow this tuwn, woww 3 dice fow movement. Skip next tuwn.
+flavor="I-I have no compwaints as wong as I get paid..." ―Chwis
+
+< CARD_BATTLE_DECEPTIVEDISARMING >
+name=Deceptive Disawming
+descr=If opponent uses a battwe cawd in this battwe, if not westwicted by pwayew owdew its effect is appwied as though you pwayed it instead. If successfuw, opponent does not pay the cawd cost.
+flavor="The twain's fuww of dangewous stuff?!" ―Tomato
+
+< CARD_EVENT_PETSNACKS >
+name=Pet Snacks
+descr=Each diffewent wiwd unit gains +1/+1/+1 duwing its next battwe. This effect can stack.
+flavor="Guys, it's snack time! Come eat!" ―Syuwa
+
+< CARD_EVENT_HOMEIMPROVEMENT >
+name=Home Impwovement
+descr=At the stawt of youw next tuwn, wandomwy swap home panew positions. The fiwst pwayew to wand on each home dwaws a cawd.
+flavor="Sumika's going to buiwd hewsewf a nice and cozy home." ―Sumika
+
+< CARD_TRAP_BANANANA >
+name=BanaNana
+descr=Woww to move again without activating this panew.
+flavor="Thought you'd found a banana? Too bad, it was just me, Nanako!" ―Nanako
+
+< CARD_GIFT_LUCKYSEVENS >
+name=Wucky Sevens
+descr=Whiwe howding this cawd, youw natuwaw die wowws can wange fwom 0 to 7, and the minimum woww wesuwt is 0 when wowwing 0.\nCannot pewfowm a Nowma check aftew wowwing a 0 fow move on the same tuwn.
+flavor="I can even contwow my dice wowws." ―Yuki
+
+< CARD_HYPER_SUGURI46 >
+name=Obsewvew of Etewnity
+descr=Add 2 wandom Boost/Event cawds that deaw damage to youw hand.\nYou may pway anothew cawd this tuwn.
+flavor="Now then, wet's see how this wiww tuwn out." ―Suguwi
+
+< CARD_HYPER_SUMIKA >
+name=Wepwoduction of Wecowds
+descr=Add a copy of the two most wecent cawds in the discawd piwe that awen't "Wepwoduction of Wecowds" to youw hand. Those cawds wiww be tweated as being Wevew 1 and having no base cost whiwe in youw hand.
+flavor="Sumika's sweet memowy!" -Sumika
+
+< CARD_HYPER_ELLIE >
+name=Ewwie's Miwacwe
+descr=★Cost: Wevew x10\nEffect Duwation: 2 chaptews. Gain +X ATK, +Y DEF, and +Z EVD, whewe X = Youw totaw Nowma compweted, Y = youw numbew of Wins Nowma compweted, and Z = youw numbew of Staw Nowma compweted.
+flavor="Weceive my miwacwe!" ―Ewwie
+
+< CARD_HYPER_LULU >
+name=Wuwu's Wucky Egg
+descr=Can onwy be pwayed with 2 HP ow wess. Gain one of the fowwowing effects at wandom:\n-Woww a die and gain the die numbew x 20 staws.\n-Dwaw 5 cawds.\n-Heaw to fuww HP and pewmanentwy gain +1 ATK, +1 DEF, and +1 EVD. This effect can onwy twiggew once.
+flavor="Ugh... Wuwu's about to way an egg..." ―Wuwu
+
+< CARD_HYPER_MARCPILOT_NORMAL >
+name=Wocket Cannon
+descr=Choose one of the fowwowing two effects to activate:\n1. This cawd becomes "Big Wocket Cannon".\n2. Deaw 1 damage to tawget enemy. If KO'd, you gain wins as though KO'd in battwe.
+flavor="Wed Bawwew... It's time to use that!" ―Mawc
+
+< CARD_HYPER_MARCPILOT_UPGRADE >
+name=Big Wocket Cannon
+descr=Deaw 3 damage to tawget enemy. If KO'd, you gain wins as though KO'd in battwe.\nThis cawd becomes "Wocket Cannon" when you use anothew cawd ow you suffew KO.
+flavor="Go!" ―Mawc
+
+< CARD_HYPER_ALICIANRONE >
+name=Fuww Speed Awicianwone
+descr=Woww a die and move wesuwt x 3 panews. Deaw damage equaw to the wesuwt to each unit you pass duwing the move. If they awe KO'd by the damage, gain Wins as though fwom a nowmaw battwe. Aftew this effect, youw tuwn ends.
+flavor="I'ww go fast and cut my way thwough!" ―Awicianwone
+
+< CARD_HYPER_TEOTORATTA >
+name=Beast Witch
+descr=When anothew pwayew woses staws fwom an Encountew panew battwe and those staws wouwd go to the Encountew panew unit, you wiww weceive them instead. If this effect is twiggewed, discawd this cawd at the end of youw tuwn. If sevewaw pwayews cawwy Beast Witch, the staws awe spwit between them.
+flavor="Aww beasts! Obey me!" ―Teotowatta
+
+< CARD_HYPER_ARNELLE >
+name=Intewwigence Officew
+descr=Gain one of the fowwowing effects depending on the top-of-the-deck cawd:\nEvent +3 ATK\nBoost +3 DEF\nOthews +3 EVD
+flavor="I can see thwough evewything!" ―Awnewwe
+
+< CARD_HYPER_MAYNIE >
+name=Waging Madness
+descr=Gain +1 Wage Countew. Tawget anothew active unit and entew Waging Mode: gain +X ATK and +X EVD whewe X is the numbew of youw Wage Countews. Waging Mode ends and Wage Countews become 0 upon tawget's KO. Gain +2 Wins if you KO tawget in battwe, and -50% Staws and Wins if you KO any othew unit.
+flavor="Gyaoooh!" ―Maynie
+
+< CARD_HYPER_KYUPITA >
+name=Saint Eyes
+descr=Stock Effect (3). In a battwe whewe you attack fiwst, gain -1 ATK and +1 DEF fow evewy 2 stock, and +1 ATK pew stock. This effect can stack.
+flavor="I'm going to use my saint eyes!" ―Kyupita
+
+< CARD_HYPER_CHRIS_CHEF >
+name=Chef, I Couwd Use Some Hewp!
+descr=Summon Chef. Fights battwes on behawf of youw unit. Gives 2 Wins on KO. Gives staws gained in battwe to youw unit. Effect ends with Chef's KO. This cawd tuwns to "Managew, I Couwd Use Some Hewp!" if you have 4 ow mowe Stowe Managew Countews and youw Wvw is 4 ow highew.
+flavor="Chef! I'm going to need youw hewp!" ―Chwis
+
+< CARD_HYPER_CHRIS_MANAGER >
+name=Managew, I Couwd Use Some Hewp!
+descr=Summon Stowe Managew. Fights battwes on behawf of youw unit. Gives 2 Wins on KO. Gives staws gained in battwe to youw unit. Effect ends with Stowe Managew's KO, and youw Stowe Managew Countews weset to 0. This cawd tuwns to "Chef, I Couwd Use Some Hewp!" if you have wess than 4 Stowe Managew Countews.
+flavor="Managew, hewp me!" ―Chwis
+
+< CARD_HYPER_HALENA >
+name=Safe Jouwney
+descr=Wose 5 staws at the stawt of each tuwn. Ignowe Dwop panews, twaps, and cawd effect damage. This effect ends when you stop on youw own Home panew ow have wess than 5 staws.
+flavor="Now, wet's get going." ―Hawena
+
+< CARD_HYPER_COOK >
+name=Guidance of the Weathewcock
+descr=Stock Effect.\nWoww 2 dice fow evewything except fow battwe. This effect ends when you stop on youw own Home panew. Can onwy check Nowma on own Home panew.
+flavor="*Cheep cheep*! Cook wants to go this way." ―Cook
+
+< CARD_HYPER_LONERIDER >
+name=Upshift
+descr=★Cost: 10 + 10x existing stack of Upshift. Stock Effect (2).\nGain +1 MOV. This effect can be stacked (max 6).\nIf you end youw tuwn without moving to the end of youw finaw move woww, wose a stack of Upshift.
+flavor="...Don't fowwow me." ―Wone Widew
+
+< CARD_HYPER_MERCHANT >
+name=Zeawous Sawesman
+descr=Gain Fweight cawds equaw to youw wevew. With Fweight cawds in youw hand, this cawd can be pwayed as a Battwe cawd: Duwing this battwe, gain +1 ATK fow evewy Fweight cawd in youw hand.
+flavor="Bweaking the woad weguwations, you say? I have a pewmit wight hewe!" ―Mewchant
+
+< CARD_BATTLE_FREIGHT >
+name=Fweight
+descr=If the opponent has not pwayed a Battwe cawd, give them this cawd and cancew the battwe. May onwy be used by the defendew.\nWhen stopping on youw Home panew, discawd this cawd and gain 5 Staws.
+flavor="You may keep aww that fweight, yes you may." ―Mewchant
+
+< CARD_HYPER_HIMEV2 >
+name=Dance in the Moonwit Night
+descr=On successfuw Evasion, deaw damage to the opponent equaw to what you wouwd have taken fwom them.\nIf used by Hime (Moonwight) duwing fuww moon (evewy 5 chaptews), deaw doubwe that damage but cannot use the Defend command.
+flavor="Now wet us dance." ―Hime
+
+< CARD_HYPER_FERNET_NOBILITY >
+name=New Nobiwity
+descr=Stock Effect: Aww opposing units wandomwy gain -1 ATK, DEF ow EVD duwing theiw next battwe.\nIf hewd by Fewnet, this cawd can be twansfowmed into "Affwuence (1)" instead.
+flavor="Pweased to make youw acquaintance. I hope we can get awong weww in the futuwe." ―Fewnet
+
+< CARD_HYPER_FERNET_AFFLUENCE >
+name=Affwuence (X)
+descr=★Cost: (X) x10. If this cawd is Affwuence (4):\nActive pwayews battwe you in a wandom owdew. They gain -3 ATK. If you awe not KO'd, opponent gives you (theiw Wvw) x 10 staws.\nIf not Affwuence (4): Upgwade this cawd.\nIf not hewd by Fewnet, this cawd becomes New Nobiwity.
+flavor="You wish to ask me fow a favow...? My my, of couwse I'd be evew so happy to hewp a fwiend." ―Fewnet
+
+< CARD_HYPER_FERNET_AFFLUENCE_V >
+name=Affwuence (%d)
+descr=If this cawd is Affwuence (4):\nActive pwayews battwe you in a wandom owdew. They gain -3 ATK. If you awe not KO'd, opponent gives you (theiw Wvw) x 10 staws.\nIf not Affwuence (4): Upgwade this cawd.\nIf not hewd by Fewnet, this cawd becomes New Nobiwity.
+flavor="You wish to ask me fow a favow...? My my, of couwse I'd be evew so happy to hewp a fwiend." ―Fewnet
+
+< CARD_HYPER_SUMMER2018_ATTACKER >
+name=Uwtimate Weapon in the Sun
+descr=Duwing this battwe, gain +3 ATK.
+flavor="I'ww commence... my vacation now." ―Sowa
+
+< CARD_HYPER_SUMMER2018_DEFENDER >
+name=Wifeguawd on the White Beach
+descr=Aww awwies gain a damage weduction of 2 duwing theiw next battwe.
+flavor="Geez, you'we going ovewboawd." ―Suguwi
+
+< CARD_HYPER_SUMMER2018_SUPPORT >
+name=Guawdian of Bwooming Fwowews
+descr=Wevive one KO'd awwy with fuww HP.
+flavor="You'we fine now. The pain's gone." ―Hime
+
+< CARD_HYPER_SUMMER2018_AVENGER >
+name=Unfowgiving Avengew
+descr=Duwing this battwe, damage taken by both sides is doubwed.
+flavor="Mimyuu! Who did this to you..." ―Tomato
+
+< CARD_SUMMER2018_PROTECT >
+name=Pwotect
+descr=Pwotected by a shiewd absowbing up to 2 damage.
+flavor=
+
+< CARD_XMAS2018_GROWNUPSNOWBALLFIGHT >
+name=Gwown-up Snowbaww Fight
+descr=On this attack tuwn, sewect two panews to tawget with snowbawws. Ignowe unit effects that wouwd pwevent this cawd fwom being pwayed.
+flavor="Awe you pwepawed fow this?" ―Awthuw
+
+< CARD_XMAS2018_SNOWBALLREFLECTOR >
+name=Snowbaww Wefwectow
+descr=On this defense tuwn, any snowbaww that wouwd hit you wiww hit the unit that thwew them instead. Ignowe unit effects that wouwd pwevent this cawd fwom being pwayed.
+flavor="A-and it comes wight back at you!" ―Awu
+
+[EOF]

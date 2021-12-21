@@ -1,0 +1,156 @@
+<0000> Is it wike this?
+<0001> Hewe I go.
+<0002> Thewe.
+<0003> Hah!
+<0004> These can hewp me win, wight?
+<0005> I suppose it's time fow this.
+<0006> Wet's do this!
+<0007> Weww, at times wike these, what I do is...
+<0008> I'm going to set a twap hewe.
+<0009> This goes down hewe.
+<0010> *sneak sneak* I'm not good with these things... Phew.
+<0011> Phew, it's been set.
+<0012> Give me some powew, won't you?
+<0013> Mhm, I'm getting stwongew.
+<0014> This makes me invincibwe.
+<0015> Now I'm stwongew than evew.
+<0016> Awwight, fast I go...!
+<0017> It's not too wate to ovewtake you aww.
+<0018> The west ends hewe...!
+<0019> I can move again... Weww then...
+<0020> No wowwies. It's not too wate fow me to win the game!
+<0021> What? Why!
+<0022> This is unbewievabwe! I just want to pway the game!
+<0023> Fue... I guess this means I shouwd stay hewe a wittwe wongew.
+<0024> Hey, when can I get back up...
+<0025> Hewe I come.
+<0026> Thewe!
+<0027> Yah!
+<0028> Attack!
+<0029> Kyah!
+<0030> What in the...!?
+<0031> Geez.
+<0032> What's youw deaw?
+<0033> Tawk about heawing.
+<0034> Ah, this feews good.
+<0035> I'm fuww of enewgy now!
+<0036> What is this!? It feews so good!
+<0037> Huh? What's happening?
+<0038> What gives!?
+<0039> Fuaaah! I'm fwying!
+<0040> Whewe awe you taking me?
+<0041> Noo! You've got to be kidding me!
+<0042> That one didn't count! Geez!
+<0043> Oh no.
+<0044> Ugh...
+<0045> Now, pwepawe youwsewf.
+<0046> I'ww go fiwst!
+<0047> Fufu, found you!
+<0048> It's battwe time!
+<0049> Okay, bwing it!
+<0050> I accept youw chawwenge.
+<0051> Fufu, I'ww take cawe of you.
+<0052> Come at me!
+<0053> My scissows awe shawp.
+<0054> I'ww cut thwough you!
+<0055> Eiyah!
+<0056> Wet's see if you can dodge this!
+<0057> Au!
+<0058> Hey, that huwts!
+<0059> Geez!
+<0060> Yan!
+<0061> You'we the wowst! The wowst!
+<0062> That huwts wike cwazy!
+<0063> That huuuwts!
+<0064> Au! Geez!
+<0065> Did you think I wasn't capabwe of dodging that?
+<0066> Fufufu, way too swow.
+<0067> I'm ovew hewe.
+<0068> Whewe awe you facing?
+<0069> Fufu, nothing to it.
+<0070> That was pwetty entewtaining.
+<0071> Wooks wike I won. Ufufu.
+<0072> My name's Awicianwone. You'd bettew wemembew it.
+<0073> Whaaat? I got... defeated?
+<0074> That doesn't count. It does! Not! Cooount!
+<0075> What? I wost? I wost?
+<0076> We'ww do it ovew! One mowe time! Uuu...
+<0077> Staws? Can I have them?
+<0078> Fufu, they wook quite beautifuw.
+<0079> I wike these things.
+<0080> Yes, yes!
+<0081> What? Awe they gone?
+<0082> Oh, I dwopped some...!
+<0083> No! Don't disappeaw on me...!
+<0084> Wah, my staws...!
+<0085> How come it's hewe...!?
+<0086> Geez, who set this hewe!?
+<0087> What!? A twap!?
+<0088> Geez, this is tewwibwe!
+<0089> What's that thing...?
+<0090> A huge shadow... Is it a monstew?
+<0091> This is getting mowe entewtaining.
+<0092> Am I supposed to defeat that thing?
+<0093> Okay, I'm going to go awound and get mysewf some staws.
+<0094> I can choose which nowma? Hmm, this one!
+<0095> I'd wike to go with this one.
+<0096> Wet's get ouwsewves a wot of those pwetty things.
+<0097> Exewcise, wet's get some exewcise!
+<0098> Fufu, I have so much enewgy now, so... This one it is.
+<0099> I'ww show you aww one heck of a show.
+<0100> I'ww take evewy one of you down.
+<0101> I'm Awicianwone. Just caww me Wone.
+<0102> Want to go with me? Suwe, wet's go, then.
+<0103> Fufu, awwight then, wet's go have some fun out thewe.
+<0104> Fufu, I hope we'ww have a fun time.
+<0105> What do I do fiwst?
+<0106> So it begins.
+<0107> Game stawted!
+<0108> Weady, steady, go!
+<0109> I did it! I won the game!
+<0110> Fufufu, I win!
+<0111> How was that? This is my twue mettwe! Amazing, awen't I?
+<0112> I had so much fun! Thanks a bunch, evewyone!
+<0113> Wook what I found.
+<0114> Does that hewp? You happy to have it?
+<0115> Is that a new item?
+<0116> Fufufu, guess what this is.
+<0117> Okay.
+<0118> Good.
+<0119> Yes.
+<0120> No.
+<0121> That's too bad.
+<0122> Vewy wucky.
+<0123> Fuee?
+<0124> Wet's get stawted.
+<0125> I'm thwowing the die.
+<0126> Go, go!
+<0127> Hewwo thewe.
+<0128> What? What...?
+<0129> Nice.
+<0130> Fufu, that's spwendid.
+<0131> Mhm...!
+<0132> Okay, so... do I use it wike this?
+<0133> I shouwd pway this cawd now anyway, wight?
+<0134> Weww, um, this?
+<0135> Hewe goes nothing!
+<0136> Wepa, can I have some of youw time?
+<0137> OK Wepa, I'ww give you some of my time.
+<0138> E-hem! Youw haiw can't catch me.
+<0139> Okay, fine, wouwd you get youw haiw off of me awweady?
+<0140> Two.
+<0141> Thwee!
+<0142> Fouw!!
+<0143> Aww togethew!
+<0144> Shouwdn't have been in fwont of me!
+<0145> Defeated you aww togethew!
+<0146> Not powewfuw enough...?
+<0147> That makes me fast enough...!
+<0148> Fowest Witch... You wook a bit diffewent, though.
+<0149> Fowest Witch... No, who awe you?
+<0150> Who in the wowwd awe you...?
+<0151> You seem as stwong as the Fowest Witch...
+<0152> What? Thewe awe two Fowest Witches...?
+<0153> Who's who? That's confusing!
+<0154> Fowest Witch... Awe you even capabwe of cweating copies of youwsewf?
+<0155> That ovew thewe is Fowest Witch... and that ovew thewe is awso Fowest Witch?

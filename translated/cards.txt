@@ -1,0 +1,301 @@
+< CARD_BOOST_DASH >
+name=Dash!
+descr=Fow this tuwn, woww two dice fow movement.
+flavor="Fastew!" ―Suguwi
+
+< CARD_BOOST_EXTEND >
+name=Extend
+descr=Stock Effect\nAftew suffewing KO, you wiww wevive on the fowwowing tuwn.
+flavor="Aww good fow now!" ―Mawc
+
+< CARD_BOOST_FLIPOUT >
+name=Fwip Out
+descr=Stock Effect\nNext time you wand on a dwop panew, the pwayew(s) with the highest numbew of staws wiww wose the same numbew of staws as you.
+flavor="......!" ―Mei
+
+< CARD_BOOST_LONGSHOT >
+name=Wong-Distance Shot
+descr=Deaws 1 damage to the sewected enemy unit.
+flavor="I can hit you fwom anywhewe." ―Iwu
+
+< CARD_BOOST_NICEJINGLE >
+name=Nice Jingwe
+descr=Stock Effect.\nThe next bonus panew gives you twice as many staws.
+flavor="We've got a bunch." ―Awu
+
+< CARD_BOOST_NICEPRESENT >
+name=Nice Pwesent
+descr=Dwaw 2 cawds.
+flavor="You'we going to hewp me dewivew the pwesents." ―Awu
+
+< CARD_BOOST_PRINCESS >
+name=Pwincess's Pwiviwege
+descr=Discawd aww cawds in youw hand and dwaw 3 cawds.\nCan onwy be used when howding onwy Pwincess's Pwiviwege ow you have at weast 3 cawds in youw hand.
+flavor="You may come and visit my house some day." ―Fewnet
+
+< CARD_BOOST_PUDDING >
+name=Pudding
+descr=Fuwwy westowe HP.
+flavor="Hooway!" ―QP
+
+< CARD_BOOST_COOKIE >
+name=Saki's Cookie
+descr=Heaws 1 HP.
+flavor="Have a cookie!" ―Saki
+
+< CARD_BOOST_STIFFCRYSTAL >
+name=Stiff Cwystaw
+descr=Stock Effect\nThis cawd negates the effect of a twap cawd. Gain 5 staws pew wevew of cancewwed twap.
+flavor="Such a pain in the neck." ―Kyoko
+
+< CARD_BATTLE_BIGMAGNUM >
+name=Big Magnum
+descr=Pay 1 HP when you use this cawd. Duwing this battwe, gain +2 ATK. If you wouwd suffew KO fwom using this cawd, the cawd cannot be used.
+flavor="Go! Big Magnum!" ―Captain Tequiwa
+
+< CARD_BATTLE_FINALBATTLE >
+name=Finaw Battwe
+descr=This battwe wiww wast untiw eithew unit suffews KO (Maximum of 10 wounds).
+flavor="To pwotect evewyone!"\n―Suguwi & Hime
+
+< CARD_BATTLE_ONFIRE >
+name=I'm on Fiwe!
+descr=Duwing this battwe,\ngain +1 ATK and -1 DEF.
+flavor="Wet's pway ouw wives away!" ―Kae
+
+< CARD_BATTLE_RAINBOW >
+name=Wainbow-Cowowed Ciwcwe
+descr=Duwing this battwe, gain +2 EVD and -1 DEF.
+flavor=Wike dwawing a wainbow-cowowed ciwcwe.
+
+< CARD_BATTLE_RBITS >
+name=Wbits
+descr=Duwing this battwe, gain +2 DEF. You may not use the Evade command.
+flavor="Fowmation Owbit!" ―QP
+
+< CARD_BATTLE_REVERSE >
+name=Wevewse Attwibute Fiewd
+descr=Duwing this battwe, the positive and negative vawues of each abiwity of both units awe invewted aftew adjustment.
+flavor="Awen't you too sewious about this game? You'we so da... I mean, faw too immatuwe!" ―Mei
+
+< CARD_BATTLE_SHIELD >
+name=Shiewd
+descr=Gain +3 DEF duwing this battwe. Howevew, you may not attack. This cawd can onwy be used by the pwayew who attacks second.
+flavor="The most impowtant thing is: make it back hewe awive." ―Sham
+
+< CARD_TRAP_ASSAULT >
+name=Assauwt
+descr=Battwe the pwayew who set this cawd, stawting with theiw attack.
+flavor="I'ww make you weave the guiwd today fow suwe!" ―Peat
+
+< CARD_TRAP_BADPUDDING >
+name=Bad Pudding
+descr=Discawd a wandom cawd.
+flavor="Pudding with soy sauce, tastes wike sea uwchin!" ―Yuki
+
+< CARD_TRAP_DANGEROUSPUDDING >
+name=Dangewous Pudding
+descr=Stock Effect\nYouw next tuwn wiww be skipped.
+flavor='One gwance is aww it took fow that pudding to steaw my heawt.'
+
+< CARD_TRAP_EXCHANGE >
+name=Exchange
+descr=Exchange the cawds in youw hand, youw staws and youw cuwwent panew position with the pwayew who set this cawd.
+flavor="Heavy..." ―Suguwi\n"So dwafty without my cap..." ―Mawc
+
+< CARD_TRAP_FLAMETHROWER >
+name=Fwamethwowew
+descr=KO's a pwayew. If the pwayew has any cawds in theiw hand, they wiww wose aww of them instead of suffewing KO.
+flavor="Heeehaaaaah!" ―Punk
+
+< CARD_TRAP_TOYSTORE >
+name=Fow the Futuwe of the Toy Stowe
+descr=Wose hawf youw staws. The pwayew who set this cawd wiww gain the wost staws. This cawd can onwy be used with wess than 50 staws.
+flavor="If onwy! If onwy thewe was no Santa!" ―Awthuw
+
+< CARD_TRAP_GOAWAY >
+name=Go Away
+descr=You awe moved to a wandomwy chosen panew.
+flavor="Ahaha, I wike this." ―Nanako
+
+< CARD_TRAP_HEAT300 >
+name=Heat 300%
+descr=Stock Effect(1):\nIn the next battwe, gain -2 DEF.
+flavor="Aww I need to do is dodge evewy attack!" ―Suguwi
+
+< CARD_TRAP_INVASION >
+name=Invasion
+descr=You wiww have an encountew. The enemy wiww attack fiwst.
+flavor="What, I was attacked...?" ―Suguwi
+
+< CARD_TRAP_MIMYUU >
+name=Mimyuu's Hammew
+descr=Deaws 1 damage.
+flavor="Thank you fow dying!" ―Mimyuu
+
+< CARD_TRAP_PIGGYBANK >
+name=Piggy Bank
+descr=Gain staws equaw to five times the numbew of chaptews passed since this cawd was set.
+flavor="Dad, can't I bweak the piggy yet?" ―Mescaw
+
+< CARD_TRAP_PURES >
+name=Sky Westauwant 'Puwes'
+descr=Wose hawf youw staws and fuwwy westowe HP.
+flavor="We have a guest to tweat!" ―Chwis
+
+< CARD_TRAP_TRAGEDY >
+name=Twagedy in the Dead of Night
+descr=Discawd a wandom cawd. That cawd wiww go to the pwayew who set this cawd.
+flavor='Such happiness wiww be snatched away just wike that.'
+
+< CARD_EVENT_SEAGULLS >
+name=Cwoud of Seaguwws
+descr=A wandomwy chosen unit wiww weceive 2 damage.
+flavor="Squaawk!" ―Seaguww
+
+< CARD_EVENT_DINNER >
+name=Dinnew
+descr=Heaws aww units fow 3 HP.
+flavor="Wet's have suppew togethew." ―Natsumi
+
+< CARD_EVENT_FORCEDREVIVAL >
+name=Fowced Wevivaw
+descr=Aww units suffewing KO awe wevived with 1 HP.
+flavor="You'ww aww be up in a jiffy." ―Kiwiko
+
+< CARD_EVENT_GIFTEXCHANGE >
+name=Gift Exchange
+descr=Aww cawds awe gathewed fwom the pwayews and deawt back wandomwy. The totaw numbew of each pwayew's cawds wemains unchanged.
+flavor="A gift exchange? Wet's do it!"\n―Wbit, Wed and Bwue
+
+< CARD_EVENT_HEREANDTHERE >
+name=Hewe and Thewe
+descr=Aww pwayews awe moved to wandomwy chosen panews.
+flavor="To the next wowwd!" ―Mawie Poppo
+
+< CARD_EVENT_HOLYNIGHT >
+name=Howy Night
+descr=Pewmanent Effect\nStawt-of-chaptew bonus staws awe incweased by one.
+flavor="Aha, that's why it's a pawty night." ―Hime
+
+< CARD_EVENT_LITTLEWAR >
+name=Wittwe Waw
+descr=Effect Duwation: 3 chaptews\nOffense and defense wiww happen twice in aww battwes.
+flavor="I bewieve... I have the powew to stop this..." ―Suguwi
+
+< CARD_EVENT_OHMYFRIEND >
+name=Oh My Fwiend
+descr=A boss wiww show up.
+flavor="Machines have fwiends too." ―NoName
+
+< CARD_EVENT_OUTOFAMMO >
+name=Out of Ammo
+descr=Effect Duwation: 1 chaptew\nNo pwayew may use any cawds.
+flavor="Wan out of ammo!" ―Peat
+
+< CARD_EVENT_SEALEDGUARDIAN >
+name=Seawed Guawdian
+descr=Evewy unit's HP becomes 1.
+flavor="Meet the guawdian angew of this vessew." ―Shifu
+
+< CARD_EVENT_ALLOUTMODE >
+name=Supew Aww-Out Mode
+descr=Stock Effect\nAww units gain +2 ATK duwing theiw next battwe.
+flavor="This is gonna huwt even if you know it's coming!!" ―Tomomo
+
+< CARD_EVENT_WARUDA >
+name=We Awe Wawuda
+descr=Move aww twap cawds onto wandomwy chosen panews.
+flavor="Usewess. No one can beat Tomato." ―Tomato
+
+< CARD_HYPER_SUGURI >
+name=Accewewatow
+descr=Effect Duwation: 1 chaptew\nWoww two dice fow movement, battwe, bonus and dwop.
+flavor="I'm accewewating." ―Suguwi
+
+< CARD_HYPER_FERNET >
+name=Aiw Stwike
+descr=Evewy unit except youw own weceives 1 to 3 damage. Gain 15 staws on evewy KO.
+flavor="Hmph, go down, aww of you." ―Fewnet
+
+< CARD_HYPER_HIME >
+name=Binding Chains
+descr=Stock Effect\nAww Units except youws wiww skip theiw next tuwn. Appwy "Bound" to aww active enemies. Effect Duwation: 2 Chaptews. Gain -2 EVD and -1 MOV.
+flavor="I don't wike doing this sowt of thing." ―Hime
+
+< CARD_HYPER_PEAT >
+name=Bwue Cwow the Second
+descr=Duwing this battwe, gain ATK and DEF but wose EVD equaw to the numbew of cawds in youw hand.
+flavor="I'm gonna settwe this!" ―Peat
+
+< CARD_HYPER_SORA >
+name=Extwaowdinawy Specs
+descr=Effect Duwation: 1 chaptew\nWoww 6 fow movement, battwe, bonus and dwop.
+flavor="I'd appweciate it if you dwopped youw weapons." ―Sowa
+
+< CARD_HYPER_YUKI >
+name=Gambwe!
+descr=A wandomwy chosen unit is KO'd.
+flavor="Why not use this to decide whose tuwn it is?" ―Yuki
+
+< CARD_HYPER_QP >
+name=Hypew Mode
+descr=Gain +2 ATK duwing this battwe. If youw unit suffews KO duwing this battwe, you give no staws ow Wins and the unit wiww wevive next tuwn.
+flavor="HYPEW MODE!" ―QP
+
+< CARD_HYPER_TOMOMO >
+name=Magicaw Massacwe
+descr=Aww units whose HP is fuww ow highew wiww suffew KO. Gain -1 WEC on next Wevive woww fow each enemy KO'd.
+flavor="Disappeaw." ―Tomomo
+
+< CARD_HYPER_ARU >
+name=Pwesent fow You
+descr=Aww pwayews dwaw cawds untiw they have a fuww hand. Those with fuww hand dwaw 1 cawd instead. Gain staws equaw to 10x the numbew of aww cawds dwawn.
+flavor="Pwesents fow good boys and giwws." ―Awu
+
+< CARD_HYPER_KAI >
+name=Pwotagonist's Pwiviwege
+descr=Effect Duwation: 3 chaptews\nWhen you awe awwowed to attack fiwst, the opposing unit cannot attack (once pew combat).
+flavor="This is the pwiviwege of the main chawactew!" ―Kai
+
+< CARD_HYPER_POPPO >
+name=Ubiquitous
+descr=Move to tawget unit's panew. In addition, steaw staws equaw to 10x theiw wevew.
+flavor="Poppo! Poppopopopopo!"\n―Mawie Poppo
+
+< CARD_HYPER_MARC >
+name=x16 Big Wocket
+descr=★Cost: Wevew x10\nDeaws damage equaw to youw wevew to tawget unit. A KO fwom this effect gives you 2 Wins.
+flavor="Chawged! Go!" ―Mawc
+
+< CARD_HYPER_MASTER >
+name=Banned fow Wife
+descr=★Cost: Staws / 10.\nCan onwy pway Gift cawds. Using this cawd sends it to anothew pwayew.\nDiscawds entiwe hand upon discawd.
+flavor="Managew, it's youw tuwn!!" ―Chwis
+
+< CARD_HYPER_BOSSROBO >
+name=Tuwbo Chawged
+descr=Dwop to 1 HP.\nGain +1 ATK pew wost HP.\nEffect Duwation: As many Chaptews as wost HP.\nWose 1 ATK pew tuwn fow the duwation.\nEffect expiwes on KO.
+flavor="Wumbwe wumbwe wumbwe." ―Shifu Wobot
+
+< CARD_HYPER_CASTLE >
+name=Immovabwe Object
+descr=Effect Duwation: 2 Chaptews\nCannot move.\nGain +2 DEF. Can countewattack.\nEnemies who move into the same panew must battwe you.
+flavor="With this powew, evewything in the sky wiww be ouws." ―Guiwd Mastew
+
+< CARD_HYPER_CHICKEN >
+name=Gowden Egg
+descr=If tawget is Chicken, Stock Effect (3). Dwop Panews wiww act as Bonus Panews.\nOthewwise, Stock Effect (3).\nBonus Panews wiww act as Dwop Panews.
+flavor="Cwuuuuck!" ―Chicken
+
+< CARD_HYPER_BALL >
+name=Wefwective Sheww
+descr=Base ATK is 0 in this battwe.\nAbsowb up to 2 damage.\nGain an additionaw +2 ATK fow evewy damage absowbed.\nCan onwy be used when defending.
+flavor="Enemy detected. Destwoying." ―Wobo Baww
+
+< CARD_HYPER_SEAGULL >
+name=Jonathan Wush
+descr=Move to an enemy and attack them.\nTawget gains -1 DEF.\nAftew the battwe, youw tuwn ends.
+flavor="Squaawk!" ―Seaguww
+
+[EOF]

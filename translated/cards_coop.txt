@@ -1,0 +1,1160 @@
+﻿< CARD_BOOST_COOP_GENTLEMANSBATTLE >
+name=Gentweman's Battwe
+descr=Choose an enemy with fuww HP and battwe them. Youw tuwn ends aftew the battwe.
+flavor="Take this!" ―Guiwdmastew
+
+< CARD_BOOST_COOP_AMBUSH >
+name=Ambush
+descr=Engage in battwe with anothew enemy ow enemies on youw panew. Once these battwes awe ovew, youw tuwn is ovew.
+flavor="Owwwww!!" ―Sham
+
+< CARD_EVENT_COOP_DINNER >
+name=Dinnew
+descr=Heaws aww pwayews fow 3 HP.
+flavor="Wet's have suppew togethew." ―Natsumi
+
+< CARD_BATTLE_COOP_SINKORSWIM >
+name=Sink ow Swim
+descr=Gain -1 ATK, -1 DEF and -1 EVD. Gain +10 staws and +1 Win if you win the battwe.
+flavor="Awwight, it's time to pway the wong odds!" ―Yuki
+
+< CARD_EVENT_COOP_UNPAIDWORK >
+name=Unpaid Wowk
+descr=Effect Duwation: 1 Chaptew.\nWhiwe in effect, pwayews cannot be fowced to wose staws.
+flavor="Whewe's my payment!" ―Chwis
+
+< CARD_EVENT_COOP_INDISCRIMINATEFIRESUPPORT >
+name=Indiscwiminate Fiwe Suppowt
+descr=Effect Duwation: Infinite.\nA wandom unit wiww be tawgeted and take 1 damage. At the stawt of youw tuwn, wepeat this effect. The effect ends when a unit suffews KO.\nAwwies wiww not take damage fwom this effect.
+flavor="......" ―Sowa
+
+< CARD_BATTLE_COOP_DECEPTIVEDISARMING >
+name=Deceptive Disawming
+descr=If you do not suffew KO in this battwe, cancew next Boss cawd activation. Can onwy be used against the Boss.
+flavor="The twain's fuww of dangewous stuff?!" ―Tomato
+
+< CARD_EVENT_COOP_PETSNACKS >
+name=Pet Snacks
+descr=Boss and aww active minions gain -1 ATK in theiw next battwe.
+flavor="Guys, it's snack time! Come eat!" ―Syuwa
+
+< CARD_BOOST_COOP_FREIGHT >
+name=Fweight
+descr=When stopping on youw Home panew, discawd this cawd and gain 5 Staws.\nThis cawd is discawded upon use.
+flavor="You may keep aww that fweight, yes you may." ―Mewchant
+
+< CARD_HYPER_COOP_ALTE >
+name=Sewf-Destwuct
+descr=On KO, deaw youw max HP as damage to the enemy. Enemy gains no staws ow wins, but woses hawf of theiw staws if KO'd fwom this effect.
+flavor="I'm sowwy... I can't make it back..." ―Awte
+
+< CARD_HYPER_COOP_ARU >
+name=Pwesent fow You
+descr=Aww pwayews dwaw cawds untiw they have a fuww hand. Those with fuww hand dwaw 1 cawd instead.
+flavor="Pwesents fow good boys and giwws." ―Awu
+
+< CARD_HYPER_COOP_ARTHUR2 >
+name=Wbit Hobby Shop
+descr=Pwayew dwaws a cawd fwom the deck. This cawd wemains on boawd when twiggewed but can be wepwaced by a new twap. No effect on enemies ow the pwayew who set the twap.
+flavor="Aww wight, it's time to open the shop." ―Awthuw
+
+< CARD_HYPER_COOP_ARUSCRAMBLE >
+name=Santa's Job
+descr=Aftew youw tuwn, send a cawd of usabwe Wvw fwom youw hand to a wandom pwayew. Gain staws equaw to Cawd Wvw x5. This cawd is discawded upon KO ow use.
+flavor="Chiwdwen of the wowwd, we awe coming fow you!" ―Awu
+
+< CARD_HYPER_COOP_CHICKEN >
+name=Gowden Egg
+descr=Gain Wevew x 10 staws.
+flavor="Cwuuuuck!" ―Chicken
+
+< CARD_HYPER_COOP_FERNET >
+name=Aiw Stwike
+descr=Evewy enemy weceives 1 to 2 damage. Gain 15 staws on evewy KO.
+flavor="Hmph, go down, aww of you." ―Fewnet
+
+< CARD_HYPER_COOP_HIME >
+name=Binding Chains
+descr=Stock Effect\nAww enemies skip theiw next tuwn. Appwy "Bound" to aww active enemies. Effect Duwation: 2 Chaptews. Gain -2 EVD and -1 MOV.
+flavor="I don't wike doing this sowt of thing." ―Hime
+
+< CARD_HYPER_COOP_IRU >
+name=Extended Photon Wifwe
+descr=★Cost: Wevew x5\nDeaw 1 damage to a wandom enemy. If KO'd, gain 1 win. Wepeat as many times as youw cuwwent wevew.
+flavor="I'ww shoot you aww down." ―Iwu
+
+< CARD_HYPER_COOP_KAE >
+name=Bwazing!
+descr=Infwicts Bwazing! on units within 2 panews, and wefweshes the duwation of existing Bwazing! Effect Duwation: 2 Chaptews. ATK +1 if pwayew. DEF -1 if enemy. The effect expiwes upon KO.
+flavor="Good! Good! This feewing weawwy is the best!" ―Kae
+
+< CARD_HYPER_COOP_KAI >
+name=Pwotagonist's Pwiviwege
+descr=Effect Duwation: 3 chaptews\nAwways attack fiwst. The enemy unit cannot countewattack (once pew combat).
+flavor="This is the pwiviwege of the main chawactew!" ―Kai
+
+< CARD_HYPER_COOP_KIRIKO >
+name=Finaw Suwgewy
+descr=KO aww units with 1 HP and gain staws equaw to 25x the numbew of KO'd units. KO'd awwies gain -2 WEC.
+flavor="Just howd stiww, I'ww fix you up weaw quick." ―Kiwiko
+
+< CARD_HYPER_COOP_KRILAEVENT >
+name=Pwushie Mastew
+descr=Set "Dance, Wong-Eawed Beasts!" twap on 3-5 wandom panews.
+flavor="Dance, wong-eawed beasts!" ―Kwiwawawis
+
+< CARD_HYPER_COOP_KRILATRAP >
+name=Dance, Wong-Eawed Beasts!
+descr=Take 2 damage. The pwayew who set this cawd gains 1 HP. Stock Effect: Duwing next battwe, gain -2 ATK.\nAwwies do not twiggew this cawd.
+flavor="Dance, wong-eawed beasts!" ―Kwiwawawis
+
+< CARD_HYPER_COOP_MASTER >
+name=Banned fow Wife
+descr=★Cost: Staws / 10.\nWhen used, the Boss wiww skip its next action.
+flavor="Managew, it's youw tuwn!!" ―Chwis
+
+< CARD_HYPER_COOP_MARC >
+name=x16 Big Wocket
+descr=★Cost: Wevew x10\nDeaws damage equaw to youw wevew to tawget unit. A KO fwom this effect gives you 2 Wins.
+flavor="Chawged! Go!" ―Mawc
+
+< CARD_HYPER_COOP_MAYNIE >
+name=Waging Madness
+descr=Gain +1 Wage Countew and go into Waging Mode. Duwing Waging Mode, gain +X/2 ATK and +X/2 EVD wounded up, whewe X is the numbew of youw Wage Countews. At the stawt of youw tuwn, wose 1 Wage Countew. Waging Mode ends when Wage Countews awe 0.
+flavor="Gyaoooh!" ―Maynie
+
+< CARD_HYPER_COOP_MEI >
+name=White Chwistsmashew
+descr=Deaw 2 damage to enemies on the same panew as you.\nFow each enemy KO'd, gain a win and staws equaw to KO'd enemy's Wvw x5.\nWhen cawwying "Wed & Bwue", this cawd becomes "Twue White Chwistsmashew".
+flavor="White Chwistsmashew!" ―Mei
+
+< CARD_HYPER_COOP_MEITRUE >
+name=Twue White Chwistsmashew
+descr=Deaw 4 damage to enemies within 1 panew of you.\nFow each enemy KO'd, gain 2 wins and staws equaw to KO'd enemy's Wvw x10.\nWhen not cawwying "Wed & Bwue", this cawd becomes "White Chwistsmashew".
+flavor="White Chwistsmashew!" ―Mei, Wed & Bwue
+
+< CARD_HYPER_COOP_NATH >
+name=Anothew Uwtimate Weapon
+descr=★Cost: 10 staws pew +1 ATK gained fwom effect.\nGain +1 ATK and DEF and an additionaw +1 ATK and DEF fow evewy 10 staws spent on this cawd, up to +9 ATK.
+flavor="With you gone, I am theiw uwtimate weapon now." ―Nath
+
+< CARD_HYPER_COOP_NONAME >
+name=Ovewseew
+descr=End the battwe. Opponent fights Shifu Wobot instead. Can onwy be used against the Boss.
+flavor="Hahaha! Hewe comes my fwiend!" ―NoName
+
+< CARD_HYPER_COOP_POPPO >
+name=Ubiquitous
+descr=Move to tawget enemy's panew. In addition, steaw staws equaw to 10x youw wevew.
+flavor="Poppo! Poppopopopopo!"\n―Mawie Poppo
+
+< CARD_HYPER_COOP_QPD >
+name=Sweet Guawdian
+descr=Weceive 2 Pudding cawds. The cawds awe wemoved fwom game upon use ow discawd.
+flavor="My wittwe... pudding..." ―QP
+
+< CARD_HYPER_COOP_SAKI >
+name=Big Bang Beww
+descr=Evewy enemy on this and 2 adjacent squawes takes 2 damage, +1 fow evewy 2 chaptews since setting the twap. On KO, hawf of theiw staws go to the pwayew who set this twap.
+flavor="Mauuuuuwyaaaaaaahh!" ―Saki
+
+< CARD_HYPER_COOP_SHAM >
+name=Dewta Fiewd
+descr=Duwing this battwe, the opponent gains the fowwowing effect: Aww dice wowws wiww be 1.
+flavor="If you insist on staying hewe, I'ww take you back no mattew how!" ―Sham
+
+< CARD_HYPER_COOP_SHERRY >
+name=Whimsicaw Windmiww
+descr=Fight the Boss. The Boss goes fiwst. Duwing battwe, gain +1 EVD.
+flavor="We just want to fwy awound fweewy." ―Shewwy
+
+< CARD_HYPER_COOP_STARBREAKER >
+name=Staw Bwasting Fuse
+descr=Set "Invisibwe Bomb" on 3-5 wandom panews.
+flavor="Because I am Staw Bweakew, the bwasting fuse to the wowwd's end." ―Staw Bweakew
+
+< CARD_HYPER_COOP_STARBREAKER2 >
+name=Invisibwe Bomb
+descr=Deaws 4 damage to enemies. Awwies do not twiggew and awe abwe to see this twap.
+flavor="Because I am Staw Bweakew, the bwasting fuse to the wowwd's end." ―Staw Bweakew
+
+< CARD_HYPER_COOP_SWEETBREAKER >
+name=Mewting Memowies
+descr=★Cost: Staws / 10.\nScwambwe boss' cuwwent hand owdew.\nInfwicts Mewting Memowies to aww enemies. Effect Duwation: 3 Chaptews. Effect expiwes on KO.
+flavor="How foowish you awe to have chawwenged a God. Pwepawe to taste youw bittew defeat!" ―Sweet Bweakew
+
+< CARD_HYPER_COOP_TEQUILA >
+name=Do Piwates Fwy in the Sky?
+descr=Summon 2 Piwate Cwew Membews to fight a wandom enemy. Enemy goes second.
+flavor="Thewe ain't no waw against piwates fwying in the sky." ―Tequiwa
+
+< CARD_HYPER_COOP_TOMATO >
+name=Wawuda Machine, Bwast Off!
+descr=Duwing this battwe, gain +1 ATK, +1 DEF, and -1 EVD fow evewy two cawds youw awwies awe howding.
+flavor="Wevenge!" ―Tomato
+
+< CARD_HYPER_COOP_TOMOMO >
+name=Magicaw Massacwe
+descr=Fow each KO'd awwy, deaw 3 damage to aww enemies.
+flavor="Disappeaw." ―Tomomo
+
+< CARD_HYPER_COOP_TOMOMOSWEETEATER >
+name=Magicaw Wevenge
+descr=Fow each of youw missing HP, wandom enemy takes 1 damage. If KO'd by this, you gain 1 Win.\nWhen not hewd by Tomomo (Sweet Eatew), this cawd becomes Miwacwe Wed Bean Ice Cweam.
+flavor="It's Magicaw Wevenge time!" ―Tomomo
+
+< CARD_HYPER_COOP_TSIH >
+name=Steawth On
+descr=Effect Duwation: 3 chaptews.\nCannot be chawwenged by enemies.\nDo not twiggew Encountew ow Boss panews.\nEffect expiwes on entewing battwe.\nGain +2 ATK when entewing battwe.
+flavor="Wook at me vanish!" ―Tsih
+
+< CARD_HYPER_COOP_YUKI >
+name=Gambwe!
+descr=Wandomwy deaw youw cuwwent max heawth in damage to eithew youwsewf ow the boss.
+flavor="Why not use this to decide whose tuwn it is?" ―Yuki
+
+< CARD_HYPER_COOP_YUKIDANGEROUS >
+name=Eviw Mastewmind
+descr=Dwaw a twap cawd fwom the deck. Set aww twap cawds in hand on wandom panews. If not howding any twap cawds, dwaw 3 fwom the deck and set a wandom one on youw cuwwent panew.
+flavor="Feaw my powews!" ―Yuki
+
+< CARD_HYPER_COOP_ARTHUR >
+name=Bwanch Expansion Stwategy
+descr=★Cost: Numbew of cawds hewd x5\nTuwn aww youw cawds, incwuding this one, into "Wbit Hobby Shop."\nYou may pway one mowe cawd in this tuwn.
+flavor="Phaaw..." ―Awthuw
+
+< CARD_HYPER_COOP_MIMYUU >
+name=Eviw Spy Wowk ― Execution
+descr=This cawd cannot be pwayed.\nWhen howding this cawd, heaw 2 HP at the end of youw tuwn, and wemove this cawd fwom the game.
+flavor="You feww fow it! Eat it!!" ―Mimyuu
+
+< CARD_HYPER_COOP_NATSUMI >
+name=Cooking Time
+descr=★Cost: Wevew x5\nAww pwayews wecovew youw Wvw x HP.
+flavor="It's meaw time!" ―Natsumi
+
+< CARD_HYPER_COOP_YUUKI_DEVIL >
+name=Deviw Hand
+descr=Deaw damage to a wandom enemy up to 5, down to 1 HP. Gain 10 staws pew damage deawt. In odd-numbewed chaptews, this cawd tuwns into Angew Hand.
+flavor="Eat the powew of the deviw!" ―Yuuki
+
+< CARD_HYPER_COOP_MIO >
+name=Magicaw Infewno
+descr=Deaw 5 damage to aww enemy units on any othew panew in the same unintewwupted cowumn ow wow as the panew youw unit is on. You gain staws fwom each KO'd enemy as though KO'd in battwe. Then end youw tuwn.
+flavor="Infewno!" ―Mio
+
+< CARD_HYPER_COOP_ISLAY >
+name=Wivaw
+descr=Battwe tawget enemy. You attack fiwst. Duwing battwe, gain +1 ATK.
+flavor="Just wike you... I have my battwes to fight." ―Isway
+
+< CARD_HYPER_COOP_COOK >
+name=Guidance of the Weathewcock
+descr=Stock Effect.\nWoww 2 dice fow evewything except fow battwe. This effect ends on KO.
+flavor="*Cheep cheep*! Cook wants to go this way." ―Cook
+
+< CARD_HYPER_COOP_TEOTORATTA >
+name=Beast Witch
+descr=Pwevent staw woss caused by a Boss ow its minion. Discawd this cawd if this effect is twiggewed.
+flavor="Aww beasts! Obey me!" ―Teotowatta
+
+< CARD_HYPER_COOP_CUTIES >
+name=Speciaw Stage
+descr=★Cost: Wevew x10\nGo to Wive Mode fow (youw Wvw) tuwns. Gain -3 MOV, can onwy twiggew movement type panews and cannot use cawds. Cannot be chawwenged by enemies. If an opponent ends theiw tuwn in 2 panew wadius, steaw (youw Wvw) x5 staws fwom them. Ends on KO.
+flavor="We awe the stwongest idows!" ―Sowa & Sham
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
+name=Affwuence (X)
+descr=Choose one of the fowwowing:\n1. If not Affwuence (4), upgwade this cawd.\n2. Fight the Boss. They gain -X ATK, whewe X = Affwuence wevew. If you awe not KO'd, the opponent gives you X x 20 staws.\nIf not hewd by Fewnet, this cawd becomes New Nobiwity.
+flavor="You wish to ask me fow a favow...? My my, of couwse I'd be evew so happy to hewp a fwiend." ―Fewnet
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
+name=Affwuence (%d)
+descr=Choose one of the fowwowing:\n1. If not Affwuence (4), upgwade this cawd.\n2. Fight the Boss. They gain -X ATK, whewe X = Affwuence wevew. If you awe not KO'd, the opponent gives you X x 20 staws.\nIf not hewd by Fewnet, this cawd becomes New Nobiwity.
+flavor="You wish to ask me fow a favow...? My my, of couwse I'd be evew so happy to hewp a fwiend." ―Fewnet
+
+< CARD_BOSS_COOP_DOZE >
+name=Doze
+descr=No effect.
+flavor=
+
+< CARD_BOSS_COOP_GROUPUP >
+name=Gwoup Up
+descr=Aww enemies wiww wawp to the same wandom panew.
+flavor=
+
+< CARD_BOSS_COOP_PECK >
+name=Peck
+descr=Boss wiww deaw 2 damage to aww pwayews on the same panew.
+flavor=
+
+< CARD_BOSS_COOP_FLIGHT >
+name=Fwight
+descr=Move in wevewse. Boss wiww deaw damage equaw to Boss Wvw to each pwayew it encountews.
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_ATTACK >
+name=Chicken Attack
+descr=Boss wiww ambush aww pwayews on the same panew.
+flavor=
+
+< CARD_BOSS_COOP_PIYO_MARCH >
+name=Piyo Mawch
+descr=Aww enemies wiww gain +2 EVD on theiw next battwe.
+flavor=
+
+< CARD_BOSS_COOP_REGENERATION >
+name=Wegenewation
+descr=Aww units on the fiewd awe heawed by 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_PRESENT >
+name=Pwesent
+descr=Set a twap on a wandom panew.
+flavor=
+
+< CARD_BOSS_COOP_HEADLESS_CHICKEN >
+name=Headwess Chicken
+descr= Boss wiww gain +2 ATK untiw the end of its tuwn. If boss has wess than 50% HP wemaining, each othew enemy gains +2 ATK and +2 EVD and wiww attack each pwayew within 1 panew of them.
+flavor=
+
+< CARD_BOSS_COOP_CALL_OF_CHICKEN >
+name=Caww of the Chicken
+descr=Dwaw and pway a new cawd.
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_RUN >
+name=Chicken Wun
+descr=Effect Duwation: 2 Chaptews. Aww minions on the fiewd wiww gain +2 MOV and +1 EVD.
+flavor=
+
+< CARD_BOSS_COOP_HEN_PECKED >
+name=Hen Pecked
+descr=Boss wiww deaw damage equaw to Boss Wvw to aww pwayews within 1 panew.
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING >
+name=Second Wing
+descr=Aww enemies wecovew HP equaw to Boss Wvw.
+flavor=
+
+< CARD_BOSS_COOP_SWARM >
+name=Swawm
+descr=Aww minions on the fiewd wiww gain +2 ATK fow theiw next battwe and battwe a wandom pwayew. Pwayews cannot countew-attack.\nBoss wiww use Dash aftewwawds.
+flavor=
+
+< CARD_BOSS_COOP_FINAL_WARNING >
+name=Finaw Wawning
+descr=Deaw damage to a wandom pwayew equaw to theiw cuwwent HP. If Boss has wess than 50% HP wemaining, deaw damage to a wandom pwayew equaw to Boss Wvw.
+flavor=
+
+< CARD_BOSS_COOP_SAVAGE_TALONS >
+name=Savage Tawons
+descr=Deaw damage to the pwayew with the cuwwent wowest HP equaw to theiw cuwwent HP. A wandom pwayew wiww take damage equaw to the HP that pwayew had.
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_GODBIRD >
+name=Beak of the Godbiwd
+descr=Attack aww pwayews within 1 panew, stawting fwom the pwayew with the wowest HP. Fow each pwayew KO'd, boss wiww gain a pewmanent +1 ATK.
+flavor=
+
+< CARD_BOSS_COOP_ROOST >
+name=Woost
+descr=Boss wiww spawn a chicken minion on its cuwwent panew, up to 4.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_HYPER >
+name=Woost
+descr=Boss wiww spawn two chicken minions on its cuwwent panew, up to 4.
+flavor=
+
+< CARD_BOSS_COOP_MALFUNCTION >
+name=Mawfunction
+descr=Deaw 1 damage to sewf. Cannot go undew 1 HP fwom this effect.
+flavor=
+
+< CARD_BOSS_COOP_ATTACK_DOWN >
+name=Attack Down
+descr=Effect Duwation: 2 chaptews. Aww pwayews gain -2 ATK. Boss gains +2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_QUICK_REPAIR >
+name=Quick Wepaiw
+descr=Heaw fow 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENTS >
+name=Bawance Cuwwents
+descr=Deaw 1 damage to each pwayew fow evewy positive ATK point they have. Heaw each pwayew by 1 fow each negative ATK point they have.
+flavor=
+
+< CARD_BOSS_COOP_IMMOVABLE_OBJECT >
+name=Immovabwe Object
+descr=Effect Duwation: 2 Chaptews\nCannot move.\nGain +2 DEF. Can countewattack.\nPwayews who move into the same panew must battwe you.
+flavor=
+
+< CARD_BOSS_COOP_EXTENDED_PHOTON_RIFLE >
+name=Wobo Beam
+descr=Deaw 1 damage to a wandom pwayew. Wepeat once fow evewy 5 chaptews that have passed, up to Boss Wvw x 2 times.
+flavor=
+
+< CARD_BOSS_COOP_PROTECT >
+name=Pwotect
+descr=Stock Effect(Boss Wvw +1): Fow any damage you take, consume a stack fow each up to 3 damage to wowew it to 1.\nIf stacks awe depweted, gain -2 DEF, -2 EVD AND -1 MOV fow 3 chaptews.
+flavor=
+
+< CARD_BOSS_COOP_TURBO >
+name=Tuwbo
+descr=Woww thwee dice fow movement this tuwn.
+flavor=
+
+< CARD_BOSS_COOP_ASSAULTFIELD >
+name=Assauwt Fiewd
+descr=Set "Assauwt" twap on 3-5 wandom panews.
+flavor=
+
+< CARD_BOSS_COOP_EVASION_DOWN >
+name=Evasion Down
+descr=Effect Duwation: 2 chaptews. Aww pwayews gain -2 EVD. Boss gains +2 EVD.
+flavor=
+
+< CARD_BOSS_COOP_DEFENSE_DOWN >
+name=Defense Down
+descr=Effect Duwation: 2 chaptews. Aww pwayews gain -2 DEF. Boss gains +2 DEF.
+flavor=
+
+< CARD_BOSS_COOP_ENGAGE >
+name=Engage
+descr=Battwe a wandom pwayew. Gain an additionaw +2 ATK duwing this battwe. +1 Movement die duwing this tuwn.
+flavor=
+
+< CARD_BOSS_COOP_SELF_DESTRUCTION >
+name=Sewf Destwuction
+descr=Deaw 3 damage to sewf. Pwayews in 3 panew wange take 1 damage. Pwayews in 2 panew wange take 1 mowe damage. Pwayews in 1 panew wange take 1 mowe damage. Boss cannot go undew 1 HP fwom this effect.
+flavor=
+
+< CARD_BOSS_COOP_SOLID_WITCH >
+name=Sowid Witch
+descr=Effect Duwation: 1 chaptew.\nBoss wiww take no damage.
+flavor=
+
+< CARD_BOSS_COOP_DELTA_FIELD >
+name=Scwambwed Dewta Fiewd
+descr=Effect Duwation: 2 Chaptews. Aww pwayews wiww weceive the fowwowing effect: Aww dice wowws wiww be 1, 2, ow 3.
+flavor=
+
+< CARD_BOSS_COOP_IMAGINARY_NUMBERS >
+name=Imaginawy Numbews
+descr=Effect Duwation: 1 chaptew. Woww natuwaw 7s.
+flavor=
+
+< CARD_BOSS_COOP_HEALTH_DOWN >
+name=Heawth Down
+descr=Aww pwayews gain Stock Effect(1): Max HP is weduced by 1 (to a minimum of 2). On KO, pwayews wemove 2 stacks of the effect.
+flavor=
+
+< CARD_BOSS_COOP_RECOVERY_MODE >
+name=Wecovewy Mode
+descr=Stock effect(1): Untiw next battwe, skip movement woww and heaw fow 2 HP pew tuwn.
+flavor=
+
+< CARD_BOSS_COOP_PERFECT_REFLECTIVE_SHELL >
+name=Pewfect Wefwective Sheww
+descr=Deaw 1 damage back fow each point of damage weceived.
+flavor=
+
+< CARD_BOSS_COOP_EMP >
+name=EMP
+descr=Deaw 1 damage to aww pwayews. Effect Duwation: 2 chaptews. Affected pwayews cannot use cawds.
+flavor=
+
+< CARD_BOSS_COOP_BIG_POPPO >
+name=Fwom the Abyss
+descr=Summon a Big Poppo minion into the fiewd. Big Poppo deaws no combat damage but wiww steaw 3 staws pew damage deawt. Shawes staws with the Boss. Gives 100 staws and 3 Wins on KO.\nAftew being KO'd, it wiww get 10 WEC.
+flavor=
+
+< CARD_BOSS_COOP_NAP >
+name=Nap
+descr=Dwop 5 staws.
+flavor=
+
+< CARD_BOSS_COOP_ELUSIVE >
+name=Ewusive
+descr=Chawity, then Wandom Wawp. This tuwn, pwayews wose 5x Boss Wvw staws and Boss gains 5x Boss Wvw staws evewy time the Boss ow an active minion entews theiw panew.
+flavor=
+
+< CARD_BOSS_COOP_STAR_MANIA >
+name=Staw Mania
+descr=Stock Effect(1):\nEvewy chaptew, Boss wiww gain +1 staw fow each Staw Mania active.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_TAX >
+name=Poppo Tax
+descr=Each pwayew not within 2 panew wadius of the boss ow an active minion woses 5 staws. Boss wiww gain 5 staws fow each pwayew affected. Aftew that, a Wandom Wawp event wiww occuw.
+flavor=
+
+< CARD_BOSS_COOP_TITHE >
+name=Tithe
+descr=Each pwayew within Boss Wvw panews of the boss ow an active minion woses 10 staws. Boss wiww gain 10 staws fow each pwayew affected.
+flavor=
+
+< CARD_BOSS_COOP_UBIQUITOUS >
+name=Ubiquitous
+descr=Boss wiww tewepowt to the pwayew fuwthest away fwom Boss and steaw pwayew Wvw x 5 staws.\nActive Minions wiww tewepowt to the cwosest pwayew and steaw 5 staws.\nIf thewe awe two ow mowe pwayews to choose fwom, pick a wandom one.
+flavor=
+
+< CARD_BOSS_COOP_SNATCHER >
+name=Snatchew
+descr=A wandom pwayew wiww discawd a cawd.\nBoss wiww gain 5 staws fow each wevew of the discawded cawd.
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO >
+name=Sky Westauwant 'Poppo'
+descr=Dwop a "Sky Westauwant 'Poppo'" twap on panews boss and an active minion stand on: Fuwwy westowe HP. Pay 10 staws pew heawed HP to the Boss.
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO_TRAP >
+name=Sky Westauwant 'Poppo'
+descr=Fuwwy westowe HP. Pay 10 staws pew heawed HP to the Boss.
+flavor=
+
+< CARD_BOSS_COOP_HIGHWAY_ROBBERY >
+name=Highway Wobbewy
+descr=On this tuwn, the Boss wiww gain +3 ATK, move in wevewse and not stop upon chawwenging a pwayew.\nFow each damage that wouwd be deawt, steaw 10 staws instead.
+flavor=
+
+< CARD_BOSS_COOP_GREED >
+name=Gweed
+descr=Effect Duwation: 1 Chaptew. Boss wiww gain +5 staws pew damage boss ow an active minion deaws in battwe.
+flavor=
+
+< CARD_BOSS_COOP_WARP_PHENOMENON >
+name=Wawp Phenomenon
+descr=Wandom Wawp event wiww happen 3 times.\nAftew each wawp, steaw 5 staws fwom and deaw 1 damage to each pwayew within 1 panew of the boss ow an active minion.
+flavor=
+
+< CARD_BOSS_COOP_POPPOFORMATION >
+name=Poppofowmation
+descr=Aww pwayews wiww gain Stock Effect(1):\nIn the next battwe, base ATK, DEF and EVD wiww be -1.
+flavor=
+
+< CARD_BOSS_COOP_TEMPTATION >
+name=Temptation
+descr=Untiw next Boss tuwn, aww cawds awe fwee to pway. Boss wiww gain 10x Cawd Wvw staws when a pwayew pways a cawd.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_GALAXY >
+name=Poppo Gawaxy
+descr=Fow each 100 staws the Boss cawwies, it wiww deaw 1 damage to aww pwayews not within 2 panews of the Boss ow an active minion, down to 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_DEATH_AND_TAXES >
+name=Death and Taxes
+descr=Boss wiww deaw 1 damage to each pwayew within 2 panews of the Boss ow an active minion fow evewy 50 staws they cawwy.\nFow each KO, Boss wiww gain 50 staws.
+flavor=
+
+< CARD_BOSS_COOP_VALUE_JUDGMENT >
+name=Vawue Judgment
+descr=If the totaw base ATK vawue of aww pwayews is positive, deaw that much damage to aww pwayews.\nIf it is negative, heaw aww pwayews instead fow the same amount.\nSteaw ow give 10 staws fow each damage deawt ow heawed.
+flavor=
+
+< CARD_BOSS_COOP_RANSOM_NOTE >
+name=Wansom Note
+descr=Give aww active pwayews a "Wansom Note" Gift cawd:\nCost: 10x numbew of othew Wansom Notes used this chaptew.\nPay the cost to Boss to discawd Wansom Note. At the end of youw tuwn, suffew KO if cawwying Wansom Note.\nIf discawded by othew means than pwaying it, discawd youw hand.
+flavor=
+
+< CARD_COOP_BOOST_RANSOM_NOTE >
+name=Wansom Note
+descr=Cost: 10x numbew of othew Wansom Notes used this chaptew.\nPay the cost to Boss to discawd Wansom Note. At the end of youw tuwn, suffew KO if cawwying Wansom Note.\nIf discawded by othew means than pwaying it, discawd youw hand.
+flavor=
+
+< CARD_BOSS_COOP_POPPOCALYPSE >
+name=Poppocawypse
+descr=Effect Duwation: 1 chaptew.\nAww non-boss, non-home, non-wawp panews tuwn into encountew panews. Evewy Poppo in the game gains +2 ATK. Wiwd Poppo give 5 staws pew battwe damage deawt to the Boss.
+flavor=
+
+< CARD_BOSS_COOP_HOARDER >
+name=Hoawdew
+descr=When damaged, gain +1 DEF untiw end of chaptew.
+flavor=
+
+< CARD_BOSS_COOP_REST >
+name=West
+descr=Wose 1 Hype.
+flavor=
+
+< CARD_BOSS_COOP_CHASE >
+name=Chase
+descr=Dash. Fow evewy pwayew Boss fights this tuwn, gain 1 Hype.
+flavor=
+
+< CARD_BOSS_COOP_PLAY >
+name=Pway
+descr=Gain 1 Hype.
+flavor=
+
+< CARD_BOSS_COOP_TIRE_OUT >
+name=Tiwe Out
+descr=Aww active pwayews wiww suffew Tiwed. Effect Duwation: 2 chaptews. +1 WEC on next KO.
+flavor=
+
+< CARD_BOSS_COOP_TIRED >
+name=Tiwed
+descr=Effect Duwation: 2 chaptews. +1 WEC on next KO.
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_SEEKER >
+name=Pudding Seekew
+descr=Wose 1 Hype. Dwaw and execute a new cawd.
+flavor=
+
+< CARD_BOSS_COOP_BIRDS >
+name=Biwds
+descr=Aww pwayews take 1 damage. Gain 1 Hype fow each pwayew KO'd by this effect.
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_FRIEND >
+name=Seaguww Fwiend
+descr=Set "Dance of the Seaguwws" twap undew the Boss: deaw 2 damage and Boss gains 1 HP and 1 Hype. Stock Effect(1): In next battwe, gain -2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_DANCE_OF_SEAGULLS >
+name=Dance of the Seaguwws
+descr=Deaw 2 damage and Boss gains 1 HP and 1 Hype. Stock Effect(1): In next battwe, gain -2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_PLAY_TAG >
+name=Pway Tag
+descr=Boss wiww gain +2 ATK untiw its next tuwn. Gain 1 Hype fow each pwayew who boss fights untiw its next tuwn.
+flavor=
+
+< CARD_BOSS_COOP_HIDE_AND_SEEK >
+name=Hide And Seek
+descr=Wawp to a wandom panew. Boss wiww not move untiw next battwe. Gain 2 Hype on evewy fowwowing Boss tuwn whiwe active.
+flavor=
+
+< CARD_BOSS_COOP_SPLASH_WATER >
+name=Spwash Watew
+descr=Aww pwayews within 2 panew wadius of Boss wiww take (Boss Wvw) damage. Gain 1 Hype fow evewy tawget hit.
+flavor=
+
+< CARD_BOSS_COOP_PSYCHED_UP >
+name=Psyched Up
+descr=Effect Duwation: 2 chaptews. Gain +2 MOV. Gain 1 Hype.
+flavor=
+
+< CARD_BOSS_COOP_PLAY_WITH_BIRDS >
+name=Pway With Biwds
+descr=Effect Duwation: 1 chaptew. When a minion takes damage in battwe, Boss wiww gain 1 Hype and, awong with aww active Minions, +1 ATK.
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_MASTER >
+name=Seaguww Mastew
+descr=Set "Dance of the Seaguwws" twap undew the Boss and each Minion: deaw 2 damage and Boss gains 1 HP and 1 Hype. Stock Effect(1): In next battwe, gain -2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_WATERMELON_SPLITTING >
+name=Watewmewon Spwitting
+descr=Untiw the end of its tuwn, Boss wiww gain +5 ATK and won't stop when chawwenging a pwayew. Fow each KO'd pwayew, gain 2 Hype.
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTION >
+name=Exhaustion
+descr=Gain 1 Hype.\nAww active pwayews wiww suffew Exhausted. Effect Duwation: 2 chaptews. +2 WEC on next KO.
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTED >
+name=Exhausted
+descr=Effect Duwation: 2 chaptews. +2 WEC on next KO.
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_BREAK >
+name=Pudding Bweak
+descr=Heaw 4 HP. Gain 2 Hype.
+flavor=
+
+< CARD_BOSS_COOP_HYPE_IT_UP >
+name=Hype It Up
+descr=Gain 4 Hype. Untiw its next tuwn, Boss gains +1 ATK, +1 DEF, -1 EVD and wiww wose 1 Hype when damaged in battwe. Wose 2 Hype if KO'd in battwe.
+flavor=
+
+< CARD_BOSS_COOP_SANDWICH_THIEVES >
+name=Sandwich Thieves
+descr=Aww pwayews take 1-3 damage. Gain 1 Hype fow each pwayew KO'd by this effect.
+flavor=
+
+< CARD_BOSS_COOP_HYPE_MODE >
+name=Hype Mode
+descr=Gain +2 ATK and +1 DEF in battwe. Whenevew Boss suffews KO, it wiww wecovew on its next tuwn.
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE >
+name=Wampage
+descr=Wowew Hype to 0. Aww pwayews take 1 damage fow each stack of Wampage. This tuwn, woww 2x fow move and don't stop when chawwenging a pwayew. Gain Boss Wvw x 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE_HYPER >
+name=Wampage
+descr=Wowew Hype to 0. Aww pwayews take 1 damage fow each stack of Wampage. This tuwn, woww 2x fow move and don't stop when chawwenging a pwayew. Gain +1 pewmanent ATK and Boss Wvw x 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_HYPE >
+name=Hype
+descr=
+flavor=
+
+< CARD_BOSS_COOP_SNACKS >
+name=Snacks
+descr=A wandom pwayew wiww heaw 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_SCREECH >
+name=Scweech
+descr=Deaw 1 damage to pwayews in (Boss Wvw) wadius.
+flavor=
+
+< CARD_BOSS_COOP_RAKE >
+name=Wake
+descr=Deaw (Boss Wvw) damage to pwayews in 1 panew wadius.
+flavor=
+
+< CARD_BOSS_COOP_CLOUD_OF_SEAGULLS >
+name=Cwoud of Seaguwws
+descr=Deaw 2 damage to a wandom pwayew.
+flavor=
+
+< CARD_BOSS_COOP_RUSH >
+name=Wush
+descr=Boss wiww move to a wandom pwayew and battwe them.
+flavor=
+
+< CARD_BOSS_COOP_CHASE_AROUND >
+name=Chase Awound
+descr=Aww units awe wawped to wandom panews.
+flavor=
+
+< CARD_BOSS_COOP_QUAKE >
+name=Quake
+descr=Effect duwation: 1 chaptew.\nAww pwayews wiww gain -2 MOV.
+flavor=
+
+< CARD_BOSS_COOP_AIR_RAID >
+name=Aiw Waid
+descr=Deaw 1 damage to aww pwayews.
+flavor=
+
+< CARD_BOSS_COOP_RUSH2 >
+name=Doubwe Wush
+descr=Boss wiww move to a wandom pwayew and battwe them. Then Boss wiww wepeat the action on anothew wandom pwayew.
+flavor=
+
+< CARD_BOSS_COOP_SWIPE >
+name=Swipe
+descr=Wawp a wandom pwayew to the panew Boss is at, then battwe them.
+flavor=
+
+< CARD_BOSS_COOP_HUNT >
+name=Hunt
+descr=At the end of the Boss move, battwe aww pwayews within 1 panew wadius to battwe in a wandom owdew.
+flavor=
+
+< CARD_BOSS_COOP_FALSE_HOPE >
+name=Fawse Hope
+descr=A wandom pwayew wiww heaw to fuww HP. Deaw damage equaw to the heawed amount to aww othew pwayews.
+flavor=
+
+< CARD_BOSS_COOP_SNATCH >
+name=Snatch
+descr=A wandom pwayew wiww discawd a cawd. If it was a boost cawd, the Boss wiww heaw 1 HP. If it was a battwe cawd, the pwayew wiww take 2 damage.
+flavor=
+
+< CARD_BOSS_COOP_AIR_STRIKE >
+name=Aiw Stwike
+descr=Deaw 1-3 damage to aww pwayews.
+flavor=
+
+< CARD_BOSS_COOP_MEGA_RUSH >
+name=Mega Wush
+descr=Boss wiww move to each pwayew in a wandom owdew and battwe them.
+flavor=
+
+< CARD_BOSS_COOP_FRANTIC >
+name=Fwantic
+descr=The Boss wiww wawp to a wandom wocation 3 times. Aftew each wawp, deaw 2 damage to aww units within 2 panews of the boss.
+flavor=
+
+< CARD_BOSS_COOP_WAVE_OF_DESPAIR >
+name=Wave of Despaiw
+descr=Fow each pwayew cuwwentwy KO'd, deaw 2 damage to aww pwayews.
+flavor=
+
+< CARD_BOSS_COOP_AURA_OF_TERROR >
+name=Auwa of Tewwow
+descr=Deaw 1 damage to aww pwayews. If at weast 1 pwayew is KO'd by this effect, wepeat this action.
+flavor=
+
+< CARD_BOSS_COOP_LAUNCH >
+name=Waunch
+descr=Mawk a wandom non-wawp panew. Fow 1 chaptew, non-wawp panews in 2 panew wadius of mawked panew become Boss panews. Boss wiww weave the boawd. If not on boawd at the stawt of Boss tuwn, pway Dive.
+flavor=
+
+< CARD_BOSS_COOP_DIVE >
+name=Dive
+descr=Boss wiww wetuwn to the mawked panew. Aww pwayews on mawked panew suffew KO. Chawactews in 2 panew wadius take (Boss Wvw) damage. Mawked panew becomes a Damage panew. Dwaw and pway a new cawd.
+flavor=
+
+< CARD_BOSS_COOP_IDENTITY_CRISIS >
+name=Identity Cwisis
+descr=Deaw 1 Damage to sewf. Gain 5 staws.
+flavor=
+
+< CARD_BOSS_COOP_ROBO_TAX >
+name=Wobo Tax
+descr=Each pwayew not within 3 panew wadius of the boss ow a minion woses 5 staws. Gain 5 staws and +1 DEF untiw next Boss tuwn fow each pwayew affected.
+flavor=
+
+< CARD_BOSS_COOP_PLUCK >
+name=Pwuck
+descr=Deaw 2 damage to aww pwayews on the same panew. Boss gains 10 staws pew affected unit.
+flavor=
+
+< CARD_BOSS_COOP_CATCHER >
+name=Catchew
+descr=A wandom pwayew discawds a cawd and then dwaws a cawd. Gain 5 staws pew Wvw of dwawn cawd.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_MARCH >
+name=Poppo Mawch
+descr=Stock Effect (1) on Boss and aww minions on the fiewd.\nIn the next battwe, gain +2 EVD. Boss gains 20 staws.
+flavor=
+
+< CARD_BOSS_COOP_PREMIUM_REGENERATION >
+name=Pwemium Wegenewation
+descr=Aww units on the boawd heaw 1 HP. Boss gains 20 staws.
+flavor=
+
+< CARD_BOSS_COOP_WIRELESS_CHICKEN >
+name=Wiwewess Chicken
+descr=If boss has wess than 50% HP wemaining, Boss and each othew enemy gains +2 ATK untiw the end of Boss tuwn and wiww attack each pwayew within 1 panew of them. Gain 10 staws fow each pwayew affected.
+flavor=
+
+< CARD_BOSS_COOP_ROPO_BARRAGE >
+name=WoPo Bawwage
+descr=Cost: 30 staws. Effect Duwation: Infinite. A wandom pwayew takes 1 damage. At the stawt of each Boss tuwn, wepeat this effect. The effect ends when a unit suffews KO. If the cost cannot be paid, gain 60 staws instead.
+flavor=
+
+< CARD_BOSS_COOP_DELUSIONAL_NUMBERS >
+name=Dewusionaw Numbews
+descr=Cost: 20 staws. Effect Duwation: 1 chaptew. Boss wiww woww eithew a natuwaw 0 ow 7, and the minimum woww wesuwt is 0 when wowwing 0. If the cost cannot be paid, gain 40 staws instead.
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING2 >
+name=Second Wing
+descr=Boss and aww minions on boawd heaw equaw to boss Wvw. Steaw 2 staws pew heawed HP.
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER >
+name=Po-Bombew
+descr=Cost: 5 staws pew bomb. Cweate 2-3 invisibwe bomb twaps on wandom panews.
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER_TRAP >
+name=Invisibwe Bomb
+descr=Weduces HP to 1. Does not affect boss ow awwies.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_UNIVERSE >
+name=Poppo Univewse
+descr=Cost: 50 staws. Fow each 50 staws boss cawwies, deaw 1 damage to aww units not within 3 panews of the boss ow a minion. If the cost cannot be paid, gain 100 staws instead.
+flavor=
+
+< CARD_BOSS_COOP_POPPOCARE >
+name=Poppocawe
+descr=Wevive aww KO'd pwayews to 1 HP. Wawp to each pwayew with 1 HP in wandom owdew and battwe them. Gain 30 staws fow each pwayew KO'd.
+flavor=
+
+< CARD_BOSS_COOP_REFINED_TALONS >
+name=Wefined Tawons
+descr=Cost: 50 staws. Deaw X damage to the pwayew with the wowest HP and anothew wandom pwayew, whewe X is the HP of the fiwst pwayew affected. If the cost cannot be paid, gain 100 staws instead.
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_DEMIBIRD >
+name=Beak of the Demi-Biwd
+descr=Untiw end of Boss tuwn, gain +2 ATK. Attack aww pwayews in 2 panew wadius in owdew of the wowest HP. Fow each pwayew KO'd, gain +100 staws.
+flavor=
+
+< CARD_BOSS_COOP_TURBO_CHICKEN >
+name=Tuwbo Chicken
+descr=Untiw end of Boss tuwn, gain +1 move die and do not stop when chawwenging a pwayew. Gain +1 ATK and 25 staws fow evewy pwayew fought untiw end of tuwn.
+flavor=
+
+< CARD_BOSS_COOP_BIG_PO_SPECIAL >
+name=Big Po's Speciaw
+descr=Cost: 100 staws. Stock Effect (2): At the stawt of Boss tuwn, a wandom pwayew takes (Boss Wvw) damage. If the cost cannot be paid, gain 200 staws instead.
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENCY >
+name=Bawance Cuwwency
+descr=Steaw 5 staws fwom each pwayew fow evewy positive ATK point they have. Give each pwayew 5 staws fow each negative ATK point they have.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST >
+name=Woost Boost
+descr=If thewe awe no chicken Minions, summon a chicken Minion on the panew the Boss is at.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST_HYPER >
+name=Woost Boost
+descr=If thewe awe wess than 2 chicken Minions, summon a chicken Minion on the panew the Boss is at.
+flavor=
+
+< CARD_BOSS_COOP_PO_TECT >
+name=Po-tect
+descr=Cost: 20 staws. Stock Effect(Boss Wvw): Fow any damage you take, consume a stack fow each up to 2 damage to wowew it to 1.\nIf stacks awe depweted, gain -1 DEF, -1 EVD AND -1 MOV fow 3 chaptews.
+flavor=
+
+< CARD_BOSS_COOP_FLOAT >
+name=Fwoat
+descr=No effect.
+flavor=
+
+< CARD_BOSS_COOP_WHIRL >
+name=Whiww
+descr=Evewy pwayew within Boss Wvw panew wadius of a minion wawps to a wandom panew.
+flavor=
+
+< CARD_BOSS_COOP_BUBBLE_BATH >
+name=Bubbwe Bath
+descr=Heaw a wandom minion fow 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_ENTRY_FEE >
+name=Entwy Fee
+descr=Evewy pwayew within 2 panew wadius of a minion woses staws equaw to Boss Wvw.
+flavor=
+
+< CARD_BOSS_COOP_GULP_OF_WATER >
+name=Guwp of Watew
+descr=Deaw 2 damage to a wandom pwayew.
+flavor=
+
+< CARD_BOSS_COOP_COACHING >
+name=Coaching
+descr=Untiw end of chaptew, aww minions gain +1 ATK.
+flavor=
+
+< CARD_BOSS_COOP_CONFISCATE >
+name=Confiscate
+descr=Evewy active pwayew standing on a panew with an active minion wiww discawd a cawd.
+flavor=
+
+< CARD_BOSS_COOP_SHOCK >
+name=Shock
+descr=Evewy minion deaws 1 damage to evewy pwayew within Boss Wvw panew wadius.
+flavor=
+
+< CARD_BOSS_COOP_GO_FASTER >
+name=Go Fastew!
+descr=Effect Duwation: 2 chaptews.\nYouw Swim Wingews gain +2 MOV and +2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_RESPITE >
+name=Wespite
+descr=Evewy Goawpost wiww heaw evewy unit within 2 panew wadius fow 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_PACE_UP >
+name=Pace Up
+descr=Effect Duwation: 3 chaptews. Aww minions gain +1 ATK and -1 EVD.
+flavor=
+
+< CARD_BOSS_COOP_HUSTLE >
+name=Hustwe
+descr=Evewy Goawpost wiww deaw 5 damage to a wandom pwayew on the same panew as them.
+flavor=
+
+< CARD_BOSS_COOP_MOTIVATE >
+name=Motivate
+descr=A wandom pwayew wiww take damage equaw to the numbew of active Goawposts.
+flavor=
+
+< CARD_BOSS_COOP_TROPICAL_CYCLONE >
+name=Twopicaw Cycwone
+descr=Evewy minion mawks a wandom non-wawp panew. Aftew 1 chaptew, evewy minion wawps to theiw mawked panew and deaws Boss Wvw damage to evewy pwayew within 2 panew wadius.
+flavor=
+
+< CARD_BOSS_COOP_BUTTERFLY >
+name=Buttewfwy
+descr=Effect Duwation: 2 chaptews. Aww minions gain +2 ATK and +1 MOV.
+flavor=
+
+< CARD_BOSS_COOP_ZAP >
+name=Zap
+descr=Evewy minion deaws Boss Wvw damage to evewy pwayew within 1 panew wadius.
+flavor=
+
+< CARD_BOSS_COOP_ENCOURAGE >
+name=Encouwage
+descr=Youw Bawwoon Jewk wiww move to the panew of a wandom pwayew within the showtest wadius and battwe them. They gain +3 ATK in this battwe. If the pwayew is defeated, they wiww wepeat this action fow the next neawest pwayew.
+flavor=
+
+< CARD_BOSS_COOP_MOVING_GOALPOST >
+name=Moving the Goawpost
+descr=Evewy Bawwoon Jewk and Swimming Wingew wiww deaw damage equaw to the numbew of Goawpost minions to aww pwayews within 2 panew wadius.
+flavor=
+
+< CARD_BOSS_COOP_GOALPOST >
+name=Goawpost
+descr=If thewe awe wess than 5 Goawpost minions on the fiewd, summon a Goawpost minion and take 2 damage. Nevew moves ow evades. Goawposts can onwy be damaged by attacks that deaw 1 damage.
+flavor=
+
+< CARD_BOSS_COOP_BALLOON_JERK >
+name=Bawwoon Jewk
+descr=If thewe is no Bawwoon Jewk minion on the fiewd, summon a Bawwoon Jewk minion and take 12 damage.
+flavor=
+
+< CARD_BOSS_COOP_SWIMMING_RINGER >
+name=Swimming Wingew
+descr=If thewe awe wess than 2 Swimming Wingew minions on the fiewd, summon a Swimming Wingew minion and take 6 damage. Swimming Wingews have -1 MOV.
+flavor=
+
+< CARD_BOSS_COOP_HOME_SWEEPER >
+name=Home Sweepew
+descr=Aww pwayew homestops wiww be wemoved fow the west of the game.
+flavor=
+
+< CARD_HYPER_COOP_CLASS_ATTACKER >
+name=Uwtimate Weapon in the Sun
+descr=Deaw +3 damage fow each attack in youw next battwe.
+flavor="I'ww commence... my vacation now." ―Sowa
+
+< CARD_HYPER_COOP_CLASS_GUARDIAN >
+name=Wifeguawd on the White Beach
+descr=Aww awwies gain Stock Effect(1): In the next battwe, take 2 wess damage.
+flavor="Geez, you'we going ovewboawd." ―Suguwi
+
+< CARD_HYPER_COOP_CLASS_SUPPORT >
+name=Guawdian of Bwooming Fwowews
+descr=Wevive one KO'd awwy with fuww HP.
+flavor="You'we fine now. The pain's gone." ―Hime
+
+< CARD_HYPER_COOP_CLASS_AVENGER >
+name=Unfowgiving Avengew
+descr=Effect Duwation: 3 Chaptews\nIf KO'd duwing battwe, wetuwn to fuww HP.
+flavor="Mimyuu! Who did this to you..." ―Tomato
+
+< CARD_HYPER_COOP_CLASS_DEALER >
+name=Summew Games
+descr=Stock Effect\nTweat any panew you wouwd wand on this tuwn as a 2x Dwaw panew.
+flavor=
+
+< CARD_SKILL_COOP_ADVANTAGE >
+name=Advantage
+descr=Awways go fiwst in battwe when fighting a Boss.
+flavor=
+
+< CARD_SKILL_COOP_RECOVERYDOWN >
+name=Wecovewy Down
+descr=Nowma 1: WEC +1.
+flavor=
+
+< CARD_SKILL_COOP_ATTACKBOOST >
+name=Attack Boost
+descr=Nowma 2: ATK +1. Nowma 4: ATK +2.
+flavor=
+
+< CARD_SKILL_COOP_FURY >
+name=Fuwy
+descr=Deaw +1 damage fow each attack.\nCoowdown: 6 Chaptews.
+flavor=
+
+< CARD_SKILL_COOP_PROTECT >
+name=Pwotect
+descr=Pwotect tawget fwom up to 2 incoming damage.\nCoowdown: 1 Chaptew.
+flavor=
+
+< CARD_SKILL_COOP_IRONDEFENSE >
+name=Iwon Defense
+descr=Take minimum 0 damage when defending duwing this battwe.\nCoowdown: 3 Chaptews.
+flavor=
+
+< CARD_SKILL_COOP_DEFENSEBOOST >
+name=Defense Boost
+descr=Nowma 2: DEF +1. Nowma 4: DEF +2
+flavor=
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT >
+name=Guawdian Spiwit
+descr=Infwicts Guawdian Spiwit on aww awwies.\nEffect Duwation: 2 Chaptews: Take 1 wess damage in battwe.\nCoowdown: 8 Chaptews.
+flavor=
+
+< CARD_SKILL_COOP_MOVEMENTBOOST >
+name=Movement Boost
+descr=Nowma 2: MOV +1. Nowma 4: MOV +2
+flavor=
+
+< CARD_SKILL_COOP_HEAL >
+name=Heaw
+descr=Can heaw an awwy 1 HP when entewing theiw panew.
+flavor=
+
+< CARD_SKILL_COOP_REVIVE >
+name=Wevive
+descr=Can wevive an awwy by paying 3 staws x wemaining WEC when entewing theiw panew.
+flavor=
+
+< CARD_SKILL_COOP_EVASIONBOOST >
+name=Evasion Boost
+descr=Nowma 3: EVD +1
+flavor=
+
+< CARD_SKILL_COOP_RESTORINGLIGHT >
+name=Westowing Wight
+descr=Wevive one KO'd awwy with 50% HP.\nCoowdown: 8 Chaptews.
+flavor=
+
+< CARD_SKILL_COOP_HEALTHBOOST >
+name=Heawth Boost
+descr=Nowma 2: Max HP +1. Nowma 4: Max HP +2
+flavor=
+
+< CARD_SKILL_COOP_AVENGER >
+name=Avengew
+descr=Fow each HP wost in battwe, gain +1 ATK
+flavor=
+
+< CARD_SKILL_COOP_RECOVERY >
+name=Wecovewy
+descr=Nowma 3: WEC -1
+flavor=
+
+< CARD_SKILL_COOP_FROMBEYOND >
+name=Fwom Beyond
+descr=Effect Duwation: 2 Chaptews\nIf KO'd duwing battwe, wetuwn to up to 3 HP.\nCoowdown: 8 Chaptews.
+flavor=
+
+< CARD_SKILL_COOP_HANDBOOST >
+name=Hand Boost
+descr=Nowma 2: +1 hand size. Nowma 4: +2 hand size. Max 5.
+flavor=
+
+< CARD_SKILL_COOP_DEAL >
+name=Deaw
+descr=If howding 3 ow mowe cawds, send a cawd in hand of youw choice to tawget pwayew.
+flavor=
+
+< CARD_SKILL_COOP_SUPPLY >
+name=Suppwy
+descr=Dwaw an additionaw cawd evewy time you dwaw cawds.
+flavor=
+
+< CARD_SKILL_COOP_DEALER_HEALTHBOOST >
+name=Heawth Boost
+descr=Nowma 3: Max HP +1
+flavor=
+
+< CARD_SKILL_COOP_DEMAND >
+name=Demand
+descr=Tweat the next panew you step onto as a Dwaw panew.\nCoowdown: 6 Chaptews.
+flavor=
+

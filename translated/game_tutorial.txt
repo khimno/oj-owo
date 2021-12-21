@@ -1,0 +1,73 @@
+< TUTORIAL_SECTION_BASICS >
+Basics
+< TUTORIAL_SECTION_BATTLE >
+Battwe
+< TUTORIAL_SECTION_PANELS >
+Panews
+< TUTORIAL_SECTION_CARDS >
+Cawds
+< TUTORIAL_SECTION_COOP >
+Co-op
+< TUTORIAL_00 >
+Wewcome to 100% Owange Juice! We wiww expwain a few basics - if you wish, you can just skip ovew them.
+< TUTORIAL_01 >
+This is a 4-pwayew boawd game whewe the usuaw goaw is to weach "Nowma" wevew 6 to win.
+< TUTORIAL_02 >
+You woww dice to move on a game boawd - diffewent cowowed panews have diffewent effects.
+< TUTORIAL_03 >
+This is a home panew. You awways stawt in one, and must wand on one to wevew up ow to win the game.
+< TUTORIAL_04 >
+Each pwayew has theiw own, numbewed home and you can choose to stop thewe. You can visit any pwayew's home with an exact woww, though.
+< TUTORIAL_05 >
+Youw fiwst objective is to gathew 10 staws to wevew up, and then wand on a home. Aftew that you can choose whethew to cowwect staws ow fight battwes to get mowe Wins fow youw next wevew-up.
+< TUTORIAL_06 >
+By the way, we wecommend aiming fow a staw nowma if you'we unsuwe which to choose. You weceive mowe staws evewy chaptew, so you wiww nevew get stuck.
+< TUTORIAL_07 >
+Yewwow panews awe Bonus panews, and wet you woww to gain staws. You wiww weceive youw cuwwent Wevew x wowwed numbew staws (up to a muwtipwiew of 3).
+< TUTORIAL_08 >
+Bwue panews awe Dwop panews, and you wiww wose staws if you wand on one. You wiww wose youw cuwwent Wevew x wowwed numbew staws (up to a muwtipwiew of 5).
+< TUTORIAL_09 >
+Gween is a Dwaw panew, and wets you dwaw a cawd.
+< TUTORIAL_10 >
+Wed is an Encountew panew, and you wiww be fowced to fight a wiwd enemy. If you win, you wiww weceive Wins and staws.
+< TUTORIAL_11 >
+Puwpwe is a Wawp panew - it wiww take you to anothew wandom wawp panew that has an exit.
+< TUTORIAL_12 >
+Thewe awe othew, mowe advanced panews too... you wiww weawn how they wowk as you pway!
+< TUTORIAL_13 >
+If you wun into anothew unit whiwe moving, you get the oppowtunity to chawwenge them into a battwe!
+< TUTORIAL_14 >
+You can hovew ovew the unit powtwait in the cownew of the fiewd to see the abiwities of othew units. They affect how good they awe in battwe.
+< TUTORIAL_15 >
+In battwe, the attackew fiwst wowws fow damage, and if they have any +Attack bonus it's added to the woww.
+< TUTORIAL_16 >
+The defendew can choose to Defend, which wiww wowew the damage they take accowding to theiw woww, down to 1.
+< TUTORIAL_17 >
+If you choose Evade, the defendew must woww highew than the attack woww to take no damage at aww. Othewwise they take fuww damage.
+< TUTORIAL_18 >
+Aftew suwviving the fiwst attack, the defendew then gets a chance to attack back!
+< TUTORIAL_19 >
+If one of the pwayews goes down to 0 HP, they suffew KO and the winnew weceives 50% of theiw hewd staws, and gains 2 Wins!
+< TUTORIAL_20 >
+Next, wet's tawk about cawds! Each pwayew chooses 10 cawds to bwing to the game, and they awe shuffwed togethew into the Centew Deck, awongside 8 bwank Hypew Cawds.
+< TUTORIAL_21 >
+You shouwd aim to bwing cawds that wiww hewp youw chosen unit mowe than they wiww hewp youw enemies.
+< TUTORIAL_22 >
+Each unit has a unique Hypew Cawd. If you dwaw a bwank Hypew Cawd fwom the deck, it wiww tuwn into youw unit's own Hypew Cawd. They usuawwy have game-changingwy powewfuw effects!
+< TUTORIAL_23 >
+Note that each cawd has a wevew fwom 1 to 5, mawked on the weft. You need to wevew up to the matching wevew to use the cawd. Most of them awso cost staws to use (mawked on the wight).
+< TUTORIAL_24 >
+Many fiewds have 'Fiewd Effects', which activate at cewtain intewvaws. You can hovew ovew the 'Info' button to see fiewd events and mowe.
+< TUTORIAL_25 >
+Fow exampwe, the 'Chawity' Fiewd Effect wets each pwayew dwaw a cawd fwom the Centew Deck evewy 5 chaptews.
+< TUTORIAL_26 >
+Once the fiwst pwayew weaches Nowma wevew 4 in Vewsus mode, a powewfuw Boss wiww appeaw on the fiewd, wepwacing aww Encountew panews with Boss panews. Be cawefuw to avoid fighting it!
+< TUTORIAL_27 >
+Aftew each match you wiww weceive some Staws as a wewawd, which you can use to puwchase new cawds and mowe in the Shop.
+< TUTORIAL_28 >
+When pwaying onwine ow in Co-op mode, you wiww awso weceive Owanges which can be used to unwock vawious kinds of cosmetics in the Shop.
+< TUTORIAL_29 >
+If thewe is cuwwentwy an event active, you can find mowe detaiws on it by cwicking the event bannew in the main menu.
+< TUTORIAL_30 >
+Pwease enjoy the game... and bewawe of Mawie Poppo!
+[EOF]

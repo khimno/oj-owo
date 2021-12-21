@@ -1,0 +1,204 @@
+﻿< PET_BARREL >
+name=Wed Bawwew
+descr=Wed Bawwew is weady to fwy!
+< PET_CAT >
+name=Cat
+descr=An ewusive cweatuwe with a smug auwa.
+< PET_CHICKEN >
+name=Chicken
+descr=Evades when no ewse wouwd.
+< PET_FRUITBAT >
+name=Fwuitbat
+descr=A bat that has an obsession with owanges.
+< PET_GHOST >
+name=Ghost
+descr=Who's that behind you?
+< PET_LEO >
+name=Weo
+descr=The beast of dawkness wiww dance again.
+< PET_NAVI >
+name=Navi
+descr=What kind of cweatuwe is this?
+< PET_PLANT >
+name=Pwant
+descr=Bites the hand that feeds it.
+< PET_RABBITPLUSH >
+name=Wabbit Pwushie
+descr=This pwush might be possessed.
+< PET_RACCOON >
+name=Waccoon
+descr=Is it a waccoon? Is it a dog? Can it twansfowm?
+< PET_RBIT >
+name=Wbit
+descr=Fowmation Owbit!
+< PET_REDBLUE >
+name=Wed & Bwue
+descr=White Chwistsmashew!
+< PET_ROBOBALL >
+name=Wobobaww
+descr=Fow the wittwe mechanic in evewyone's heawt.
+< PET_SB_BOMB >
+name=SB Bomb
+descr=Don't dwop this.
+< PET_SEAGULL >
+name=Seaguww
+descr=Its favouwite numbew is seven.
+< PET_SEARCHLIGHT >
+name=Seawchwight
+descr=Seems to be seawching fow somebody in pawticuwaw.
+< PET_SHIBE >
+name=Shiba Inu
+descr=Woyaw to a fauwt.
+< PET_SNOWBUNNY >
+name=Snowbunny
+descr=Keep it coow.
+< PET_THINKBUBBLE >
+name=Thinking Bubbwe
+descr=What awe you thinking about?
+< PET_EVENT_REIN >
+name=Wein
+descr=Awu's twusty hewpew. On vacation 364 days a yeaw.
+< PET_EVENT_PRESENT >
+name=Pwesent
+descr=A wondewfuw gift that wawms the heawt.
+< PET_EVENT_PIG>
+name=Pig
+descr=Can pigs weawwy fwy?
+< PET_LIZARD >
+name=Wizawd
+descr=May ow may not wive in the centew of the eawth.
+< PET_DWARF>
+name=Dwawf
+descr=Now actuawwy wiving up to its name.
+< PET_PIYO_EGGSHELL>
+name=Piyo (Eggsheww)
+descr=Which came fiwst - the piyo ow the egg?
+< PET_PIYO>
+name=Piyo
+descr=The piyo that came fiwst.
+< PET_TORTOISE>
+name=Towtoise
+descr=Is known to awways win the wace... eventuawwy.
+< PET_UFO>
+name=UFO
+descr=Awways twying to catch wawe things.
+< PET_SHARK>
+name=Shawk
+descr=Its menacing jaws wouwd wook gweat on a postew.
+< PET_FROG>
+name=Fwog
+descr=A fwog that isn't too fond of the wain.
+< PET_BIT>
+name=Bit
+descr=A wittwe bit enewgetic.
+< PET_SLIME>
+name=Swime
+descr=Said to have a sweet fwavouw.
+< PET_GOLDENEGG >
+name=Gowden Egg
+descr=A speciaw egg that can hatch mowe than once.
+< PET_M10EYE >
+name=M10 Eye
+descr=It sees imaginawy numbews, can you?
+< PET_STAR >
+name=Ewusive Staw
+descr=Comes fwom a diffewent gawaxy.
+< PET_AIRSHIP >
+name=Aiwship
+descr=Coming to give you aiw suppowt.
+< PET_BUTTERFLY >
+name=Buttewfwy
+descr=50% Buttew, 50% Fwy.
+< PET_CUPCAKE >
+name=Cupcake
+descr=Baked at 350 degwees Fahwenheit.
+< PET_BOSS_HARUO >
+name=Hawuo
+descr=Has a gowden heawt.
+< PET_BOSS_JONATHAN >
+name=Big the Jonathan
+descr=Not exactwy aww that big.
+< PET_BOSS_M10 >
+name=M10
+descr=Natuwaw 7 out of M10.
+< PET_BOSS_ROPOCHI >
+name=WoPoChi
+descr=GUPPIPOO!
+< PET_BOSS_STARDEV >
+name=Staw Devouwew
+descr=Abwe to wawp to anywhewe in the wowwd.
+< PET_OCTOPUS >
+name=Octopus
+descr=Can handwe eight tasks at once.
+< PET_SEAL >
+name=Seaw
+descr=Seaws the Deaw.
+< PET_SQUID >
+name=Squid
+descr=Wewease the Kwaken.
+< PET_MANDRAKE >
+name=Mandwake
+descr=Deawing with some deep wooted pwobwems.
+< PET_SUN >
+name=Sun
+descr=Wadiates wadness.
+< PET_SEABUNNY >
+name=Seabunny
+descr=Santa of the sea.
+< PET_ROBOFISH >
+name=Wobofish
+descr=Pwogwammed to keep on swimming.
+< PET_WATERMELON >
+name=Watewmewon
+descr=Saved fwom Summew Beast's wwath.
+< PET_EVENT_POMENARIAN >
+name=Pomewanian
+descr=A bit of a foow dog.
+< PET_EVENT_PUDDING >
+name=Pudding
+descr=A favowite tweat of dogs and witches acwoss the univewse.
+< PET_EVENT_PUFFERFISH >
+name=Puffewfish
+descr=Puffed up with pwide.
+< PET_FUNKYFUNGUS >
+name=Funky Fungus
+descr=A fungus in twying times.
+< PET_ROBOCRAB >
+name=Wobocwab
+descr=It's got the moves.
+< PET_PONYCORN >
+name=Ponycown
+descr=Spweading the magic of fwiendship.
+< PET_WOLLIL>
+name=Wowwi'w
+descr=So fwuffy you couwd die.
+< PET_GLOBLET >
+name=Gwobwet
+descr=Gwobwet of fiwe.
+< PET_TROLLITE >
+name=Twow-wite
+descr=One feaw.
+< PET_SPOOKYDOLL >
+name=Spooky Doww
+descr=Its cuteness wiww haunt youw dweams.
+< PET_HELISEEDLING >
+name=Hewiseedwing
+descr=Gone with the wind.
+< PET_TERRAWORMER >
+name=Tewwawowmew
+descr=Tewwabwy cute.
+< PET_MINIMOSS >
+name=Mini Moss
+descr=Has a heawt of gowd.
+< PET_GEMERANGLER >
+name=Gemewangwew
+descr=A hidden gem.
+< PET_WUFFSHROOM >
+name=Wuffshwoom
+descr=Man's best fungi.
+< PET_TURNISLIM >
+name=Tuwniswim
+descr=Took one tuwn too many.
+< PET_PUNYZARD >
+name=Punyzawd
+descr=It has been asweep fow many wong eaws.

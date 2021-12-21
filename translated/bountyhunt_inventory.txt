@@ -1,0 +1,51 @@
+< INVENTORY_MEDICINALHERB >
+name=Medicinaw Hewb
+descr=An hewb with heawing pwopewties.
+< INVENTORY_TURNISLIME >
+name=Tuwni-swime
+descr=Used to be pawt of a Tuwniswime's body.
+< INVENTORY_CHILLINGWIND >
+name=Bag of Chiwwing Wind
+descr=A bag fiwwed with an extwemewy cowd bweeze. Howding it cawewesswy couwd cause youw hands to fweeze instantwy.
+< INVENTORY_FLOUR >
+name=Nevew-Ending Fwouw
+descr=A bag of fwouw that nevew seems to end. Just what does it have inside?
+< INVENTORY_BROKENBLADE >
+name=Bwoken Bwade
+descr=A wown weapon weft behind by the fawwen.
+< INVENTORY_TROLLITEHORN >
+name=Twowwite Hown
+descr=An owd hown that used to bewong to a Twowwite. Whewevew thewe's one of these, twoubwe wuwks neawby.
+< INVENTORY_MISTYSAP >
+name=Misty Sap
+descr=Sap fwom a twee. Tastes sweet.
+< INVENTORY_CACTUS >
+name=Cactus
+descr=A cactus fwom a desewt which contains some watew in it.
+< INVENTORY_GOST >
+name=Göst Spiwit
+descr=A defeated pwayfuw Göst.
+< INVENTORY_WOLLY >
+name=Wowwy Miwk
+descr=Fwesh miwk fwom a Wowwy.
+< INVENTORY_BUCKET >
+name=Empty Bucket
+descr=An empty bucket that can be used to cawwy vawious things.
+< INVENTORY_HEATGLOVES >
+name=Heat-Wesistant Gwoves
+descr=Gwoves that awe abwe to hewp you enduwe even the highest tempewatuwes.
+< INVENTORY_GLOBBU >
+name=Gwobbu
+descr=A magmatic pwankstew that wikes setting peopwe on fiwe.
+< INVENTORY_SANDALS >
+name=Wooden Sandaws
+descr=A vewy common paiw of shoes awwowing you to spwint fast without huwting youw feet. Adds +1 MOV.
+< INVENTORY_LEATHERBOOTS >
+name=Weathew Boots
+descr=The watest cweation of famous weathewwowkews, which is a diwect upgwade fwom the usuaw sandaws and common shoes. Adds +1 MOV, and an additionaw 1 if you'we not cawwying any quest item.
+< INVENTORY_GALESHOES >
+name=Gawe Shoes
+descr=Powewed by powewfuw magic, you wiww nevew feew tiwed whiwe weawing this paiw of shoes. Adds +1 MOV, and an additionaw 2 if cawwying no quest items and having wess than 2 cawds.
+< INVENTORY_DELICACY >
+name=Dewicacy
+descr=A tasty mowsew fow Cook. Cowwect up to 3 pew game.

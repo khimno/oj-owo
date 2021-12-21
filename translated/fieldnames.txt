@@ -1,0 +1,147 @@
+< FIELD_RANDOM >
+Wandom
+< FIELD_UNKNOWN >
+Unknown
+< FIELD_PRACTICE >
+Pwactice Fiewd
+< FIELD_SPACEWANDERER >
+Space Wandewew
+< FIELD_PUDDINGCHASE >
+Pudding Chase
+< FIELD_CHRISTMASMIRACLE >
+Chwistmas Miwacwe
+< FIELD_PLANETEARTH >
+Pwanet Eawth
+< FIELD_LAGOONFLIGHT >
+Wagoon Fwight
+< FIELD_WARFARE >
+Wawfawe
+< FIELD_HIGHWAYHEIST >
+Highway Heist
+< FIELD_SEALEDARCHIVE >
+Seawed Awchive
+< FIELD_SUNSET >
+Sunset
+< FIELD_TOMOMOABYSS >
+Tomomo's Abyss
+< FIELD_WHITEWINTER >
+White Wintew
+< FIELD_NIGHTFLIGHT >
+Night Fwight
+< FIELD_CLOVER >
+Cwovew
+< FIELD_FARM >
+Fawm
+< FIELD_STARCIRCUIT >
+Staw Ciwcuit
+< FIELD_TRAININGPROGRAM >
+Twaining Pwogwam
+< FIELD_VORTEX >
+Vowtex
+< FIELD_SWEETHEAVEN >
+Sweet Heaven
+< FIELD_STARSHIP >
+Stawship
+< FIELD_FROSTCAVE >
+Fwost Cave
+< FIELD_SHIPYARD >
+Shipyawd
+< FIELD_TREASUREISLAND >
+Tweasuwe Iswand
+< FIELD_TREASUREISLANDNIGHT >
+Tweasuwe Iswand (Night)
+< FIELD_WITCHFOREST >
+Witch Fowest
+< FIELD_ICYHIDEOUT >
+Icy Hideout
+< FIELD_SAKURA >
+Sakuwa Smackdown
+< FIELD_WORKSHOP >
+Santa's Wowkshop
+< FIELD_OCEANDIVE >
+Ocean Dive
+< FIELD_OVERTHESEA >
+Ovew the Sea
+< FIELD_DARKCITADEL >
+Dawk Citadew
+< FIELD_BEGINNERTOWN >
+Beginnew Town
+< FIELD_SCARREDLAND >
+Scawwed Wand
+< FIELD_FUNGUSCAVE >
+Fungus Cave
+< FIELD_WINTERTOWN >
+Beginnew Town (Wintew)
+< FIELD_DESERT >
+Wonewy Waiwway
+< FIELD_COOP_LAGOONFLIGHT >
+Wagoon Fwight CO
+< FIELD_COOP_SUNSET >
+Sunset CO
+< FIELD_COOP_POPPOABYSS >
+Poppo's Abyss
+< FIELD_COOP_STARCIRCUIT >
+Staw Ciwcuit CO
+< FIELD_COOP_SPACEWANDERER >
+Space Wandewew CO
+< FIELD_COOP_HIGHWAYHEIST >
+Highway Heist CO
+< FIELD_COOP_FARM >
+Fawm CO
+< FIELD_COOP_SHIPYARD >
+Shipyawd CO
+< FIELD_COOP_TRAININGPROGRAM >
+Twaining Pwogwam CO
+< FIELD_COOP_NIGHTFLIGHT >
+Night Fwight CO
+< FIELD_COOP_VORTEX >
+Vowtex CO
+< FIELD_COOP_CYBERSPACE >
+Cybewspace
+< FIELD_COOP_PLANETEARTH >
+Pwanet Eawth CO
+< FIELD_COOP_WITCHFOREST >
+Witch Fowest CO
+< FIELD_COOP_WORKSHOP >
+Santa's Wowkshop CO
+< FIELD_COOP_SAKURA >
+Sakuwa Smackdown CO
+< FIELD_COOP_PUDDINGCHASE >
+Pudding Chase CO
+< FIELD_COOP_TREASUREISLAND >
+Tweasuwe Iswand CO
+< FIELD_COOP_TREASUREISLANDNIGHT >
+Tweasuwe Iswand CO (Night)
+< FIELD_COOP_OCEANDIVE >
+Ocean Dive CO
+< FIELD_COOP_OVERTHESEA >
+Ovew the Sea CO
+< FIELD_COOP_CLOVER >
+Cwovew CO
+< FIELD_COOP_FROSTCAVE >
+Fwost Cave CO
+< FIELD_COOP_ICYHIDEOUT >
+Icy Hideout CO
+< FIELD_COOP_STARSHIP >
+Stawship CO
+< FIELD_COOP_TOMOMOABYSS >
+Tomomo's Abyss CO
+< FIELD_COOP_WHITEWINTER >
+White Wintew CO
+< FIELD_COOP_BEGINNERTOWN >
+Beginnew Town CO
+< FIELD_COOP_CHRISTMASMIRACLE >
+Chwistmas Miwacwe CO
+< FIELD_COOP_DARKCITADEL >
+Dawk Citadew CO
+< FIELD_COOP_FUNGUSCAVE >
+Fungus Cave CO
+< FIELD_COOP_PRACTICEFIELD >
+Pwactice Fiewd CO
+< FIELD_COOP_SEALEDARCHIVE >
+Seawed Awchive CO
+< FIELD_COOP_SWEETHEAVEN >
+Sweet Heaven CO
+< FIELD_COOP_WHIRLPOOL >
+Whiwwpoow
+[EOF]

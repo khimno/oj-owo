@@ -1,0 +1,171 @@
+< CARD_BOUNTY_TURNISLIME_HUNT >
+name=Tuwniswime
+descr=Tuwniswime wiww make you gain -1 ATK duwing the battwe. If you have 2 ow mowe ATK at the stawt of the battwe, gain anothew -1 ATK.
+flavor=
+
+< CARD_BOUNTY_TROLLITE_HUNT >
+name=Twowwite
+descr=Aftew each wound of battwe, Twowwite gains -1 ATK.
+flavor=
+
+< CARD_BOUNTY_MOUSSE_HUNT >
+name=Mousse
+descr=Mousse wiww take youw Wvw x staws evewy time it damages you.
+flavor=
+
+< CARD_BOUNTY_DOLL_HUNT >
+name=Haunted Doww
+descr=Haunted Doww wiww spook you out of 1 HP at the end of each wound of battwe.
+flavor=
+
+< CARD_BOUNTY_HELISEED_HUNT >
+name=Hewiseed
+descr=Encountew ends if Hewiseed is not KO'd aftew 3 wounds of battwe.
+flavor=
+
+< CARD_BOUNTY_BLIZARD_HUNT >
+name=Bunnizawd
+descr=Bunnizawd wandomwy gains +1 ATK, DEF ow EVD aftew each wound of battwe.
+flavor=
+
+< CARD_BOUNTY_WOLLY_HUNT >
+name=Wowwy
+descr=When damaged, Wowwy takes 1 extwa damage.
+flavor=
+
+< CARD_BOUNTY_TERRAWYRMER_HUNT >
+name=Tewwawywmew
+descr=If hit fow mowe than 2 damage at once, Tewwawywmew gains +1 ATK, +1 DEF & -1 EVD untiw end of battwe. This effect can stack.
+flavor=
+
+< CARD_BOUNTY_RUFFSHROOM_HUNT >
+name=Wuffshwoom
+descr=When Wuffshwoom is defeated, you gain 2 HP.
+flavor=
+
+< CARD_BOUNTY_GOST_HUNT >
+name=Göst
+descr=Göst gains +1 EVD fow evewy positive point of ATK you have.
+flavor=
+
+< CARD_BOUNTY_EMERANGLER_HUNT >
+name=Emewangwew
+descr=When Emewangwew is damaged, it gains +1 ATK on next attack. When Emewangwew damages you, it gains +1 DEF on next defense.
+flavor=
+
+< CARD_BOUNTY_GLOBBU_HUNT >
+name=Gwobbu
+descr=Evewy time Gwobbu damages you, gain -1 DEF untiw end of battwe.
+flavor=
+
+< CARD_BOUNTY_GRASSINFIMARY_QUEST >
+name=
+descr=I want to make a new dish using some hewbs that gwow in the fiewd. Couwd you hewp me out and get some?
+flavor=―Innkeepew
+
+< CARD_BOUNTY_SWAMPINFIMARY_QUEST >
+name=
+descr=One of ouw customews said that swimes can be used to make dwinks. I wondew if that's twue...
+flavor=―Innkeepew
+
+< CARD_BOUNTY_CAVEBAKERY_QUEST >
+name=
+descr=I accidentawwy dwopped something in a cave that we need to make ice cweam...
+flavor=―Sky Bakew
+
+< CARD_BOUNTY_CASTLEBAKERY_QUEST >
+name=
+descr=Fufufu, we've asked fow some fwouw to be dewivewed fwom the castwe but it stiww hasn't awwived. I wondew if I shouwd bwow them up?
+flavor=―Staw Bakew
+
+< CARD_BOUNTY_RUINARMORY_QUEST >
+name=
+descr=Oh, you need something shawp to cut food? If you bwing me the matewiaws I'ww gwadwy make something fow you. Even a bwoken weapon wouwd do.
+flavor=―Bwacksmith
+
+< CARD_BOUNTY_CAVEARMORY_QUEST >
+name=
+descr=Twowwite howns awe an amazing matewiaw to make cooking toows with, but I'm wunning out. They wepwace theiw howns evewy 3 days so thewe shouwd be some just wying awound in theiw hideouts.
+flavor=―Bwacksmith
+
+< CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
+name=
+descr=I can twansmute some food fow you, but I need a wasting souwce of heat. Pewhaps you couwd wetwieve a Gwobbu? I've heawd they wove doing jobs wike these.
+flavor=―Awchemist
+
+< CARD_BOUNTY_FORESTINFIRMARY_QUEST >
+name=
+descr=A dessewt? I couwd twy to pwepawe some if you bwing me twee sap fwom the misty fowests. I've heawd it's vewy sweet.
+flavor=―Innkeepew
+
+< CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
+name=
+descr=We have wun out of miwk! Ouw bwead wequiwes fwesh miwk fwom Wowwies on the mountain, pwease be quick about it!
+flavor=―Sky Bakew
+
+< CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
+name=
+descr=The ghosts fwom the cwimson fowests awound hewe have intewesting pwopewties. Couwd you pwease bwing me a sampwe? I shouwd be abwe to make something edibwe with it as weww.
+flavor=―Awchemist
+
+< CARD_BOUNTY_DESERTARMORY_QUEST >
+name=
+descr=I'm getting thiwsty... Some cacti fwom the desewt shouwd hewp quench this thiwst. You can keep what's weft ovew aftew I'm done dwinking.
+flavor=―Bwacksmith
+
+< CARD_BOUNTY_SLIMEBOMB_ITEM >
+name=Swimebomb
+descr=Thwow a swimebomb on a panew awound you (wadius 3). Aww panews in 1 panew wadius wiww be covewed with Goo fow 2 chaptews.
+flavor="Puwe goo in a bottwe, weady to thwow!" ―Awchemist
+
+< CARD_BOUNTY_TELEPORT_ITEM >
+name=Tewepowtation Potion
+descr=Tewepowt on any panew, then pway youw tuwn.
+flavor="One sip, and poof!" ―Awchemist
+
+< CARD_BOUNTY_LURE_ITEM >
+name=Wuwe
+descr=Thwow a wuwe on a panew awound you (wadius 3). Aww panews awound in 1 panew wadius wiww tuwn into encountew panews fow 3 chaptews.
+flavor="The smeww of this thing shouwd be stwong enough to attwact most smaww fwy awound the pwace..." ―Awchemist
+
+< CARD_BOUNTY_SHOKUPAN_ITEM >
+name=Shokupan
+descr=Effect duwation: 3 chaptews\nHeaw 1 HP evewy tuwn. The effect is wemoved upon getting KO'd, and cannot stack.
+flavor="No one can evew bake something bettew than this mastewpiece." ―Staw Bakew
+
+< CARD_BOUNTY_SSR_SHOKUPAN_ITEM >
+name=Fwuffy Shokupan
+descr=Heaw 2 HP evewy tuwn untiw youw next KO. The effect cannot stack.
+flavor="Fwuffiness wiww conquew the wowwd!" ―Sky Bakew
+
+< CARD_BOUNTY_PUREWATER_ITEM >
+name=Howy Watew
+descr=Fow this battwe, gain 5 HP and +1 ATK, DEF, EVD.
+flavor="Fufufu, this puwe watew wiww cuwe youw thiwst, you have my wowd on it!" ―Innkeepew
+
+< CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
+name=Smoke of the Wost Memowies
+descr=Fowget youw past mistakes and twiggew a Bounty Battwe. Can onwy be used on a panew with a discovewed monstew wocation. You must possess the bounty to stawt the battwe. Youw tuwn ends aftew pwaying this cawd.
+flavor="Don't wet it wun away!" ―Awchemist
+
+< CARD_BOUNTY_RADAR_ITEM >
+name=Adventuwew's Wadaw
+descr=Effect Duwation: 2 to 5 chaptews\nAbwe to discewn aww monstew wocations fow the duwation of the effect.
+flavor="It wiww gweatwy ease youw expedition... if it wowks wong enough!" ―Awmowew
+
+< CARD_HYPER_BOUNTY_ELLIE >
+name=Ewwie's Miwacwe
+descr=★Cost: Wevew x10\nEffect Duwation: 2 chaptews. Gain +X ATK, +Y DEF, and +Z EVD, whewe X = Youw totaw Nowma compweted, Y = youw cuwwent Fame / 5, and Z = youw cuwwent Staws / 50.
+flavor="Weceive my miwacwe!" ―Ewwie
+
+< CARD_BOUNTY_SCRAMBLED_EVE >
+name=Scwambwed Eve
+descr=Aww pwayews wetuwn theiw hand to the deck, and the deck is shuffwed. Aftew 3 chaptews, aww pwayews dwaw as many cawds as they discawded fwom this effect. Does not wetuwn bounties ow quests.
+flavor="Wait! Give me back the pwesents!" ―Awu
+
+< CARD_HYPER_BOUNTY_COOK >
+name=Guidance of the Weathewcock
+descr=Stock Effect.\nWoww 2 dice fow evewything except fow battwe. This effect ends when you stop on a Home panew.
+flavor="*Cheep cheep*! Cook wants to go this way." ―Cook
+
+[EOF]

@@ -1,0 +1,156 @@
+<0000> Thewe!
+<0001> Hah!
+<0002> Wet's do this.
+<0003> I'm depending on you.
+<0004> I'ww pway a cawd now.
+<0005> I'ww show you what I can do.
+<0006> Hewe I come.
+<0007> I choose this one.
+<0008> Hewe's a twap.
+<0009> Be wawy ow you'ww be in fow some pain.
+<0010> Now, someone step on it.
+<0011> I'm no expewt in these things, but hewe goes.
+<0012> This wiww ensuwe my victowy.
+<0013> I can't affowd to be defeated.
+<0014> I'ww squash you up.
+<0015> This wiww finish you.
+<0016> I cannot... wose hewe.
+<0017> I thought I was nevew going to get back up.
+<0018> This isn't ovew yet. I can stiww fight.
+<0019> Ugh, I'm fawwing behind evewyone ewse.
+<0020> I can't waste any mowe time wying down.
+<0021> What?
+<0022> Not yet.
+<0023> Damn it...
+<0024> Ugh.
+<0025> I'ww shoot you.
+<0026> I'ww make a howe in you.
+<0027> Don't move.
+<0028> I'ww take you down fow suwe.
+<0029> Guh.
+<0030> This much damage is nothing...
+<0031> What the!?
+<0032> I can stiww...
+<0033> That hewps.
+<0034> I appweciate this.
+<0035> Okay, I'm good to go again.
+<0036> I shouwd be okay now...
+<0037> I'm fwying...!?
+<0038> Whewe wiww you take me?
+<0039> What the... Whewe am I going?
+<0040> Uwah!
+<0041> I must... keep going.
+<0042> I don't have time to... wie down.
+<0043> Damn it. I messed up.
+<0044> I can... stiww... fight.
+<0045> What awe you wooking at?
+<0046> Wet's commence a battwe.
+<0047> Awe you weady?
+<0048> We'ww decide which one of us is stwongew.
+<0049> So you want to fight me.
+<0050> Hmph, how shawwow.
+<0051> Don't think I'm easy pwey.
+<0052> Ugh, a suwpwise attack.
+<0053> Fiwe.
+<0054> I'ww hit you.
+<0055> You can just faww down.
+<0056> Take this.
+<0057> Guh!
+<0058> I got a scwatch.
+<0059> This is nothing.
+<0060> No big deaw.
+<0061> Guah!
+<0062> I got a diwect hit.
+<0063> You got me.
+<0064> *Tsk!*
+<0065> You can't hit me.
+<0066> A successfuw evasion.
+<0067> I'ww dodge it.
+<0068> That's not good enough.
+<0069> I can't affowd a defeat.
+<0070> You may west fow a whiwe down thewe.
+<0071> Phew, moving on.
+<0072> An unsuwpwising wesuwt.
+<0073> Guh, I wost!?
+<0074> No... I don't bewieve this...
+<0075> Ugh.
+<0076> Awgh... Damn it.
+<0077> Wet me wesuppwy.
+<0078> I'ww pick these up.
+<0079> These awe necessawy.
+<0080> Thank goodness.
+<0081> Oh wats.
+<0082> My staws...
+<0083> I wost some staws.
+<0084> Ugh, I dwopped some.
+<0085> A twap?
+<0086> What's wwong with me?
+<0087> I shouwd've been mowe cawefuw.
+<0088> A twap...? Damn it.
+<0089> What's with this huge biosignaw?
+<0090> Something came out.
+<0091> Hewe it comes... Bwing it on!
+<0092> I need to fiwe mysewf up again.
+<0093> I'ww go fow staws.
+<0094> Staws...
+<0095> I'ww now begin to gathew staws.
+<0096> This wouwd be mowe peacefuw than fighting wandomwy.
+<0097> I must keep winning.
+<0098> This is simpwe and easy fow me.
+<0099> I'ww show them my powews.
+<0100> Victowy wiww be mine.
+<0101> I'm Awte.
+<0102> Yes, wet's fight togethew.
+<0103> Aww wight, wet's do this.
+<0104> You can count on me.
+<0105> We wiww now begin the game.
+<0106> I'ww seize victowy pwomptwy.
+<0107> So this is the battwefiewd.
+<0108> I'ww win and wetuwn home.
+<0109> Now, it's time to go home.
+<0110> Oh boy, it's finawwy ovew.
+<0111> Phew, I couwd make it thwough.
+<0112> So that's it.
+<0113> You got something.
+<0114> Is this what you wanted?
+<0115> Fufu, you seem too happy.
+<0116> Ah, good fow you.
+<0117> Yeah.
+<0118> I wike that.
+<0119> Good.
+<0120> That's not good.
+<0121> What?
+<0122> Tawk about wucky.
+<0123> Hm?
+<0124> Wet's get stawted.
+<0125> Time fow a thwow of die.
+<0126> Wet's go.
+<0127> How awe you?
+<0128> Hmm...
+<0129> Nice.
+<0130> That's suwpwisingwy impwessive.
+<0131> Oh no...
+<0132> I use evewything I can.
+<0133> Wet's see what this one does.
+<0134> Doesn't mattew if this weapon bewongs to an enemy ow not.
+<0135> You wouwdn't think I'd pway this one.
+<0136> I'ww take you down this time!
+<0137> Ugh, so, you'we my opponent, new modew!
+<0138> Don't think you'we bettew than I am.
+<0139> Ugh, you'we a monstew, aftew aww...
+<0140> What's a chiwd wike you doing hewe?
+<0141> A chiwd wike you wants to fight me... Weawwy!?
+<0142> Go home befowe you get huwt.
+<0143> Ugh, awe you not an owdinawy chiwd?
+<0144> I didn't imagine I'd find you at a pwace wike this.
+<0145> Ugh, you have such a sinistew auwa about you...
+<0146> I want you to stay down as wong as possibwe.
+<0147> Awe you going to buwn down both fwiend and foe?
+<0148> Hm, you'we howding a cooking knife... Can you cook?
+<0149> Awe you a cook!?
+<0150> Weww... um... can you teach me... how to cook?
+<0151> Ugh, the way you use youw knife... You'we not just any giww.
+<0152> That waw aww ovew again? I'm not into this.
+<0153> Ugh, why with these peopwe?
+<0154> I take this as a miwitawy dwiww...
+<0155> A dwiww with these peopwe... Wiww it wowk out?

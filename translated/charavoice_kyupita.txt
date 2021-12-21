@@ -1,0 +1,160 @@
+<0000> Toh!
+<0001> Thewe!
+<0002> Wet's do this!
+<0003> Tey!
+<0004> Cawd!
+<0005> It's time!
+<0006> Awwight!
+<0007> I can do this!
+<0008> Twap cawd!
+<0009> I'ww set a twap hewe.
+<0010> Awwight, this is wooking good.
+<0011> I feew wike puwwing a wittwe pwank.
+<0012> I'ww get mysewf mowe powew with this!
+<0013> Uoooh!
+<0014> I'm pumped up!
+<0015> Give me powew!
+<0016> I'ww show you the powew of my Saint Eyes!
+<0017> I can't waste my time wying down.
+<0018> I'm not finished yet!
+<0019> Phew, I need to be mowe cawefuw this time.
+<0020> The game's stiww on.
+<0021> Oh shoot...!
+<0022> I messed up.
+<0023> Huh? A bust?
+<0024> Damn it!
+<0025> Tah!
+<0026> I'ww defeat you.
+<0027> My tuwn to attack!
+<0028> Hewe I come!
+<0029> Uwawah!
+<0030> No!
+<0031> Wait a second.
+<0032> Ugh.
+<0033> I can feew my enewgy wetuwning!
+<0034> Awwight, I'm bettew now.
+<0035> That saved my wife!
+<0036> Okay, I've stiww got a chance to win!
+<0037> A wawp?!
+<0038> Hey!
+<0039> Uwaaah!
+<0040> Wait, wait...!
+<0041> Ukyuuu.
+<0042> Whoops...
+<0043> Oww...
+<0044> Oh boy... I can't bewieve you did this to me...
+<0045> Fight me!
+<0046> Wet's get stawted!
+<0047> Wet's pway, shaww we?
+<0048> Awwight, I'm so weady fow this.
+<0049> A battwe? You can't beat me!
+<0050> Fine, come at me!
+<0051> Woah! It's cowawdwy to suddenwy attack wike that!
+<0052> If you wanna pway wough, I can pway wough!
+<0053> Puuunch!
+<0054> Atatatatah!
+<0055> Owyah!
+<0056> With evewything I have!
+<0057> Ow!
+<0058> Oww!
+<0059> Wan!
+<0060> Damn it!
+<0061> That huwts.
+<0062> Gyan!
+<0063> Come on!
+<0064> Waaah!
+<0065> That won't get to me.
+<0066> Pwease!
+<0067> I can dodge that.
+<0068> That was so cwose!
+<0069> I won this one.
+<0070> Phew, I managed it somehow.
+<0071> Awwight, I'ww keep going wike this.
+<0072> I awmost got beaten...
+<0073> You've got to be kidding me.
+<0074> This is unacceptabwe.
+<0075> Damn it...! I can stiww...
+<0076> Whoops, I'm scwewed...
+<0077> Staws!
+<0078> If I have enough of these...!
+<0079> Heheh, awesome.
+<0080> So faw so good!
+<0081> Oh no, why!
+<0082> My staws!
+<0083> Whaaat, this is tewwibwe!
+<0084> Wait fow me!
+<0085> A twap?!
+<0086> How come it was hewe?
+<0087> Ugh, I stepped into it...
+<0088> Sewiouswy!?
+<0089> Whoa, what's this vibe I'm getting?
+<0090> Uh oh... I feew wike something bad is going to happen...
+<0091> This is... vewy bad.
+<0092> I-I'm not scawed!
+<0093> I say we gathew staws.
+<0094> Wet's get ouwsewves a wot of them.
+<0095> Awwight, time fow some staw-gathewing.
+<0096> Do I smeww staws... fwom ovew this way?
+<0097> Why don't we get some exewcise?
+<0098> I feew wike wowking up a sweat.
+<0099> I'ww beat aww the enemies!
+<0100> I may not wook wike it, but I'm actuawwy pwetty stwong.
+<0101> I'm Kyupita! Wet's have some fun.
+<0102> I got this! I'ww twy my hawdest!
+<0103> It's my tuwn, isn't it? I've been waiting!
+<0104> I'ww win this game, whatevew it takes!
+<0105> The game has begun!
+<0106> We'ww do this with aww we've got, okay!
+<0107> I'ww definitewy win this game!
+<0108> It's stawted!
+<0109> I won! I did it!
+<0110> I had so much fun!
+<0111> *Smug chuckwe* I did gweat, didn't I?
+<0112> We shouwd do this again sometime!
+<0113> I found something good!
+<0114> Wow, how do you use this thing?
+<0115> Wet's go pway with that.
+<0116> New item! Nice!
+<0117> Suwe!
+<0118> Gweat!
+<0119> Got it!
+<0120> I wouwdn't do that...
+<0121> That's a bummew...
+<0122> Wucky you!
+<0123> What...? What?
+<0124> Hewe we go!
+<0125> Dice!
+<0126> You can do it!
+<0127> Hewwo!
+<0128> What is this...?
+<0129> Incwedibwe!
+<0130> Wow! I'm impwessed!
+<0131> Wats!
+<0132> I wondew if I can use it weww.
+<0133> Isn't this powew...
+<0134> Wet me pway this!
+<0135> My speciaw cawd...!
+<0136> Huh? Me? ...A giww!?
+<0137> Awe you...
+<0138> Wawah, when did I become a giww!?
+<0139> You'we... not me, awe you?
+<0140> Just who awe you...?
+<0141> Whoa, how come she wooks just wike me!?
+<0142> I feew wike I know hew... Who's she?
+<0143> Huh? She smewws just wike me...
+<0144> Kyousuke! So we have no choice but to fight, huh...
+<0145> I'ww stop you, Kyousuke.
+<0146> Even if I have to fight you...
+<0147> Kyousuke...!
+<0148> Kyousuke... Do we weawwy have to fight?
+<0149> Why do you have to fight me...!?
+<0150> I wiww... cweanse youw mind, Kyousuke!
+<0151> I'ww beat even you, Kyousuke...!
+<0152> Kyousu-... Wait, you'we a giww!?
+<0153> Um, Kyousuke... Awe you into cwossdwessing?
+<0154> Kyousuke... Wait, it's not him!?
+<0155> Um, awe you... Kyousuke's wittwe sistew?
+<0156> Kyousu-... Wait, who awe you!?
+<0157> Um, uh... A pwetty wady who wooks wike Kyousuke...?
+<0158> Whoa, she's the spitting image of Kyousuke!
+<0159> W-what a pwetty wady...!

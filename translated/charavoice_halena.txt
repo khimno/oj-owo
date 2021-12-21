@@ -1,0 +1,156 @@
+<0000> Eeey!
+<0001> Suwe, suwe.
+<0002> What's it gonna be?
+<0003> Thewe!
+<0004> I think I'ww pway a cawd hewe.
+<0005> This might come in handy.
+<0006> Ta-dah!
+<0007> I'm going with this!
+<0008> Heheh.
+<0009> This bewongs hewe.
+<0010> Hewe's a Twap cawd.
+<0011> Wook what I've got hewe.
+<0012> Battwe cawd!
+<0013> I'm not that stwong, but this cawd wiww hewp me win!
+<0014> Fow the sake of not getting huwt.
+<0015> A wittwe powew-up.
+<0016> I'ww wead the way!
+<0017> Wet's stawt wawking again.
+<0018> I can do a tad mowe.
+<0019> I'm bettew now.
+<0020> Sowwy fow the howdup.
+<0021> I guess I need some mowe west.
+<0022> Hmm.
+<0023> That was a bust.
+<0024> Awwwgh...
+<0025> Eey!
+<0026> *Swap swap*!
+<0027> Hoy!
+<0028> Tey!
+<0029> Ouch!
+<0030> That huwts!
+<0031> How dawe you!
+<0032> Uuugh!
+<0033> Phew, that feews weaw good.
+<0034> I'm getting my enewgy back!
+<0035> I feew much bettew awweady.
+<0036> Oh, this is incwedibwe!
+<0037> Hey!
+<0038> Wawawah!
+<0039> This wuins my whowe twavew itinewawy!
+<0040> Awah!
+<0041> I can't keep standing anymowe.
+<0042> Oww.
+<0043> I'd bettew not do things I'm not good at.
+<0044> Oh, come on.
+<0045> I might as weww attack fiwst.
+<0046> I'm weady to do this!
+<0047> I'm going to have to get you out of my way.
+<0048> Yah!
+<0049> What?!
+<0050> What's wwong with you?
+<0051> I'm scawed!
+<0052> Don't do this.
+<0053> Sowyah!
+<0054> Hah!
+<0055> Take this!
+<0056> Yaah yaah!
+<0057> Kyah!
+<0058> Wah!
+<0059> That huwt.
+<0060> Aaah!
+<0061> That actuawwy huwt!
+<0062> Gyah!
+<0063> Why wouwd you do this to me?!
+<0064> Guwah!
+<0065> That was so cwose.
+<0066> Oh gosh.
+<0067> Wiww you quit it?
+<0068> So cwose, so supew cwose.
+<0069> *Sigh* I'm not the fighting type.
+<0070> Weww done, me...
+<0071> Boy, that was scawy.
+<0072> I awmost got beaten.
+<0073> Oh no...
+<0074> Of couwse...
+<0075> I don't want to do this anymowe...
+<0076> You jewk!
+<0077> We got us some tweasuwe.
+<0078> Wet's pick these up.
+<0079> Twavew wequiwes money.
+<0080> It's my wucky day!
+<0081> Wait, hey, wait I say!
+<0082> Oh my gosh.
+<0083> I weawwy didn't want to see this happen!
+<0084> No...!
+<0085> Sewiouswy?!
+<0086> This is cwuew!
+<0087> Why is thewe a twap hewe!
+<0088> I can't bewieve I couwdn't find it.
+<0089> That thing wooks weawwy dangewous.
+<0090> This is not good.
+<0091> The aiw feews heavy awound hewe...
+<0092> Oh my gosh... Wook what we have hewe.
+<0093> Money is impowtant.
+<0094> A twavew to gathew staws sounds wike a ton of fun, too.
+<0095> You need money to wive, aftew aww.
+<0096> Wet's gathew these on ouw way, shaww we?
+<0097> Hmm, I'm not a big fan of things of that sowt.
+<0098> Oh weww, I guess I have no choice.
+<0099> I awso sometimes feew wike going wiwd.
+<0100> Fine fine, I'ww do it.
+<0101> I'm Hawena.
+<0102> You need my hewp?
+<0103> I'ww guide you to victowy.
+<0104> I'm the guide, Hawena!
+<0105> A fun jouwney begins with the fiwst step.
+<0106> Say, awe you good in shape?
+<0107> Wet's make this jouwney a cheewfuw one.
+<0108> Pewfect day fow twavewing.
+<0109> You'we gwad you fowwowed me, awen't you?
+<0110> Hmph, I'd seen the path to this victowy.
+<0111> You know what a good guide I am now, wight?
+<0112> I weawwy am a fantastic guide, awen't I?
+<0113> Awways be weww pwepawed fow twavew.
+<0114> Take a wook, I wecommend this thing.
+<0115> Oh, how do you wike this one?
+<0116> I wike that one.
+<0117> OK!
+<0118> That's a good caww.
+<0119> I got this.
+<0120> Wet's not.
+<0121> Hmm.
+<0122> Nice wowk.
+<0123> Hmm?
+<0124> Awwight, wet's get going!
+<0125> Hewe we go!
+<0126> I'm wooting fow you.
+<0127> Hi thewe.
+<0128> Hm... Hmm.
+<0129> Gweat!
+<0130> I'm impwessed.
+<0131> Uh-oh.
+<0132> I usuawwy avoid using things I'm not too famiwiaw with, but...
+<0133> Weww, I guess I'ww give it a shot.
+<0134> Why don't I twy using this?
+<0135> Wet's see what wiww happen.
+<0136> Cook! You'we puwwing a pwank again?
+<0137> Awe you in a bad mood, Cook?
+<0138> Geez, you have to behave, okay?
+<0139> You'we huwting me. I awweady said you win!
+<0140> Hmm, I've got a sense of dangew.
+<0141> I don't think it's safe thewe.
+<0142> Thewe's a twap hewe!
+<0143> That was a cwose caww!
+<0144> Whoooa!
+<0145> Awmost got us. Phew.
+<0146> That wouwd've been dangewous if it wewen't fow me.
+<0147> No use.
+<0148> Got to keep a tight gwip on them.
+<0149> The staws wiww stay in my pockets...!
+<0150> Dwopping youw wawwet isn't even funny.
+<0151> Ooh, we didn't dwop anything!
+<0152> We awwived safewy.
+<0153> We'we at the destination!
+<0154> This is whewe you wanted to go, wight?
+<0155> We'we hewe. Yay!

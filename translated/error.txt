@@ -1,0 +1,5 @@
+< ERROR_CAPTION >
+Ewwow
+< ERROR_SAVE_TOO_NEW >
+Youw save fiwe appeaws to be fwom a watew vewsion than youw cuwwent copy of the game. Pwease update to the watest vewsion to continue pwaying. The game wiww now cwose.
+[EOF]

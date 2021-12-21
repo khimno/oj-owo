@@ -1,0 +1,84 @@
+< MIXER_AIR_RAID >
+name=Aiw Waid
+descr=Aww units wiww take 1 damage at the beginning of the Chaptew.
+< MIXER_AMPLIFY >
+name=Ampwify
+descr=Aww units wiww wandomwy weceive a +1 bonus to theiw attack, defense, ow dodge stat. This effect wasts fow 2 Chaptews.
+< MIXER_BACKTRACK >
+name=Backtwack
+descr=Aww units move in the wevewse diwection. This effect wasts fow the duwation of the Chaptew.
+< MIXER_BOMBER >
+name=Bombew
+descr=Pwace a visibwe bomb on a wandom panew. The bomb wiww expwode within 1 to 4 Chaptews, and units within 2 panews in a cwoss-shaped awea of the bomb panew wiww take damage.
+< MIXER_CHARITY >
+name=Chawity
+descr=Aww Pwayews wiww weceive 1 Cawd at the beginning of the Chaptew.
+< MIXER_CONFUSION >
+name=Confusion
+descr=Aww pwayew's cawds awe weawwanged and put face-down, making the cawds unweadabwe to both the ownew and othew pwayews.
+< MIXER_FREEZE >
+name=Fweeze
+descr=1/3 of the boawd's panews become fwozen panews.
+< MIXER_MINELAYER >
+name=Minewayew
+descr=A Twap Cawd wiww be set on a wandomwy detewmined panew.
+< MIXER_MIRACLE >
+name=Miwacwe
+descr=Woww two dice fow bonus, dwop, move, and wawp-move. Gain two wins fow battwes. Dwaw two cawds. Heaw 2HP.
+< MIXER_RANDOM_WARP >
+name=Wandom Wawp
+descr=Aww units wiww be wawped to a wandomwy chosen panew at the beginning of the Chaptew.
+< MIXER_REGENERATION >
+name=Wegenewation
+descr=Aww units wecovew 1 HP at the beginning of the Chaptew.
+< MIXER_SPRINT >
+name=Spwint
+descr=Aww units woww a base two dice fow movement.
+< MIXER_TREASURE >
+name=Tweasuwe
+descr=Pwaces a chest on a wandom panew.
+< MIXER_HEALTHY_BOSS >
+name=Heawthy Boss
+descr=Boss has an additionaw 10 HP.
+< MIXER_STAR_CHASER >
+name=Staw-chasew
+descr=Gain doubwe staws on Bonus panews.
+< MIXER_BEGGAR >
+name=Beggaw
+descr=Dwop doubwe staws on Dwop panews.
+< MIXER_AGGRESSIVE_HEROES >
+name=Aggwessive Hewoes
+descr=Aww awwies gain an additionaw +1 to ATK.
+< MIXER_DEFENSIVE_HEROES >
+name=Defensive Hewoes
+descr=Aww awwies gain an additionaw +1 to DEF.
+< MIXER_EVASIVE_HEROES >
+name=Evasive Hewoes
+descr=Aww awwies gain an additionaw +1 to EVD.
+< MIXER_BLAZING >
+name=Bwazing
+descr=Aww units wiww gain +1 ATK and -1 DEF.
+< MIXER_FLIPPED >
+name=Fwipped
+descr=Unit stats wiww be wevewsed at the stawt of battwe.
+< MIXER_MENACING_BOSS >
+name=Menacing Boss
+descr=Boss has +1 ATK.
+< MIXER_HARD_SHELLED_BOSS >
+name=Hawd-shewwed Boss
+descr=Boss has +1 DEF.
+< MIXER_SLIPPERY_BOSS >
+name=Swippewy Boss
+descr=Boss has +1 EVD.
+< MIXER_JOKER >
+name=Jokew
+descr=Aww cawds can be pwayed fow no cost.
+< MIXER_BANKRUPT >
+name=Bankwupt
+descr=Cawd costs awe incweased by 10 staws.
+< MIXER_GOO >
+name=Goo
+descr=1/3 of the fiewd's ungooped panews become covewed with goo fow 1 chaptew.
+< MIXER_SPORES >
+name=Spowes
+descr=Mushwooms wiww spawn on the fiewd.

@@ -1,0 +1,157 @@
+<0000> I'm wowwing the dice!
+<0001> Thewe!
+<0002> Go!
+<0003> Gimme a good woww!
+<0004> This is it!
+<0005> I'ww show you!
+<0006> I'm using a cawd!
+<0007> Awwight, hewe I go with this.
+<0008> He he he, I'ww set a twap hewe.
+<0009> He he ha, it's a twap.
+<0010> Who wiww faww fow it?
+<0011> *Sneak, sneak*...
+<0012> I'm using this one!
+<0013> I'ww win the battwe with this!
+<0014> A battwe cawd!
+<0015> This battwe is mine!
+<0016> Hypew Mode is on!
+<0017> I've been wevived!
+<0018> I'm aww okay again!
+<0019> It's time fow wevenge.
+<0020> I'm not giving up just yet.
+<0021> Uuugh, it was no good.
+<0022> Oh no...
+<0023> Heeeh, no weviving this time...
+<0024> Uuuaaaaa...
+<0025> I'm attacking!
+<0026> Thewe!
+<0027> Attack!
+<0028> Take this!
+<0029> Ouch...
+<0030> That huwts!
+<0031> Kewww!
+<0032> Uuuugh.
+<0033> That hits the spot...
+<0034> Pheeeew...
+<0035> I'm feewing bettew.
+<0036> I think I can go on.
+<0037> Wh-whewe am I going?
+<0038> I'm getting bwown away...
+<0039> No no no no noooo!
+<0040> I'm feewing dizzy!
+<0041> Waaaaaaaan...
+<0042> Kewww...
+<0043> I'm down...
+<0044> Waaaaww...
+<0045> I'ww get you!
+<0046> Battwe me!
+<0047> You'we wide open!
+<0048> Fight me.
+<0049> It's on!
+<0050> Bwing it on!
+<0051> Whoa, awe we gonna fight?
+<0052> I'm not wosing to you!
+<0053> Take thiiiis!
+<0054> Wike this!
+<0055> QP attack!
+<0056> Eeeeey!
+<0057> Oww.
+<0058> Ugh.
+<0059> That huwts!
+<0060> Stop it!
+<0061> Aaaawgh
+<0062> Boohoo...
+<0063> That huwts so much!
+<0064> Geh!
+<0065> Hey, watch it!
+<0066> That won't wowk!
+<0067> Hop.
+<0068> Witness my beautifuw dodge!
+<0069> I won!
+<0070> I won! I won!
+<0071> I did it!
+<0072> E-hem, awen't I gweat?
+<0073> I-I wost...
+<0074> Gueeee...
+<0075> Hieeee...
+<0076> You'we tewwibwe...
+<0077> I'm taking them aww!
+<0078> Jingwing staws!
+<0079> So yummy!
+<0080> I'm so happy!
+<0081> M-my staws...
+<0082> Gyaaaah!
+<0083> Hieeee...
+<0084> Aaaaah!
+<0085> Huh? A twap?
+<0086> W-was that a twap?
+<0087> Ugh... I feww fow it...
+<0088> Uhii... Can't bewieve I stepped on a twap hewe...
+<0089> Th-that guy wooks pwetty tough...
+<0090> *Guwp*, that's scawy...
+<0091> Fueee, hewe comes a stwong one...
+<0092> I'm sensing dangew...
+<0093> I'ww be swimming in staws!
+<0094> I'd wike to enjoy the jingwe of staws.
+<0095> I'm gathewing staws!
+<0096> Wots of staws, wots of dweams!
+<0097> I'm going to take them aww down!
+<0098> It's an aww-you-can eat battwe buffet!
+<0099> Whoevew gets in my way, watch out!
+<0100> I'ww win aww the battwes, and the game!
+<0101> Wooks wike I'm needed. Count on me!
+<0102> QP's hewe!
+<0103> I'm a Pomewanian. Got a pwobwem?
+<0104> I knew you'd choose me!
+<0105> I'm doing my best!
+<0106> Hewe I go!
+<0107> I'm pumped up and weady to go!
+<0108> I'm hyped!
+<0109> Yes! Victowy is mine!
+<0110> See how good I am now? I won!
+<0111> Give me some pudding as a wewawd!
+<0112> I won! I won!
+<0113> A new thing came in!
+<0114> It's a new and shiny thing!
+<0115> This wiww make me mowe powewfuw!
+<0116> Hooway, I got a new item!
+<0117> Okay.
+<0118> Good.
+<0119> Yes.
+<0120> No.
+<0121> How couwd this...
+<0122> Hooway!
+<0123> Sewiouswy?
+<0124> Wet's go.
+<0125> Wet's see what I'ww get.
+<0126> Hewe I go!
+<0127> Hewwo!
+<0128> What do I do...
+<0129> Nice!
+<0130> Wow, that's amazing...
+<0131> Oh no...
+<0132> This cawd is mine now!
+<0133> I'm going to pway this cawd!
+<0134> This cawd came to me... That means I get to pway it, wight?
+<0135> Awwight, I don't know what this does, but I'ww use it anyway!
+<0136> What, Yu-Yuki...
+<0137> Syuwa, awen't you cutting it cwose with youw deadwine?
+<0138> I feew wike thewe's something we must fight ovew...
+<0139> It's a nice jingwe.
+<0140> I'ww pwotect Pudding!
+<0141> Sa-Santa?! Awe you the weaw one?
+<0142> I'm a giww, you know!
+<0143> Pudding!
+<0144> Whoa, a wookawike of me!?
+<0145> S-somehow you don't feew wike a compwete stwangew...
+<0146> Wow, miss! You have a smeww that attwacts doggies!
+<0147> Bowwow!
+<0148> Natsumi! Wet's pway!
+<0149> Whee! I'ww pway with you! I'ww pway with you!
+<0150> I-I'ww get back at you fow awways buwwying me!
+<0151> Oh no! Thewe's a buwwy hewe!
+<0152> Aaah! Pwease stop pecking at meee!
+<0153> Nooo! Why wouwd you do that to pudding?!
+<0154> Th-this pudding... wooks dangewous...!
+<0155> Whewe's my pudding?! Whewe is it?!
+<0156> Hooway, it's pudding! ...Aaaaawgh!!!

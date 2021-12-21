@@ -1,0 +1,161 @@
+< CAMPAIGN_QP_ONE >
+QP Episode 1
+< CAMPAIGN_QP_TWO >
+QP Episode 2
+< CAMPAIGN_QP_THREE >
+QP Episode 3
+< CAMPAIGN_QP_FOUR >
+QP Episode 4
+< CAMPAIGN_QP_FIVE >
+QP Episode 5
+< CAMPAIGN_QP_FINAL >
+QP Finaw Episode
+< CAMPAIGN_SUGURI_ONE >
+Suguwi Episode 1
+< CAMPAIGN_SUGURI_TWO >
+Suguwi Episode 2
+< CAMPAIGN_SUGURI_THREE >
+Suguwi Episode 3
+< CAMPAIGN_SUGURI_FOUR >
+Suguwi Episode 4
+< CAMPAIGN_SUGURI_FIVE >
+Suguwi Episode 5
+< CAMPAIGN_SUGURI_FINAL >
+Suguwi Finaw Episode
+< CAMPAIGN_MARC_ONE >
+Mawc Episode 1
+< CAMPAIGN_MARC_TWO >
+Mawc Episode 2
+< CAMPAIGN_MARC_THREE >
+Mawc Episode 3
+< CAMPAIGN_MARC_FOUR >
+Mawc Episode 4
+< CAMPAIGN_MARC_FIVE >
+Mawc Episode 5
+< CAMPAIGN_MARC_FINAL >
+Mawc Finaw Episode
+< CAMPAIGN_KAI_ONE >
+Kai Episode 1
+< CAMPAIGN_KAI_TWO >
+Kai Episode 2
+< CAMPAIGN_KAI_THREE >
+Kai Episode 3
+< CAMPAIGN_KAI_FOUR >
+Kai Episode 4
+< CAMPAIGN_KAI_FIVE >
+Kai Episode 5
+< CAMPAIGN_KAI_FINAL >
+Kai Finaw Episode
+< CAMPAIGN_EXTRA_ONE >
+Midnight = Kemonomimi
+< CAMPAIGN_EXTRA_TWO >
+Stwuggwe of the Cybowg
+< CAMPAIGN_EXTRA_THREE >
+Twiwight of the Piwots
+< CAMPAIGN_EXTRA_FOUR >
+Mystewious Space Odyssey
+< CAMPAIGN_EXTRA_FIVE >
+Tomomo Heww
+< CAMPAIGN_EXTRA_SIX >
+Mio's Dawk Citadew
+< CAMPAIGN_STARBREAKER_ONE >
+Staw Bweakew Episode 1
+< CAMPAIGN_STARBREAKER_TWO >
+Staw Bweakew Episode 2
+< CAMPAIGN_STARBREAKER_THREE >
+Staw Bweakew Episode 3
+< CAMPAIGN_STARBREAKER_FOUR >
+Staw Bweakew Episode 4
+< CAMPAIGN_STARBREAKER_FIVE >
+Staw Bweakew Episode 5
+< CAMPAIGN_STARBREAKER_FINAL >
+Staw Bweakew Finaw Episode
+< CAMPAIGN_SWEETBREAKER_ONE >
+Sweet Bweakew Episode 1
+< CAMPAIGN_SWEETBREAKER_TWO >
+Sweet Bweakew Episode 2
+< CAMPAIGN_SWEETBREAKER_THREE >
+Sweet Bweakew Episode 3
+< CAMPAIGN_SWEETBREAKER_FOUR >
+Sweet Bweakew Episode 4
+< CAMPAIGN_SWEETBREAKER_FIVE >
+Sweet Bweakew Episode 5
+< CAMPAIGN_SWEETBREAKER_FINAL >
+Sweet Bweakew Finaw Episode
+< CAMPAIGN_BREAKER_EXTRA >
+Chaos of the Sweet Gods
+< CAMPAIGN_MIUCEORE_ONE >
+Giww Powew Episode 1
+< CAMPAIGN_MIUCEORE_TWO >
+Giww Powew Episode 2
+< CAMPAIGN_MIUCEORE_THREE >
+Giww Powew Episode 3
+< CAMPAIGN_MIUCEORE_FOUR >
+Giww Powew Episode 4
+< CAMPAIGN_MIUCEORE_FIVE >
+Giww Powew Episode 5
+< CAMPAIGN_MIUCEORE_SIX >
+Giww Powew Episode 6
+< CAMPAIGN_MIUCEORE_SEVEN >
+Giww Powew Episode 7
+< CAMPAIGN_MIUCEORE_EIGHT >
+Giww Powew Episode 8
+< CAMPAIGN_MIUCEORE_NINE >
+Giww Powew Episode 9
+< CAMPAIGN_MIUCEORE_FINAL >
+Giww Powew Finaw Episode
+< CAMPAIGN_CHRISTMAS_2017 >
+Wawuda Chwistmas Pawty
+< CAMPAIGN_NICOARTHUR_ONE >
+Cwossed Chwistmases Episode 1
+< CAMPAIGN_NICOARTHUR_TWO >
+Cwossed Chwistmases Episode 2
+< CAMPAIGN_NICOARTHUR_THREE >
+Cwossed Chwistmases Episode 3
+< CAMPAIGN_NICOARTHUR_FOUR >
+Cwossed Chwistmases Episode 4
+< CAMPAIGN_NICOARTHUR_FIVE >
+Cwossed Chwistmases Episode 5
+< CAMPAIGN_NICOARTHUR_FINAL >
+Cwossed Chwistmases Finaw Episode
+< CAMPAIGN_SUGURISUMIKA_ONE >
+Owd Guawdians Episode 1
+< CAMPAIGN_SUGURISUMIKA_TWO >
+Owd Guawdians Episode 2
+< CAMPAIGN_SUGURISUMIKA_THREE >
+Owd Guawdians Episode 3
+< CAMPAIGN_SUGURISUMIKA_FOUR >
+Owd Guawdians Episode 4
+< CAMPAIGN_SUGURISUMIKA_FIVE >
+Owd Guawdians Episode 5
+< CAMPAIGN_SUGURISUMIKA_SIX >
+Owd Guawdians Episode 6
+< CAMPAIGN_SUGURISUMIKA_SEVEN >
+Owd Guawdians Episode 7
+< CAMPAIGN_SUGURISUMIKA_EIGHT >
+Owd Guawdians Episode 8
+< CAMPAIGN_SUGURISUMIKA_NINE >
+Owd Guawdians Episode 9
+< CAMPAIGN_SUGURISUMIKA_TEN >
+Owd Guawdians Episode 10
+< CAMPAIGN_SUGURISUMIKA_FINAL >
+Owd Guawdians Finaw Episode
+< CAMPAIGN_ELLIELULU_NUMBER >
+Wandewews Episode %d
+< CAMPAIGN_ELLIELULU_FINAL >
+Wandewews Finaw Episode
+< CAMPAIGN_RONETEO >
+Game Night of the Witches
+< CAMPAIGN_DIFFICULTY_CASUAL >
+Wowewed pewfowmance fow aww CPU chawactews.
+< CAMPAIGN_DIFFICULTY_NORMAL >
+No adjustments fow CPU chawactews.
+< CAMPAIGN_DIFFICULTY_ORIGINAL >
+CPU chawactews' pewfowmance is customized individuawwy.
+< CAMPAIGN_DIFFICULTY_EXTREME >
+Aww CPU chawactews enjoy a pewfowmance boost.
+< CAMPAIGN_RETURN >
+Back
+< CAMPAIGN_RONETEO_MESSAGE >
+Extwa mission now avaiwabwe! We wecommend finishing the Giww Powew and Owd Guawdians campaigns befowe pwaying it.
+[EOF]

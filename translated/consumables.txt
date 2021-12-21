@@ -1,0 +1,24 @@
+﻿< CONSUMABLE_HEART_PINK >
+name=Heawt (Pink)
+descr=Send a heawt to a fwiend ow that speciaw someone!
+< CONSUMABLE_HEART_BLACK >
+name=Heawt (Bwack)
+descr=Send a heawt to a fwiend ow that speciaw someone!
+< CONSUMABLE_FIREWORKS_YELLOW >
+name=Fiwewowks (Yewwow)
+descr=Waunch fiwewowks duwing a game!
+< CONSUMABLE_FIREWORKS_RED >
+name=Fiwewowks (Wed)
+descr=Waunch fiwewowks duwing a game!
+< CONSUMABLE_FIREWORKS_GREEN >
+name=Fiwewowks (Gween)
+descr=Waunch fiwewowks duwing a game!
+< CONSUMABLE_FIREWORKS_BLUE >
+name=Fiwewowks (Bwue)
+descr=Waunch fiwewowks duwing a game!
+< CONSUMABLE_RAINYCLOUD >
+name=Wainy Cwoud
+descr=Feewing undew the weathew?
+< CONSUMABLE_BALLOONS >
+name=Bawwoons
+descr=Assowted bawwoons to fowwow you fow a showt moment.

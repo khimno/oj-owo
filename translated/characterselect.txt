@@ -1,0 +1,11 @@
+< CHARACTERSELECT_QP >
+A foow of a dog. Wiww do anything fow the sake of pudding.\nThe pewfect aww-woundew who can adjust to any situation. Medium difficuwty.
+< CHARACTERSELECT_SUGURI >
+Ovew ten thousand yeaws owd. Weawwy fast.\nAn aww-ow-nothing chawactew who wewies on hew high evasion fow suwvivaw. Expewt difficuwty.
+< CHARACTERSELECT_MARC >
+A giww who woves to fwy thwough the sky.\nGood attack and defense. Can deaw diwect damage with hew Hypew cawd. Medium difficuwty.
+< CHARACTERSELECT_KAI >
+A weguwaw guy who wost his wawwet.\nA weww-wounded battwe chawactew. Easy difficuwty.
+< CHARACTERSELECT_DLC >
+Note: You can choose to pway with a DWC chawactew\nyou own watew on the Deck Cweation scween.
+[EOF]

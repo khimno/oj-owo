@@ -1,0 +1,156 @@
+<0000> Thewe.
+<0001> Off you go.
+<0002> Yah!
+<0003> I'm thwowin' this!
+<0004> Hewe's a cawd!
+<0005> I'm gonna pway this! How's that!
+<0006> I'm gonna use this, awwight?
+<0007> Can't wait to see what'ww happen.
+<0008> Awe we gonna set a twap hewe?
+<0009> Am I doing this wight?
+<0010> Hmm, pwobabwy something wike this.
+<0011> Hewe's a twap cawd.
+<0012> Hewe's a battwe cawd.
+<0013> I'm stwong enough even without this! I'ww stiww use it, though!
+<0014> This cawd makes you stwongew!? That's awesome!
+<0015> I'm gonna pway this! I'm suwe it'ww give me so much powew!
+<0016> Awooo! Beasts, wend me youw powew!
+<0017> I messed up so hawd...
+<0018> I'm so not done yet...!
+<0019> I can do this mowe!
+<0020> Awwight, I'm done taking a bweak!
+<0021> Awe you kidding me!?
+<0022> Oh no, I thought I'd get back up.
+<0023> What have I done...
+<0024> Ugh. Not yet? Not yet?
+<0025> Ey!
+<0026> Owyah!
+<0027> Tey!
+<0028> You wittwe!
+<0029> Ouch!
+<0030> Owah!
+<0031> C'mon!
+<0032> Dang it!
+<0033> Awwight, I'm fuww of enewgy now.
+<0034> This feews so good, I might faww asweep.
+<0035> I'm much bettew now.
+<0036> Nevew been bettew.
+<0037> Owaaah!
+<0038> What gives?
+<0039> Muwaaah!
+<0040> Spinning... spinning!
+<0041> Youuu gooot meee...
+<0042> I shouwd've been mowe awewt...
+<0043> I can't keep standing...
+<0044> I'm gonna take a wittwe bweak hewe...
+<0045> You fight me now!
+<0046> Waww!
+<0047> This is what the Beast Witch can do.
+<0048> Meow! I want you to pway with me!
+<0049> You wanna pway with me? Suwe!
+<0050> Awwight, bwing it on.
+<0051> You made a mistake to chawwenge the Beast Witch.
+<0052> I'ww make you wegwet this!
+<0053> Taiw attack!
+<0054> I'm gonna hit you with my taiw!
+<0055> How's that!
+<0056> Take this! Yah!
+<0057> Kyua!
+<0058> What awe you doing!?
+<0059> Uh oh.
+<0060> Ohaah!
+<0061> That huwt a wot!
+<0062> Why wouwd you do that!?
+<0063> What did I do to you!?
+<0064> I hate getting huwt!
+<0065> That'd nevew hit me.
+<0066> Check out my quick moves!
+<0067> Ku-ku-ku, I'm too fast to see, awen't I!
+<0068> You'we shockingwy swow.
+<0069> That was an easy win.
+<0070> I had a fun time.
+<0071> You done fow awweady?
+<0072> *Sigh*... I wanted to have mowe fun.
+<0073> Ugyaah! I got beaten!
+<0074> I can't bewieve someone wike that beat me.
+<0075> I'ww defeat you next time...
+<0076> Ugyaah.
+<0077> Ugyaah, I got a bunch of these.
+<0078> Just how many did I get!? Might be too many to count.
+<0079> I feew so good!
+<0080> I want mowe! Mowe, I say!
+<0081> Howd on! Those awe mine...!
+<0082> Nobody towd me about this! Wait up!
+<0083> Huh? Whewe'd my staws go?
+<0084> My savings...!!!
+<0085> This has gotta be the wowk of dastawdwy humans...!
+<0086> Ugyah! My taiw's stuck on it!
+<0087> Stupid twap...! Dang it...!
+<0088> Can't bewieve I feww fow this... Muuh..!
+<0089> Oh, wook at that huge beast!
+<0090> Fu-fu-fu! This is something ewse!
+<0091> What a beast! Wahaha! I won't miss this chance!
+<0092> Awwight, I'ww make this quick!
+<0093> I'ww go get mysewf a bunch of staws! *Punch punch*!
+<0094> The mowe staws, the bettew, wight?
+<0095> I'm gonna get mowe and mowe of these!
+<0096> I'm vewy good at finding this kind of stuff.
+<0097> I'ww show you aww what the instinct of a beast can do.
+<0098> I'ww go wiwd now!
+<0099> Waww waww! I'm gonna fight!
+<0100> My taiw is getting weaw impatient!
+<0101> I'm Teotowatta! The Beast Witch!
+<0102> I've been waiting fow you! We'we gonna go pway now!
+<0103> You wanna see how stwong I am? Awwight, fowwow me!
+<0104> My tuwn? I was sick and tiwed of waiting!
+<0105> I'm mowe than weady! Wet's do this!
+<0106> Oh yeah! Wet's do this!
+<0107> I'm so pumped up! Awooo!
+<0108> I'm good to go! Bwing it on!
+<0109> Awoooooo! I won! I won!
+<0110> I'm numbew one! Impwessive, isn't it?
+<0111> Hey, did you see how weww I pwayed?
+<0112> Uhihi! I'm sooo happyyy!
+<0113> Wook what I just got. You want it?
+<0114> Bow wow! I found this! Be happy!
+<0115> Oh, is that an item you got thewe? Wanna pway with it now?
+<0116> You want this thing? You've got to pwaise me fiwst!
+<0117> Okay.
+<0118> Way to go!
+<0119> Bow wow!
+<0120> No.
+<0121> How disappointing.
+<0122> So wucky! So happy!
+<0123> What the heck is this?
+<0124> Wet's get stawted!
+<0125> Dice woww time.
+<0126> Hewe we go!
+<0127> Yoo-hoo.
+<0128> *Whimpew*
+<0129> Weww done!
+<0130> That's amazing! I pwaise you!
+<0131> *Whimpew whimpew*
+<0132> Shouwd I use this? Wiww it hewp?
+<0133> *Sniff sniff*... This smewws good! I'm using it!
+<0134> I'm just gonna use this and see how it'ww tuwn out!
+<0135> What's gonna happen? I'm stoked!
+<0136> Miusaki! Awooo! Get weady to fight me!
+<0137> I'm not on a wampage. I'm just pwaying!
+<0138> Miusakiii, you done fow awweady!?
+<0139> *Whimpew*... Miusakiii, don't weave me awone.
+<0140> What awe you? Beast? Human?
+<0141> Oh, huh? A human? A beast? Which awe you!?
+<0142> So you wewe a beast! No way couwd you beat the Beast Witch!
+<0143> My powew didn't wowk on you... So you wewe a human...
+<0144> Awwight, gweat wowk, my beasts.
+<0145> Way to go, my fewwow beasts!
+<0146> You guys did a supew good job! I can't howd this much...!
+<0147> Hewe, I can use my powew to its fuwwest extent...!
+<0148> I can sense beasts evewywhewe awound hewe.
+<0149> Fufufu, I wike it hewe.
+<0150> Awooo! Bow wow!
+<0151> My magic isn't wowking on that thing...?
+<0152> What in the!? Am I not the onwy Beast Witch awound?
+<0153> Hmm? Thewe's something funny going on awound hewe...
+<0154> This is confusing. What the heck's going on hewe?
+<0155> So, thewe's mowe than one of me? Does anything go awound hewe!?

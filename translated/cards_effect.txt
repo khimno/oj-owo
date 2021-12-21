@@ -1,0 +1,373 @@
+< CARD_DASH_EFFECT >
+name=Dash!
+descr=Woww two dice fow movement.
+< CARD_FLIPOUT_EFFECT >
+name=Fwip Out
+descr=When wanding on a dwop panew, the pwayew(s) with the highest numbew of staws wiww wose the same numbew of staws as this unit.
+< CARD_NICEJINGLE_EFFECT >
+name=Nice Jingwe
+descr=Weceive doubwe staws fwom bonus panews.
+< CARD_EXTEND_EFFECT >
+name=Extend
+descr=Aftew suffewing KO, wevive on the fowwowing tuwn.
+< CARD_STIFFCRYSTAL_EFFECT >
+name=Stiff Cwystaw
+descr=Negate the effect of a twap cawd. Gain 5 staws pew wevew of cancewwed twap.
+< CARD_DANGEROUSPUDDING_EFFECT >
+name=Dangewous Pudding
+descr=Next tuwn wiww be skipped.
+< CARD_HEAT300_EFFECT >
+name=Heat 300%
+descr=Gain -2 DEF.
+< CARD_SUPERALLOUTMODE_EFFECT >
+name=Supew Aww-Out Mode
+descr=Gain +2 ATK on next battwe.
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=Pwotagonist's Pwiviwege
+descr=When awwowed to attack fiwst, the opposing unit cannot attack (once pew combat).
+< CARD_ACCELERATOR_EFFECT >
+name=Accewewatow
+descr=Woww two dice fow movement, battwe, bonus and dwop.
+< CARD_BINDINGCHAIN_EFFECT >
+name=Binding Chains
+descr=Next tuwn wiww be skipped.
+< CARD_EXTRAORDINARYSPECS_EFFECT >
+name=Extwaowdinawy Specs
+descr=Woww 6 fow movement, battwe, bonus and dwop.
+< CARD_MAGICALMASSACRE_EFFECT >
+name=Magicaw Massacwe
+descr=Fow each stack, gain -1 WEC on next wevive woww.
+< CARD_CASTOFF_EFFECT >
+name=Cast Off
+descr=Swap unit's base ATK and DEF. Effect expiwes on KO, ow when Cast Off is used again.
+< CARD_LONGEAREDBEASTS_EFFECT >
+name=Dance, Wong-Eawed Beasts!
+descr=Gain -2 ATK on next battwe.
+< CARD_BLAZING_EFFECT >
+name=Bwazing!
+descr=Gain +1 ATK and -1 DEF fow each stack. Effect expiwes on KO.
+< CARD_SEALEDMEMORIES_EFFECT >
+name=Seawed Memowies
+descr=Cawwied cawds wiww be wevewsed.
+< CARD_SELFDESTRUCT_EFFECT >
+name=Sewf-Destwuct
+descr=Gain +1 ATK fow each stack.
+< CARD_CRYSTALBARRIER_EFFECT >
+name=Cwystaw Bawwiew
+descr=Consume 1 stack to cancew a twap, a battwe, ow dwop panew and take 1 damage. Effect expiwes on KO.
+< CARD_DELTAFIELD_EFFECT >
+name=Dewta Fiewd
+descr=Aww dice wowws wiww be 1.
+< CARD_WHIMSICALWINDMILL_EFFECT >
+name=Whimsicaw Windmiww
+descr=Gain +1 EVD duwing battwe.
+< CARD_HYPER_ARUSCRAMBLE_EFFECT >
+name=Santa's Gift
+descr=Unit cannot chawwenge othews to battwe.
+< CARD_HYPER_SORAMILITARY_EFFECT >
+name=Awakening of Tawent
+descr=Woww 5 fow move, battwe, bonus ow dwop.
+< CARD_JONATHANRUSH_EFFECT >
+name=Jonathan Wush
+descr=Gain -1 DEF duwing battwe.
+< CARD_TURBOCHARGED_EFFECT >
+name=Tuwbo Chawged
+descr=Gain +1 ATK fow each stack. Effect expiwes on KO.
+< CARD_IMMOVABLEOBJECT_EFFECT >
+name=Immovabwe Object
+descr=Cannot move and enemies who move into the same panew must battwe you.\nGain +2 DEF and become abwe to countewattack.
+< CARD_GOLDENEGG_CHICKEN_EFFECT >
+name=Gowden Egg
+descr=Dwop Panews wiww act as Bonus Panews.
+< CARD_GOLDENEGG_NOTCHICKEN_EFFECT >
+name=Gowden Egg
+descr=Bonus Panews wiww act as Dwop Panews.
+< CARD_NATH_EFFECT >
+name=Active Extension
+descr=Fow each stack, gain +1 to ATK/DEF and -1 to EVD.
+< CARD_NONAME_EFFECT >
+name=Potted Head
+descr=Base stats change to -1 ATK/DEF/EVD. Effect expiwes on wevivaw ow weaching a home panew.
+< CARD_AMPATK_EFFECT >
+name=Attack Buff
+descr=Gain +1 to ATK fow each stack.
+< CARD_AMPDEF_EFFECT >
+name=Defense Buff
+descr=Gain +1 to DEF fow each stack.
+< CARD_AMPEVD_EFFECT >
+name=Evasion Buff
+descr=Gain +1 to EVD fow each stack.
+< CARD_AMPMOV_EFFECT >
+name=Movement Buff
+descr=Gain +1 MOV.
+< CARD_AMPHP_EFFECT >
+name=Heawth Buff
+descr=Gain +1 max HP fow each stack.
+< CARD_AMPRECOVERY_EFFECT >
+name=Wecovewy Buff
+descr=Gain -1 WEC.
+< CARD_SOLIDWITCH_EFFECT >
+name=Sowid Witch
+descr=Take no damage.
+< CARD_HYPER_SWEETEATER_EFFECT >
+name=Sweet Eatew
+descr=Base stats change to 3 ATK and 0 DEF/EVD. Effect expiwes on wevivaw.
+< CARD_STEALTHON_EFFECT >
+name=Steawth On
+descr=Cannot be chawwenged to battwe and cannot be tawgeted by Boost cawds.\nDo not twiggew Encountew ow Boss panews.\nEffect expiwes on entewing battwe but gain +2 ATK duwing that battwe.
+< CARD_SMOKESCREEN_EFFECT >
+name=Binding Smoke
+descr=Move wowws awe wimited to 1, 2 ow 3.
+< CARD_KIRIKO_EFFECT >
+name=Stwange Medicine
+descr=-1 Max HP fow each stack.
+< CARD_CUTIES_EFFECT >
+name=Events Cwashed
+descr=+1 staw fwom aww souwces.
+< CARD_SPECIALSTAGE_EFFECT >
+name=Wive Mode
+descr=Gain -3 MOV, can onwy twiggew movement type panews and cannot use cawds.\nCannot be chawwenged to battwe by enemies ow tawgeted by Boost cawds.\nIf an opponent ends theiw tuwn within 2 panews, steaw Wvw x5 staws fwom them.\nEffect expiwes on KO.
+< CARD_PATHBLOCKERS_EFFECT >
+name=Path Bwockews
+descr=Stop moving if panew has a twap.
+< CARD_POPPOFORMATION_EFFECT >
+name=Poppofowmed
+descr=Base ATK, DEF and EVD wiww be -1 duwing next battwe.
+< CARD_HAND_BOOST_EFFECT >
+name=Hand Boost
+descr=+1 to amount of cawds that can be hewd fow each stack, up to a maximum of 5.
+< CARD_CHEAT_EFFECT >
+name=? ? ? ? ? ?
+descr=????
+< CARD_CHAINBOUND_EFFECT >
+name=Bound
+descr=Gain -2 EVD and -1 MOV.
+< CARD_JOKER_EFFECT >
+name=Poppo Jokew
+descr=Cawds can be pwayed as though they wewe Wvw 1 and had 0 base cost.
+< CARD_HERBAL_REMEDY_EFFECT >
+name=Hewbaw Wemedy
+descr=Cannot take damage.
+< CARD_ACCEL_CANDY_EFFECT >
+name=Accew Hypew Candy
+descr=Woww two dice fow any action.
+< CARD_COTTONCAKE_EFFECT >
+name=Fwee Cawds
+descr=Cawds wiww have no base cost and no wevew wequiwement.
+< CARD_REDBEANCREAM_EFFECT >
+name=Wed Bean Ice Cweam
+descr=Gain +1 ATK. This effect is wemoved upon KO. This effect cannot stack.
+< CARD_ZAPPERSWORD_EFFECT >
+name=Magicaw Enchanted Swowd
+descr=Pewmanentwy gain +1 ATK, but awso -1 DEF.
+< CARD_MELONPAN_EFFECT >
+name=Mewonpan
+descr=Pewmanentwy gain +1 DEF and EVD, but awso -1 ATK.
+< CARD_SMOKEBOMB_EFFECT >
+name=Smoke Bomb
+descr=In the next battwe, the enemy gains -1 ATK, DEF and EVD.
+< CARD_SHIELD_EFFECT >
+name=Shiewd
+descr=Weduce incoming damage, and weduce the numbew of stocks ovew taking damage.
+< CARD_ELLIEATK_EFFECT >
+name=Ewwie's Miwacwe (ATK)
+descr=Get +1 ATK pew stack.
+< CARD_ELLIEDEF_EFFECT >
+name=Ewwie's Miwacwe (DEF)
+descr=Get +1 DEF pew stack.
+< CARD_ELLIEEVD_EFFECT >
+name=Ewwie's Miwacwe (EVD)
+descr=Get +1 EVD pew stack.
+< CARD_LUCKYLUNCH_EFFECT >
+name=Wucky Wunch
+descr=Gain +1 ATK, DEF and EVD.
+< CARD_ALICIANRONE_ATK_EFFECT >
+name=Speed Damage
+descr=Deaw as much damage as the stock numbew by passing on pwayews.
+< CARD_BEASTWITCH_EFFECT >
+name=Beastwy Twibute
+descr=On tuwn end, discawd "Beast Witch".
+< CARD_SLOW_EFFECT >
+name=Swow
+descr=MOV is decweased by 1 pew stack.
+< CARD_SHROOMZOOM_EFFECT >
+name=Shwoom Zoom
+descr=MOV is incweased by 1 pew stack.
+< CARD_SUGURI46_EFFECT >
+name=Wejuvenation
+descr=Gain +1 die on next Movement woww.
+< CARD_MAYNIECOUNT_EFFECT >
+name=Wage Countew
+descr=Gain +1 ATK and +1 EVD fow each stack aftew using Waging Madness.
+< CARD_MAYNIERAGE_EFFECT >
+name=Waging Mode
+descr=Gain +1 ATK and +1 EVD fow each stack.
+< CARD_PASSIONATERESEARCH_EFFECT >
+name=Passionate Weseawchew
+descr=Abwe to see the next X top-of-deck cawds, whewe X is the numbew of stack.
+< CARD_MINIGAME_TURNSKIP >
+name=Poppo Stop
+descr=Next tuwn wiww be skipped.
+< CARD_MINIGAME_REVERSEMOVEMENT >
+name=Poppo Wevewse
+descr=Must move backwawds.
+< CARD_MINIGAME_DOUBLEDICE >
+name=Poppo Dice
+descr=Gain an extwa die fow aww wowws.
+< CARD_MINIGAME_FROSTWALKER >
+name=Poppo Fwostwawkew
+descr=Panews you wawk on wiww be fwozen fow one chaptew.
+< CARD_XMAS2018_SNOWBALLFIGHTBAN >
+name=Chiwwy
+descr=Cannot initiate a Snowbaww Fight.
+< CARD_WANTED_EFFECT >
+name=Wanted
+descr=Give doubwe wins on KO fwom battwe. Effect expiwes on KO.
+< CARD_SWEETDESTROYER_EFFECT >
+name=Sweet Destwoyew
+descr=On tuwn end, discawd as many cawds as amount of stacks.
+< CARD_LONELYCHARIOT_EFFECT >
+name=Wonewy Chawiot
+descr=Awways woww 5 to move. On tuwn end, take 1 damage. Effect expiwes on KO.\nIf KO'd fwom this effect, pay Wvw x5 staws.
+< CARD_PRESIDENTPRIVILEGE_EFFECT >
+name=Pwesident's Pwiviwege
+descr=May pway cawds without paying theiw cost.
+< CARD_SANTASJOB_EFFECT >
+name=Santa's Job
+descr=Aftew each tuwn, send a cawd of usabwe Wvw fwom hand to a wandom pwayew. Gain staws equaw to Cawd Wvw x5.
+< CARD_BANNEDFORLIFE_EFFECT >
+name=Banned fow Wife
+descr=Can onwy pway Gift cawds.
+< CARD_EVILSPYWORKEXEC_EFFECT >
+name=Eviw Spy Wowk ― Execution
+descr=On tuwn end, take 3 damage.
+< CARD_REDBEANICECREAM_EFFECT >
+name=Miwacwe Wed Bean Ice Cweam
+descr=Gain +1 ATK fow each stack.
+< CARD_REDBLUE_EFFECT >
+name=Wed & Bwue
+descr=Gain +1 ATK, DEF and EVD fow each stack.
+< CARD_BEASTWITCHGIFT_EFFECT >
+name=Beast Witch
+descr=When anothew pwayew woses staws fwom an Encountew panew battwe and those staws wouwd go to the Encountew panew unit, weceive them instead.
+< CARD_UNLUCKYCHARM_EFFECT >
+name=Unwucky Chawm
+descr=On tuwn stawt, wose Wvw x1 staws.
+< CARD_WINDYENCHANTMENT_EFFECT >
+name=Windy Enchantment
+descr=Gain +1 MOV. Nowma checks awe disabwed.
+< CARD_LOSTCHILD_EFFECT >
+name=Wost Chiwd
+descr=Must move backwawds. Nowma checks awe disabwed.
+< CARD_PRICEOFPOWER_EFFECT >
+name=Pwice of Powew
+descr=May pway cawds one wevew highew than cuwwent wevew. Aww cawd costs awe incweased by 5.
+< CARD_POPPOSNATCHER_EFFECT >
+name=Poppo the Snatchew
+descr=Gain -1 DEF. When passing anothew unit, steaw tawget Wvw x3 staws fwom them. Nowma checks awe disabwed.
+< CARD_BLOODLUST_EFFECT >
+name=Bwoodwust
+descr=On tuwn stawt, wose 1 HP. Heaw 1 HP fow evewy damage deawt. Nowma checks awe disabwed.
+< CARD_LUCKYCHARM_EFFECT >
+name=Wucky Chawm
+descr=On tuwn stawt, gain Wvw x1 staws. Cannot use any othew cawds.\nOn defeat, give Wvw x 3 mowe staws.
+< CARD_MONOCOQUE_EFFECT >
+name=Metawwic Monocoque
+descr=When weceiving damage fwom a non-battwe effect, that damage is weduced by 1, wose Wvw x 2 staws.
+< CARD_SAINTEYES_EFFECT >
+name=Saint Eyes
+descr=In battwes whewe you attack fiwst, gain -1 ATK and +1 DEF fow evewy 2 stacks, and +1 ATK pew stack.
+< CARD_CHEFSUMMON_EFFECT >
+name=Chef, I Need Youw Hewp!
+descr=Chef wiww fight in youw stead. Awwows Chwis to chawwenge othew units in battwes.
+< CARD_MANAGERSUMMON_EFFECT >
+name=Managew, Hewp Me!
+descr=Stowe Managew wiww fight in youw stead. Awwows Chwis to chawwenge othew units in battwes.
+< CARD_MANAGERCOUNTER_EFFECT >
+name=Stowe Managew Countew
+descr=Awawded fow pwaying a Max 1 copy wimit cawd. Gathewing 4 ow mowe whiwe youw wevew is 4 ow highew wiww upgwade "Chef, I Couwd Use Some Hewp!" into "Managew, I Couwd Use Some Hewp!".
+< CARD_PHILOSOPHERSTONE_EFFECT >
+name=Phiwosophew's Stone
+descr=On evewy chaptew stawt, gain 4 staws, with an additionaw 1 staw evewy 5 chaptews.
+< CARD_PERMARECREDUCTION_EFFECT >
+name=Enewgized
+descr=Pewmanentwy weduce youw WEC by 1.
+< CARD_TEMPRECREDUCTION_EFFECT >
+name=Vitawity Boost
+descr=Weduce youw WEC by the numbew of stock fow youw next KO.
+< CARD_SHOKUPAN_EFFECT >
+name=Wevitawize
+descr=Heaw youw chawactew by the amount of stock at the beginning of youw tuwn.
+< CARD_RADAR_EFFECT >
+name=Obsewvew
+descr=Can discewn aww monstew wocations.
+< CARD_HARBINGER_FAME >
+name=Famous Weakwing Swayew
+descr=+1 Fame pew stack up to 6. Gathewed Fame wiww be given in addition to the base Fame wewawd upon defeating the Hawbingew.
+< CARD_HARBINGER_SOULEATER >
+name=Souw Eatew
+descr=Upon weaching 3 stacks, fuwwy heaw sewf, and infwict Doom to aww units.
+< CARD_HARBINGER_AWAKENED >
+name=Awakened Souw Eatew
+descr=Pewmanent +1 Max HP, +1 ATK, -1 DEF.
+< CARD_DOOM_EFFECT >
+name=Doom
+descr=Suffew KO at the stawt of tuwn when the duwation weaches zewo. Wemoved upon defeating the souwce of the effect ow by getting KO'd. Give a stack of Souw Eatew to the Hawbingew if KO'd whiwe having this effect.
+< CARD_SPIKEDSHIELD_EFFECT >
+name=Spiked Shiewd
+descr=Weduce incoming damage by 1. If youw defense woww is gweatew than the opponent's attack woww, wefwect damage equaw to hawf of the attack vawue back to the opponent
+< CARD_BATTLEAXE_EFFECT >
+name=Executionew
+descr=Pewmanentwy gain +1 ATK, but awso -1 EVD.
+< CARD_BRAVERYUP_EFFECT >
+name=Feawwess Huntew
+descr=Youw bwavewy is incweased by defeating the Hawbingew, weducing aww incoming battwe damage by 1 fow the next stock amount of battwes.
+< CARD_OVERTIME_EFFECT >
+name=Ovewtime
+descr=Woww 3 dice fow movement.
+< CARD_CLOCKEDOUT_EFFECT >
+name=Cwocked Out
+descr=Skip next tuwn.
+< CARD_HOMEIMPROVER_EFFECT >
+name=Home Impwovew
+descr=When effect wuns out, wandomwy swap home panew positions.
+< CARD_LUCKYSEVENS_EFFECT >
+name=Wucky Sevens
+descr=Natuwaw die wowws can wange fwom 0 to 7, and the minimum woww wesuwt is 0 when wowwing 0.
+< CARD_LUCKYZERO_EFFECT >
+name=Wucky Zewo
+descr=Cannot pewfowm a Nowma check.
+< CARD_LOSTPRESENTS_EFFECT >
+name=Wost Pwesents
+descr=When effect wuns out, dwaw as many cawds as amount of stacks.
+< CARD_GUIDANCE_EFFECT >
+name=Guidance of the Weathewcock
+descr=Woww 2 dice fow evewything except fow battwe. This effect ends when you stop on youw own Home panew. Can onwy check Nowma on own Home panew.
+< CARD_SAFEJOURNEY_EFFECT >
+name=Safe Jouwney
+descr=Wose 5 staws at the stawt of each tuwn. Ignowe Dwop panews, twaps, and cawd effect damage. The effect is wemoved when wanding on youw own Home panew ow having wess than 5 staws.
+< CARD_HUNGRY_EFFECT >
+name=Hungwy
+descr=With 3 Hungwy, gain -1 EVD. Wemoved on wanding on youw own home.
+< CARD_GUIDANCE_BH_EFFECT >
+name=Guidance of the Weathewcock
+descr=Woww 2 dice fow evewything except fow battwe. This effect ends when you stop on a Home panew.
+< CARD_UPSHIFT_EFFECT >
+name=Upshift
+descr=Gain +1 MOV fow each stack.
+< CARD_LONELYRIDE_EFFECT >
+name=Wonewy Woad
+descr=Gain +1 ATK, +1 DEF and +2 EVD.
+< CARD_ZEALOUSSALESMAN_EFFECT >
+name=Zeawous Sawesman
+descr=Gain +1 ATK fow each stack.
+< CARD_NEWNOBILITY_EFFECT >
+name=Nobwe Chawm
+descr=On youw next battwe, wandomwy gain -1 ATK, DEF, ow EVD.
+< CARD_AFFLUENCE_EFFECT >
+name=Pwincess's Invitation
+descr=Gain -3 ATK duwing battwe.
+< CARD_RECOVERY_DOWN_EFFECT >
+name=Wecovewy Down
+descr=Gain +1 WEC fow each stack.
+[EOF]

@@ -1,0 +1,165 @@
+< SHOP_LABEL_HOME >
+Home
+< SHOP_LABEL_CARDS >
+Cawds
+< SHOP_LABEL_CHARACTERS >
+Chawactews
+< SHOP_LABEL_CHALLENGES >
+Chawwenges
+< SHOP_LABEL_FIELDS >
+Fiewds
+< SHOP_LABEL_HALLOWEEN >
+Hawwoween
+< SHOP_LABEL_CHRISTMAS >
+Chwistmas
+< SHOP_LABEL_PIGFORMATION >
+Pigfowmation
+< SHOP_LABEL_COWKIGU >
+Cow Kiguwumi
+< SHOP_LABEL_RETIREDEVENTS >
+Wetiwed Events
+< SHOP_LABEL_MISC >
+Misc
+< SHOP_LABEL_EMOTES >
+Emotes
+< SHOP_LABEL_PETS >
+Pets
+< SHOP_LABEL_ARCADE >
+Awcade
+< SHOP_LABEL_DLC >
+DWC
+< SHOP_LABEL_ALL >
+Aww
+< SHOP_LEVEL >
+Wevew
+< SHOP_OFFLINE >
+No Steam Connection
+< SHOP_DLC_SYURANANAKO >
+Syuwa & Nanako
+< SHOP_DLC_SAKIKYOUSUKE >
+Saki & Kyousuke
+< SHOP_DLC_MIXED >
+Mixed Pack
+< SHOP_DLC_KRILAKAE >
+Kwiwa & Kae
+< SHOP_DLC_ALTEKYOKO >
+Awte & Kyoko
+< SHOP_DLC_SHAMSHERRY >
+Sham & Shewwy
+< SHOP_DLC_BREAKERPACK >
+Bweakew Pack
+< SHOP_DLC_ACCELERATIONPACK >
+Accewewation Pack
+< SHOP_DLC_NATHTOMATOMIMYUU >
+Nath & Tomato + Mimyuu
+< SHOP_DLC_SUGURIHIMEWINTER >
+Suguwi & Hime Wintew
+< SHOP_DLC_KIRIKONONAME >
+Kiwiko & NoName
+< SHOP_DLC_STARTERVOICEPACK >
+Stawtew Chawactew Voice Pack
+< SHOP_DLC_CEOREPARQUEMIUSAKI >
+Witch Pack
+< SHOP_DLC_COREVOICEPACK1 >
+Cowe Voice Pack 1
+< SHOP_DLC_YUKITOMOMORENEWAL >
+Yuki & Tomomo Wenewaw Pack
+< SHOP_DLC_COREVOICEPACK2 >
+Cowe Voice Pack 2
+< SHOP_DLC_TSIHTEQUILA >
+Tsih & Tequiwa
+< SHOP_DLC_MEINATSUMI >
+Mei & Natsumi
+< SHOP_DLC_NICOARTHUR >
+Toy Stowe Pack
+< SHOP_DLC_IRUMIRA >
+Iwu & Miwa
+< SHOP_DLC_CUTIES >
+Cuties
+< SHOP_DLC_ULTIMATEWEAPONGIRL >
+Uwtimate Weapon Giww
+< SHOP_DLC_YUUKIISLAY >
+Yuuki & Isway
+< SHOP_DLC_PUDDINGPACK >
+Pudding Pack
+< SHOP_DLC_SUGURI46SUMIKA >
+Owd Guawdian Pack
+< SHOP_DLC_ELLIELULU >
+Wandewew Pack
+< SHOP_DLC_RONETEO >
+Awicianwone & Teotowatta
+< SHOP_DLC_ARNELLEMAYNIE >
+Awnewwe & Maynie
+< SHOP_DLC_CHRISKYUPITA >
+Chwis & Kyupita
+< SHOP_DLC_HALENACOOK >
+Hawena & Cook
+< SHOP_DLC_RIDERMERCHANT >
+Waiwway Wunnews Pack
+< SHOP_DLC_HIMEFERNETRENEWAL >
+Pwincess Pack
+< SHOP_TOOLTIP_HOME >
+Navigate the shop by categowy icons.
+< SHOP_TOOLTIP_CARDS >
+Puwchase Cawd Packs and new units you have unwocked.
+< SHOP_TOOLTIP_CHARACTERS >
+Puwchase new cosmetics sowted by the chawactew.
+< SHOP_TOOLTIP_CHALLENGES >
+Use Owanges to puwchase chawwenge-specifics Cwates and haiw cowows.
+< SHOP_TOOLTIP_FIELDS >
+Unwock new fiewds to pway on.
+< SHOP_TOOLTIP_HALLOWEEN >
+Unwock Hawwoween Event accessowies.
+< SHOP_TOOLTIP_CHRISTMAS >
+Unwock Chwistmas Event accessowies.
+< SHOP_TOOLTIP_PIGFORMATION >
+Unwock "Bewawe Pigfowmation" event accessowies.
+< SHOP_TOOLTIP_COWKIGU >
+Unwock Cow Kiguwumi costumes.
+< SHOP_TOOLTIP_RETIREDEVENTS >
+Puwchase wewawds fwom wetiwed events.
+< SHOP_TOOLTIP_MISC >
+Unwock muwtipwayew bonuses and othew miscewwaneous items.
+< SHOP_TOOLTIP_EMOTES >
+Puwchase new emotes to use in chat!
+< SHOP_TOOLTIP_PETS >
+Puwchase new pets!
+< SHOP_TOOLTIP_ARCADE >
+Use awcade tokens to win fabuwous pwizes!
+< SHOP_TOOLTIP_DLC >
+Puwchase new DWC content with weaw money.
+< SHOP_TOOLTIP_ALL >
+View aww Shop content.
+< SHOP_CRATE_CONTENTS >
+~Contents~
+< SHOP_CRATE_LOOT_NONE >
+None:
+< SHOP_CRATE_LOOT_STARS >
+Staws:
+< SHOP_CRATE_LOOT_HALLOWEEN >
+Hawwoween Accessowy:
+< SHOP_CRATE_LOOT_CHRISTMAS >
+Chwistmas Outfit:
+< SHOP_CRATE_LOOT_SUNGLASSES >
+Summew Sungwasses:
+< SHOP_CRATE_LOOT_RADPOPPO >
+Wad Poppo:
+< SHOP_CRATE_LOOT_HOMEMARK >
+Home Mawkew:
+< SHOP_CRATE_LOOT_POSE >
+Pose:
+< SHOP_CRATE_LOOT_HAIR >
+Haiw:
+< SHOP_CRATE_LOOT_DICE >
+Dice:
+< SHOP_CRATE_LOOT_ORANGES >
+Owanges:
+< SHOP_CRATE_LOOT_CHARACTER >
+Chawactew:
+< SHOP_CRATE_LOOT_MYSTERY >
+???
+< SHOP_FILTER_OWNED >
+Hide Owned Items
+< SHOP_ERROR_INVENTORY_PURCHASE >
+Unabwe to puwchase. Pwease twy again watew.
+[EOF]

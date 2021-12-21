@@ -1,0 +1,638 @@
+< MENU_CLICKPROCEED >
+Weft-cwick to pwoceed
+< MAINMENU_NEWGAME >
+NEW GAME
+< MAINMENU_LOADGAME >
+CONTINUE
+< MAINMENU_CONFIGURATION >
+CONFIGUWATION
+< MAINMENU_EXIT >
+EXIT
+< MENU_BUTTON_OK >
+OK
+< MENU_BUTTON_BACK >
+BACK
+< MENU_BUTTON_HOME >
+HOME
+< MENU_BUTTON_CANCEL >
+CANCEW
+< MENU_BUTTON_READY >
+WEADY
+< MENU_BUTTON_BEGIN >
+BEGIN
+< MENU_BUTTON_RETRY >
+WETWY
+< MENU_BUTTON_NEXT >
+NEXT
+< MENU_BUTTON_PREVIOUS >
+PWEVIOUS
+< MENU_BUTTON_CLEAR >
+CWEAW
+< MENU_BUTTON_YES >
+YES
+< MENU_BUTTON_NO >
+NO
+< MENU_BUTTON_STORY >
+STOWY
+< MENU_BUTTON_REFRESH >
+WEFWESH
+< MENU_BUTTON_SEARCH >
+SEAWCH
+< MENU_BUTTON_CHAT >
+CHAT
+< MENU_BUTTON_CREATE >
+CWEATE
+< MENU_BUTTON_JOIN >
+JOIN
+< MENU_BUTTON_SPECTATE >
+SPECTATE
+< MENU_BUTTON_DIFFICULTY_CASUAL >
+CASUAW
+< MENU_BUTTON_DIFFICULTY_NORMAL >
+NOWMAW
+< MENU_BUTTON_DIFFICULTY_ORIGINAL >
+OWIGINAW
+< MENU_BUTTON_DIFFICULTY_EXTREME >
+EXTWEME
+< MENU_BUTTON_LOBBYLIST_LOBBYNAME >
+Wobby Name
+< MENU_BUTTON_LOBBYLIST_PUBLIC >
+Pubwic
+< MENU_BUTTON_LOBBYLIST_PLAYERS >
+Pwayews
+< MENU_BUTTON_LOBBYLIST_SPEED >
+Speed
+< MENU_BUTTON_LOBBYLIST_EVENTS >
+Events
+< MENU_BUTTON_LOBBYLIST_FIELDNAME >
+Fiewd Name
+< MENU_BUTTON_LOBBYLIST_HW2018 >
+Twick and Tweat
+< MENU_BUTTON_LOBBYLIST_XMAS >
+X-mas
+< MENU_BUTTON_LOBBYLIST_BOUNTYHUNTER >
+Bounty Hunt
+< MENU_BUTTON_LOBBYLIST_MASTERANGLERS >
+Fish-a-Fish
+< MENU_ON >
+On
+< MENU_OFF >
+Off
+< MENU_LOBBYSETTING_EVENT >
+Seasonaw Event
+< MENU_LOBBYSETTING_PASSWORD >
+Passwowd
+< MENU_LOBBYSETTING_OPTIONAL >
+(Optionaw)
+< MENU_LOBBYSETTING_MIXERS >
+Mixews
+< MENU_LOBBYSETTING_CPUEVENT >
+Skip CPU-onwy events
+< MENU_LOBBYSETTING_TURNTIMER >
+Timew
+< MENU_BUTTON_GAME_RETURN >
+WETUWN
+< MENU_BUTTON_GAME_CONFIG >
+CONFIG
+< MENU_BUTTON_GAME_RETIRE >
+WETIWE
+< MENU_BUTTON_GAME_MOVE >
+MOVE
+< MENU_BUTTON_GAME_CARD >
+CAWD
+< MENU_BUTTON_GAME_INFO >
+INFO
+< MENU_BUTTON_GAME_PROTECT >
+PWOTECT
+< MENU_BUTTON_GAME_GIFT >
+GIFT
+< MENU_BUTTON_GAME_THROW >
+THWOW
+< MENU_BUTTON_GAME_FURY >
+FUWY
+< MENU_BUTTON_GAME_GUARDIANSPIRIT >
+SPIWIT
+< MENU_BUTTON_GAME_IRONDEFENSE >
+IWON
+< MENU_BUTTON_GAME_RESTORINGLIGHT >
+WESTOWE
+< MENU_BUTTON_GAME_FROMBEYOND >
+BEYOND
+< MENU_BUTTON_GAME_DEAL >
+DEAW
+< MENU_BUTTON_GAME_DEMAND >
+DEMAND
+< MENU_BUTTON_GAME_CLICK >
+CWICK
+< MENU_BUTTON_GAME_DEFEND >
+DEFEND
+< MENU_BUTTON_GAME_EVADE >
+EVADE
+< MENU_BUTTON_GAME_FIGHT >
+FIGHT
+< MENU_BUTTON_GAME_END >
+END
+< MENU_BUTTON_GAME_ITEMS >
+ITEMS
+< MENU_BUTTON_GAME_SELLCARDS >
+SEWW CAWDS
+< PLAYMENU_FREEBATTLE >
+ONWINE
+< PLAYMENU_SHOP >
+SHOPPING
+< PLAYMENU_CAMPAIGN >
+SINGWE PWAYEW
+< PLAYMENU_PROFILE >
+PWAYEW INFO
+< PLAYMENU_MANUAL >
+GUIDE
+< PLAYMENU_WIKI >
+WIKI
+< PLAYMENU_EXIT >
+EXIT
+< PLAYMENU_TOOLTIP_FREEPLAY >
+Pway onwine against othew pwayews.
+< PLAYMENU_TOOLTIP_SHOP >
+Puwchase new cawd packs, units, cosmetics and mowe.
+< PLAYMENU_TOOLTIP_CAMPAIGN >
+Sewect a chawactew and dive into theiw stowywine in singwe pwayew.
+< PLAYMENU_TOOLTIP_PROFILE >
+View youw statistics, bwowse cawds and customize youw Avataw.
+< PLAYMENU_TOOLTIP_MANUAL >
+Open the game Manuaw.
+< PLAYMENU_TOOLTIP_WIKI >
+Visit the community wiki maintained by fans fow in-depth infowmation.
+< PLAYMENU_TOOLTIP_CHALLENGES >
+View youw daiwy muwtipwayew chawwenges.
+< PLAYMENU_TOOLTIP_CONFIGMENU >
+Go to the config scween.
+< PLAYMENU_TOOLTIP_EXIT >
+Wetuwn to the titwe scween.
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_01 >
+Check youw Chawwenge Boawd fow chawwenges fwom Wein. Compwete them to eawn pwesents!
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_02 >
+Once you have cowwected some pwesents, gift them to othews duwing the game.
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_03 >
+At the end of the game evewyone wiww open theiw pwesents, even the owiginaw giftew!
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_04 >
+Once you have gifted enough pwesents you wiww be abwe to chawwenge Wawuda at theiw hideout fow the finaw showdown.
+< PLAYMENU_EVENT_XMAS2017_GIFTPROGRESS >
+Pwesents Dewivewed: %d/%d.
+< PLAYMENU_EVENT_XMAS2017_STAGEPROGRESS >
+Compwete the extwa scenawio: %s.
+< PLAYMENU_EVENT_XMAS2017_COMPLETE >
+Chwistmas has been saved!\n(But whethew the Wawuda have changed theiw ways wemains to be seen...)
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_MAIN >
+Cowwect a totaw of %s Chocowate to compwete youw mission!
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_01 >
+Cowwect Chocowate fwom panews and by defeating enemies.
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_02 >
+Defeat enemy pwayews to steaw hawf of theiw Hewd chocowate.
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_03 >
+When cawwying at weast 500 Chocowate, stowe them at a home stop to pwevent them fwom getting stowen.
+< PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
+The sweets of the wowwd have been saved!\n(Fow now, at weast...)
+< PLAYMENU_EVENT_BONUSITEMS >
+Bonus items: %d/%d
+< PLAYMENU_EVENT_VIEWPROGRESS >
+View Pwogwess
+< PLAYMENU_EVENT_MILESTONE >
+Next miwestone:
+< RANDOMFILTER_EVENTS >
+Sewect Events fow "Wandom"
+< RANDOMFILTER_MAPS >
+Sewect Maps fow "Wandom"
+< RANDOMFILTER_CHARACTERS >
+Sewect Chawactews fow "Wandom"
+< POPPOMARCH_CLICKTHESE >
+Cwick These %d!
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_MAIN >
+Wecovew Mw. NoName's missing body pawts fwom Poppo and we-assembwe him!
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_01 >
+Game panews appeaw evewy 3 tuwns. Wand on them to pway a game with Poppo!
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_02 >
+Paiw up aww the cawds. A few mistakes awe awwowed! The paiw you wast fowm wiww be youw wewawd. On faiwuwe, an effect is chosen wandomwy.
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_03 >
+Sewect which wewawd you want and twack the cawd that has it! Poppo wiww shuffwe the cawds and twy to hide youw wewawd.
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_04 >
+Poppo's spinning a wheew! Twy to stop the wheew at the wight time to get something good!
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_05 >
+Poppos quickwy pop out of the bawwews - whack them befowe they disappeaw! Bewawe of accidentawwy hitting othew chawactews, though...
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_06 >
+Aim and thwow dawts at the bawwoons! Some of them awe cawwying a pwize. Pop 3 of the same type to cwaim that wewawd!
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_07 >
+Cwick on the 3 Poppos shown at the stawt as countwess Poppos mawch past. Find aww 3 to get the best wewawds!
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_08 >
+NoName pawts occasionawwy appeaw among the minigame wewawds. If you see one, aim fow it!
+< PLAYMENU_EVENT_SPRING2018_COMPLETE >
+Mw. NoName was summawiwy we-assembwed and evewyone avoided being hewd back a gwade!
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_MAIN >
+Defeat Big the Jonathan!
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_01 >
+Whiwe pwaying in Co-op mode, dwive away Big the Jonathan to win by weducing his HP to 0 ow suwviving 50 chaptews.
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_02 >
+In Co-op mode, evewy pwayew must sewect one of the avaiwabwe wowes! This detewmines theiw abiwities, the cawds they bwing, and theiw Hypew!
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_03 >
+Attackew gains +Attack and stwikes fiwst, Guawdian gains +Defense and can use a Pwotect abiwity, whiwe Suppowtew gains +Move and can Wevive awwies.
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_04 >
+Unit Wecovewy vawue is adjusted with a speciaw wuwe, with Attack incweasing Wecovewy, and Evasion wowewing it. Minimum Wecovewy vawue is 3.
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_05 >
+Aww 4 pwayews shawe Nowma, Wins and Staws. Nowma wequiwements awe 1.5x nowmaw fow Staws and 2x fow Wins. Pwayews can see each othew's cawds.
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_06 >
+Duwing Co-op mode, boss panews appeaw on the fiewd in incweasing numbews. Wand on one to chawwenge Big the Jonathan!
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_07 >
+On KO, youw team woses 1/8 of theiw staws. Units can awso stop at any pwayew's home.
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_08 >
+Instead of nowmaw fiewd events, Big the Jonathan uses many diffewent abiwities to bwing you down! He unwocks mowe as the game goes on...
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
+Keep youw eye on the cwock! At Chaptew 30, Big the Jonathan becomes angwy and wiww destwoy aww home panews and activate his most powewfuw abiwities!
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_10 >
+If aww awwies awe KO'd at the same time, the game is ovew and Big the Jonathan wins! Damage you deawt to him wiww stiww affect event pwogwession.
+< PLAYMENU_EVENT_SUMMER2018_COMPLETE >
+Big the Jonathan has been pacified and the seas and beaches awe safe again!
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_MAIN >
+Twick and Tweat to fiww youw bewwy with candy!
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_01 >
+Cawwy candy to weceive +1 staws / candy each chaptew. Mowe candy is wandomwy given evewy 3 chaptews.
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_02 >
+If the candy matches youw pwayew pwate, tuwn it in at a home to weceive 10 staws and 1 Win.
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_03 >
+If you meet anothew pwayew, sewect a candy they awe howding to twick ow tweat them. If they don't give you that candy, they weceive a penawty!
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_04 >
+If wefused a tweat, KO a pwayew to steaw a candy they awe cawwying.
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_05 >
+Candy is wewawded at the end of the match based on youw wanking. Cowwect 1500 candy to fiww the cwaving in youw stomach!
+< PLAYMENU_EVENT_HALLOWEEN2018_COMPLETE >
+You have cowwected enough candy to ovewcome Kiwiko's medicine! Wet's enjoy the witch's tea time.
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_ATTACKER >
+Attackew\n\nFiwst Stwike: Go fiwst in battwe\nNowma 2 : +1 ATK\nNowma 4 : +1 ATK\nBoss HP + 5
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_DEFENDER >
+Guawdian\n\nPwotect: Pay 1 HP to pwotect tawget fwom 2 damage in the next battwe\nNowma 2: +1 DEF\nNowma 4: +1 DEF\nBoss HP - 5
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_SUPPORT >
+Suppowtew\n\nWevive/Heaw: Can heaw an awwy 1 HP ow wevive a KO'd awwy fow staws by wawking ovew them\nNowma 2: +1 Move\nNowma 4: +1 Move
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_AVENGER >
+Avengew\n\n+1 ATK pew HP wost in combat.\nNowma 2 : +1 Max HP\nNowma 4 : +1 Max HP\nBoss HP + 10
+< PLAYMENU_EVENT_SUMMER2018_AVENGER_UNLOCK >
+A new wowe is now avaiwabwe in Co-op mode: Avengew!
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_MAIN >
+Wowk togethew with evewyone to buiwd a snow castwe fow the chiwdwen befowe Chwistmas!
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_01 >
+Cweaw the daiwy pwogwess goaw to unwock new wewawds! Eawn Chwistmas Wweaths fwom the Xmas game mode and wedeem items in the stowe!
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_02 >
+In the Xmas game mode, aww pwayews buiwd a snow castwe togethew evewy 6 chaptews. Aftew 24 chaptews, the game ends and whoevew buiwt the most wins!
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_03 >
+Snow castwes awe buiwt using snow. Snow cowwects on untwavewed panews ovew time - cowwect it by wawking ovew snow piwes.
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_04 >
+In need of mowe snow? Steaw it fwom youw fwiends by KO'ing them in battwe, ow hitting them with a snowbaww!
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_05 >
+Initiate a snowbaww fight by cwicking this icon and sewecting a tawget 3-4 panews away fwom you (cost: 10 snow).
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_06 >
+Any unit within 1 panew wadius of you joins the battwe on youw team, and any unit within 1 panew wadius of tawget joins theiw team.
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_07 >
+Snowbaww battwes wast fow 3 wounds of attack and defense, ow untiw evewyone on one pawty has been hit.
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_08 >
+When defending, guess whewe the opponent wiww twy to thwow, and sewect a panew to dodge to.
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_09 >
+When attacking, pwedict whewe the opponent wiww twy to dodge, and twy to hit them. Success gives you hawf theiw snow!
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_10 >
+Thewe awe new event cawds in the deck in this game mode. They can be used duwing snowbaww fights fow intewesting effects...
+< PLAYMENU_EVENT_XMAS2018_COMPLETE >
+The snow castwe has been compweted, and the chiwdwen's Chwistmas has been saved!
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_MAIN >
+Evewyone's tuwning into swothfuw pigs! Save youw fwiends fwom pigfowmation by cowwecting Pig Heawts!
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_01 >
+Pig Heawts awe obtained in Nowmaw ow Bounty Hunt mode by finishing a match, and by eithew KO'ing an enemy pwayew in battwe (once pew match fow each opponent), ow wanking highew than them.
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_02 >
+Use the stowed Pig Heawts to unwock pig costumes in the Shop, fweeing that chawactew fwom the cuwse of pigfowmation!
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_03 >
+The pigfowmation wiww onwy be stopped once aww chawactews have been saved fwom it!
+< PLAYMENU_EVENT_FRB2019_COMPLETE >
+Youw fwiends have been saved, but the gwobaw pigfowmation continues...
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_MAIN >
+Mystewious new enemies awe wampaging awound! Coopewate with othews to put an end to the madness by pwaying the new co-op mode!
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_01 >
+To pway co-op, toggwe between nowmaw and co-op mode when cweating a wobby ow stawting a singwe pwayew game.
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_02 >
+The boss has 4 difficuwty wevews which can be fweewy changed. The boss wiww use mowe powewfuw abiwities on highew difficuwties! You awso gain mowe expewience and owanges as wewawd fow winning.
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
+Youw fiewd sewection is affected by boss and difficuwty choice.\n
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
+Casuaw: Pway on any weguwaw fiewd you own.\n
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_05 >
+Nowmaw and Extweme: Pway on a set of new co-op fiewds.\n
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_06 >
+Hypew: Pway on a speciawwy made boss awena fiewd.\n
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_07 >
+A Hypew difficuwty boss awso has unique, powewfuw abiwities... onwy twy one if you want a weaw chawwenge!
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_08 >
+Pway in 1 of the 3 chawactew wowes: Attackew, Guawdian ow Suppowtew. Each wowe gains expewience when you pway with them, and wiww unwock new, powewfuw abiwities.
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_09 >
+Buiwd youw co-op deck fweewy using the new Deck Point system! Mowe powewfuw cawds cost mowe Deck Points to bwing with you. Wemembew that aww cawds awe used by you and youw awwies.
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_10 >
+Note that many chawactews' Hypew cawds wowk diffewentwy in co-op! You can toggwe between weguwaw and co-op cawds in the Bindew to wook at the effects in detaiw.
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_11 >
+Youw Deck Point poow is detewmined by youw chawactew wating. A-wanked chawactews awe considewed most fitting fow that wowe, and stawt with 10 Deck Points.
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_12 >
+Chawactews with a wowew wating fow each wowe have mowe Deck Points to compensate. Expewiment with diffewent chawactew/wowe combinations!
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_13 >
+Bosses move on the fiewd and can attack you! They onwy activate movement-wewated panews (Move, Wawp etc.) Awways keep theiw wocation in mind fow youw tactics.
+< PLAYMENU_EVENT_SPRING2019_COMPLETE >
+The boss has a deck of 5 unique cawds wanging fwom wevew 0 to 3. Aftew pwaying aww 5, boss upgwades one of the wowest wevew cawds to a highew wevew one and theiw deck is shuffwed.
+< PLAYMENU_EVENT_SUMMER2019_INSTRUCTION_MAIN >
+Boss abiwity is weveawed at the beginning of each chaptew, and boss activates it befowe theiw tuwn at the end of the chaptew, so pwan accowdingwy!
+< PLAYMENU_EVENT_SUMMER2019_COMPLETE >
+Now go, it's time to pacify these monstews!
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_MAIN >
+The wowwd has been saved fwom wampaging monstews! But the thweat is not ovew whiwe the twue mastewmind wemains woose... who was it behind it aww?
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_01>
+QP has gone bonkews fwom too much sun! You need to tiwe hew out by pwaying with hew and hew new minions!
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_02>
+Thanks to youw effowts, evewyone had fun at the beach, and QP has tuwned back to hew usuaw sewf! Was it just the sun that got to hew, though...?
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_03>
+Opewation Hawwoween fow Aduwts is a go! Hewp Tsih cowwect snacks fow a giwws' night out!
+< PLAYMENU_EVENT_HALLOWEEN2019_COMPLETE >
+Duwing games, pumpkins appeaw on the map and move awound.
+< PLAYMENU_EVENT_MIO_INSTRUCTION_MAIN >
+Wanding on a pumpkin wiww cowwect it, and it wiww instantwy wespawn ewsewhewe on the map.
+< PLAYMENU_EVENT_MIO_INSTRUCTION_01 >
+Cowwect pumpkins to compwete the opewation! They awso give you extwa candy at the end of a match.
+< PLAYMENU_EVENT_MIO_INSTRUCTION_02 >
+The opewation was a success! If you want, you can stiww cowwect mowe pumpkins fow candy.
+< PLAYMENU_EVENT_MIO_INSTRUCTION_03 >
+Defeat WoPoChi!
+< PLAYMENU_EVENT_MIO_INSTRUCTION_04 >
+That fiend's tweating my wowwd wike hew own...!
+< PLAYMENU_EVENT_MIO_INSTRUCTION_05 >
+She may be stwongew than me... but I can hewp you!
+< PLAYMENU_EVENT_MIO_INSTRUCTION_06 >
+Wet's knock hew down and save this wowwd!
+< PLAYMENU_EVENT_MIO_INSTRUCTION_COMPLETE >
+You can hewp the stwuggwe by fighting against any of the bosses.
+< PLAYMENU_EVENT_MIO_MISSIONUNLOCK >
+Tomomo is giving the pwayews a magicaw boost! Co-op abiwities awe now much fastew to acquiwe!
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_MAIN >
+You wiww now stawt with aww co-op attwibute bonuses, and unwock aww abiwities by wevew 10. Co-op wowe wevew cap has awso been wifted.
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_01 >
+WoPoChi has been defeated, but the twue mastewmind awaits! Expewience the finawe of the stowy in the newwy unwocked extwa mission.
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_02 >
+Expewience the finawe of the stowy in the newwy unwocked extwa mission: %s
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_03 >
+New quests await in ouw new Bounty Hunt game mode! Hewp Ewwie and Wuwu weach wank B in the Guiwd to cowwect enough funds!
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_04 >
+To pway the Bounty Hunt mode, toggwe between Nowmaw and Bounty Hunt when cweating a new wobby ow stawting a singwe pwayew game.
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_05 >
+Quest wocations and shops with vawious usefuw items appeaw ovew the fiewd, and awe wefweshed evewy 6 chaptews.
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_06 >
+You can stop at any home, shop, and quest wocation - though onwy if you have the cowwesponding quest wewated to it!
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_07 >
+A new Nowma type has been added, and is the onwy Nowma avaiwabwe fow this mode: the Fame. (Note: chawactews with Nowma westwictions can stiww gain Fame Nowmas in this mode).
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_08 >
+You can incwease youw Fame by compweting quests ow bounties. Bounties give a vawying amount of Fame depending on theiw difficuwty!
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
+Bounty Battwes wiww wast fow up to 10 wounds. Make suwe to geaw up befowe you get into the fight!
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_COMPLETE >
+To hewp you fight the monstews infesting the wand, in this mode aww chawactews have a pewmanent +1 MOV and +1 hand size and gain additionaw staws evewy chaptew!
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_MAIN >
+A new and unique boss wiww appeaw when a pwayew weaches wevew 4. Bewawe of its powew! 6 Fame wiww be given to whoevew bwings it down!
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_01 >
+It's time fow you to become the most famous (and wich) Bounty Huntew!
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_02 >
+Congwatuwations! Ewwie and Wuwu have cowwected enough bounties to continue theiw jouwney! They can keep at it a bit wongew if you want, though.
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_03 >
+It's time fow a wivewside pawty! Hewp Saki, Nath and Kae catch fish fow theiw BBQ!
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_04 >
+To pawticipate in the event, sewect the Fish-a-Fish game mode when stawting a game.
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_05 >
+A new minigame wiww twiggew evewy 10 chaptews. Aww pwayews wiww pawticipate in it at the same time!
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_06 >
+Cast youw hook with the weft cwick of youw mouse to catch fish. Wook undewwatew to find the fish you want by moving youw mouse awound.
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_07 >
+Aftew sewecting a spot, youw hook wiww sink down to the bottom, and you wiww automaticawwy weew up the fiwst fish ow piece of junk in its way.
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
+Each fish has theiw own weight and speed. Catch fast ow big fish to gain mowe scowe!
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
+The minigame may speed up wandomwy. This incwudes both fish speed and youw own hook speed.
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
+Aww pwayews awe wanked by theiw fish scowe at the end of the fishing phase. Pwayews wiww be wewawded with Wins based on theiw wanking and staws based on scowe.
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
+Pay attention to the gwiww! It awways has a set of 3 fish to catch, and catching them aww scowes an extwa 15 points!
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_COMPLETE >
+Evewyone has theiw own gwiww to fiww, so twy to compwete mowe sets than youw opponents within the time wimit!
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_MAIN >
+Fuwthewmowe, catching the same fish type sevewaw times in a wow wiww give extwa Combo points towawd youw scowe.
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_01 >
+Youw totaw fishing scowe fwom each game is counted towawd youw event pwogwession. Wet's have a gweat meaw!
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_02 >
+You did it! Saki, Nath, and Kae can now enjoy theiw BBQ pawty by the wivew! But if you'we stiww hungwy fow mowe, you can keep fishing!
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_03 >
+The mushwoom waw is on! Put youw huntew skiwws to the test in owdew to find the two wegendawy mushwooms!
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_04 >
+To pawticipate in the event, toggwe between Nowmaw and Shwoom Zoom mode when cweating a new wobby ow stawting a singwe pwayew game.
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_05 >
+You can awso pway nowmaw games with the Spowes fiewd event active to pawticipate. Note that the fwequency of mushwooms is wowew as a fiewd event.
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_06 >
+Evewy 2 chaptews (ow 3 in nowmaw mode), mushwooms wiww spawn on wandom panews. You can pick them up by stopping on a panew that has one.
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_07 >
+Upon picking up a mushwoom, you weceive a cawd with a wandom effect. The effects awe onwy weveawed when you use them, and awe wandomized each game.
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_08 >
+Wegendawy mushwooms wiww appeaw aftew the fiwst pwayew weaches Nowma wevew 4! Onwy one can be picked up in a singwe game.
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_COMPLETE >
+The speciaw mushwooms give a powewfuw Gift cawd when picked up, which can be stowen by othew pwayews if they KO the pwevious ownew.
+< PLAYMENU_TOOLTIP_5YEARANNIVERSARY >
+The pwogwess of the event wiww incwease depending on which wegendawy mushwoom was picked up duwing that game.
+< PLAYMENU_1MILLIONCHARA_UNLOCK >
+Who wiww win the mushwoom waw? Onwy time wiww teww...
+< PLAYMENU_SUMMER2019_RERUN_REVIVE >
+The outcome of the mushwoom hunt was a dwaw(?) this time... but you can stiww keep seawching fow mowe!
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_MAIN >
+5-Yeaw Steam Annivewsawy Gift!\nYou can switch the homestop by cwicking on its icon on the avataw scween.
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_01 >
+Congwatuwations! The 1 miwwion downwoad bonus chawactew Mio is now avaiwabwe to use!\nHew chawactew and announcew voice options have awso been unwocked!
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_02 >
+QP wants to pway mowe! Summew Beast has been wevived!
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_03 >
+Cook is supposed to hewp Ewwie find what she's wooking fow once she's been fed enough...? In case it tuwns out usefuw, wet's go awound and cowwect a bunch of food fow hew!
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_04 >
+To pway the Bounty Hunt mode, toggwe between Nowmaw, CO-OP and Bounty Hunt when cweating a new wobby ow stawting a singwe pwayew game.
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_05 >
+When pwaying the Bounty Hunt mode, food mawkews may appeaw on Shops. Stop at a mawked Shop to cowwect a dewicacy.
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_06 >
+Quest wocations and Shops with vawious usefuw items appeaw ovew the fiewd, and awe wefweshed evewy 6 chaptews.
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_07 >
+You can stop at any home, Shop, and Quest wocation - though onwy if you have the cowwesponding Quest wewated to it!
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_08 >
+A new Nowma type has been added, and is the onwy Nowma avaiwabwe fow this mode: the Fame. (Note: chawactews with Nowma westwictions can stiww gain Fame Nowmas in this mode).
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_09 >
+You can incwease youw Fame by compweting Quests ow Bounties. Bounties give a vawying amount of Fame depending on theiw difficuwty!
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_10 >
+In each game, 2 wandom Easy, Medium and Hawd bounties wiww be avaiwabwe to hunt, and 6 wandom Quest wocations wiww appeaw.
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_11 >
+Bounty Battwes wiww wast fow up to 10 wounds. Make suwe to geaw up befowe you get into the fight!
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_12 >
+To hewp you fight the monstews infesting the wand, in this mode aww chawactews have a pewmanent +1 hand size!
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_13 >
+In addition, pwayews stawt with boots that gwant +1 to MOV and can be upgwaded to even bettew vewsions in the Shops.
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_14 >
+Extwa staws can be eawned by sewwing cawds to a shop. Diffewent shops may offew diffewent pwices fow the cawds!
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_COMPLETE >
+Each Shop type can be upgwaded sevewaw times by buying items and sewwing cawds. Highew wevew Shops have impwoved stock and othew benefits!
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_MAIN >
+A new and unique boss wiww appeaw when a pwayew weaches wevew 4. Bewawe of its powew! 6 Fame wiww be given to whoevew bwings it down!
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
+Moweovew, a mystewious Hawbingew may appeaw aftew chaptew 15 and begin to hunt the pwayews. Being defeated by it gives the pwayew -1 Fame, and incweases the amount of Fame defeating the Hawbingew gives.
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
+Cook has been fed and the jouwney is beginning! But you can stiww keep pwaying Bounty Hunt to unwock bonus event wewawds on youw way.
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
+Wet's enjoy Mio's coaching and weawn to swim! A new Co-op boss, the Swimming Coach, is now avaiwabwe!
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_MAIN >
+Aww the damage you deaw to Swimming Coach advances the event fow evewyone.
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_01 >
+You can awso fight any othew Co-op boss to contwibute to the event.
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_02 >
+The event has been cweawed, and Tomomo has weawned to swim! You can stiww take mowe twaining sessions with the Swimming Coach, though.
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_03 >
+It's time to scwambwe fow decowations to twick out the house!
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_04 >
+Decowations can be cowwected in aww game modes by wanding on the occasionawwy appeawing Decowation Panews.
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_05 >
+Each game mode awso has additionaw ways to cowwect decowations.
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_06 >
+In nowmaw mode, you wiww gain a decowation by visiting anothew pwayew's Home Panew. You awso gain decowations based on youw wanking at the end of the match.
+< PLAYMENU_EVENT_HALLOWEEN2021_COMPLETE >
+In Co-Op you wiww gain a decowation fwom KO'ing a Boss minion. You awso gain decowations based on the Boss difficuwty upon victowy.
+< PLAYMENU_EVENT_NEXT_GOAL >
+In Bounty Hunt, you wiww weceive a decowation fwom visiting a mawked Shop. You awso gain decowations based on youw wanking at the end of the match.
+< PLAYMENU_EVENT_FINAL_GOAL >
+You can cowwect up to 4 decowations pew match awong with the wewawd fwom match wesuwts.
+< PLAYMENU_EVENT_DATE_MONTH >
+The house has been decowated and it's time to enjoy youw handiwowk with fwiends! You can stiww keep cowwecting mowe decowations fow unwocking costumes in the Shop.
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_BEGINNING >
+Next goaw:
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_ENDING >
+Finaw goaw:
+< PLAYMENU_EVENT_BOUNTYHUNTERS_FAME >
+%d.%d
+< PLAYMENU_EVENT_BOUNTYHUNTERS_RIBBON >
+Beginning
+< PLAYMENU_LOADING_TEXT >
+Ending
+< PLAYMENU_CONNECTING_TEXT >
+Fame: %d
+< PLAYMENU_INVENTORY_STACKING_TEXT >
+You got Wuwu's wibbon!
+< MENU_BOSS_DIFFICULTY_CASUAL >
+Woading...
+< MENU_BOSS_DIFFICULTY_NORMAL >
+Connecting...
+< MENU_BOSS_DIFFICULTY_EXTREME >
+Stacking inventowy items...
+< MENU_BOSS_DIFFICULTY_HYPER >
+Casuaw
+< MENU_COOPCLASS_ATTACKER >
+Nowmaw
+< MENU_COOPCLASS_GUARDIAN >
+Extweme
+< MENU_COOPCLASS_SUPPORT >
+Hypew
+< MENU_COOPCLASS_AVENGER >
+Attackew
+< MENU_COOPCLASS_DEALER >
+Guawdian
+< MENU_COOPUNLOCK_LEVEL >
+Suppowt
+< MENU_COOPUNLOCK_ABILITY >
+Avengew
+< MENU_COOPUNLOCK_ORANGES >
+Deawew
+< MENU_COOPUNLOCK_DECKPOINT >
+Wevew %d: %s
+< MENU_COOPUNLOCK_ROLEHYPER >
+Abiwity: %s\n%s
+< MENU_COOPUNLOCK_NEWBOSS >
+Owanges +%d
+< MENU_COOPUNLOCK_HYPERDIFFICULTY >
+Deck point +%d
+< MENU_COOPUNLOCK_NEWCLASS >
+Wowe hypew
+< MENU_SHOP_RETIREDEVENTITEM >
+%s is now avaiwabwe to fight in the co-op game mode!\nYou can change the boss using the awwows next to theiw name when cweating a game.
+< MENU_WEEKLY_FREE_LABEL >
+Hypew difficuwty is now avaiwabwe fow %s in the co-op game mode!
+< MENU_WEEKLY_FREE_TOOLTIP >
+A new wowe is now avaiwabwe in co-op mode: %s!
+< MENU_WORKSHOP_THUMBNAIL_REQUIRED >
+Event wewawds fow %s have been added to the shop!
+< MENU_WORKSHOP_CONTEST_UNAVAILABLE >
+FWEE THIS WEEK
+< MENU_WORKSHOP_AGREEMENT_ERROR >
+You may pway using these 2 DWC ow bonus chawactews fow fwee this week.\nChawactew and announcew voices fow them can awso be used.
+< MENU_WORKSHOP_PUBLISH >
+A custom thumbnaiw is wequiwed fow pubwishing youw mod.\n\nWefew to the modding documentation fow mowe infowmation.
+< MENU_WORKSHOP_WORKSHOP_BTN >
+You cannot submit this item:\nThewe is no active contest at this time.
+< MENU_WORKSHOP_PUBLISHING >
+You cannot submit this item:\nThe Steam Wowkshop wegaw agweement wasn't accepted.
+< MENU_WORKSHOP_PREMESSAGE >
+Pubwish
+< MENU_WORKSHOP_ERROR >
+Wowkshop
+< MENU_WORKSHOP_ERROR_1 >
+Pubwishing youw mod to the Steam Wowkshop...
+< MENU_WORKSHOP_ERROR_2 >
+By pubwishing, ow updating youw mod to the Steam Wowkshop, you agwee to the tewms of sewvice defined on the fowwowing webpage:
+< MENU_WORKSHOP_ERROR_3 >
+The Steam Wowkshop Sewvice has wetuwned an ewwow. \n\n %s
+< MENU_WORKSHOP_ERROR_4 >
+Not enough pwiviwege to do this action.
+< MENU_WORKSHOP_ERROR_5 >
+You have been banned fwom upwoading content to the wowkshop.\nContact the Steam Suppowt.
+< MENU_WORKSHOP_ERROR_6 >
+Timed out. Pwease wetwy watew.
+< MENU_WORKSHOP_ERROR_7 >
+No connection to Steam.
+< MENU_WORKSHOP_ERROR_8 >
+The wowkshop sewvew is cuwwentwy unavaiwabwe.\nTwy again watew.
+< MENU_WORKSHOP_ERROR_9 >
+One submission fiewd does not seem to be vawid.
+< MENU_WORKSHOP_ERROR_10 >
+You have exceeded youw upwoading quota.\nWemove some wowkshop items and twy again.
+< MENU_WORKSHOP_ERROR_11 >
+The fiwe couwdn't be found.\nTwy deweting the wowkshop.dat fiwe in the mod diwectowy and twy again.
+< MENU_WORKSHOP_ERROR_12 >
+This item was awweady submitted.\nPwease wefwesh youw submissions.
+< MENU_WORKSHOP_ERROR_13 >
+An item awweady exists with that name.\nMake suwe youw item's name is unique.
+< MENU_PLATE_FIRSTTIMEUNLOCK >
+Due to a wecent passwowd ow emaiw change, you awe not awwowed to upwoad new content.
+< MENU_PREVIEW >
+Access denied.
+< MENU_PLATEBG_UNLOCK >
+Unknown ewwow.
+< MENU_PLATEFRAME_UNLOCK >
+You can now customize youw pwayew pwate!\nSevewaw unwocks wiww fowwow fwom this message as you cweawed past events, campaigns, ow meet a specific Wevew.\nYou can pewsonawize youw pwate in Usew Info -> Avataw.
+< MENU_PLATE_STEAMLEVEL_REWARD >
+Pweview
+< MENU_PLATE_EVENTCLEAR_REWARD >
+New pwate backgwound unwocked!
+< MENU_PLATE_CAMPAIGNCLEAR_REWARD >
+New pwate bowdew unwocked!
+< MENU_NOW_SAVING >
+Onwine Wevew %d Wewawd
+< MENU_FRIENDLIST_HEADER >
+Event Cweaw Wewawd
+< MENU_FRIENDLIST_INVITE >
+Campaign Cweaw Wewawd
+< MENU_CPU_CUSTOMIZATION_BTN >
+Saving...
+< MENU_CPU_CUSTOMIZATION_TITLE >
+%d fwiends onwine. %d pwaying 100%% Owange Juice!
+< MENU_VOCALIZER_GENERIC_CATEGORY >
+Invite Fwiends
+< MENU_VOCALIZER_NORMAL_CATEGORY >
+Customize CPU
+< MENU_VOCALIZER_SPECIAL_CATEGORY >
+CPU Customization
+Genewic
+Nowmaw
+Speciaw
+[EOF]

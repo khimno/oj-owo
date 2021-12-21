@@ -1,0 +1,75 @@
+< FIELDEVENT_NONE >
+name=None
+descr=
+< FIELDEVENT_DEFAULT >
+name=Defauwt
+descr=
+< FIELDEVENT_RANDOM >
+name=Wandom
+descr=
+< FIELDEVENT_BOSSENCOUNTER >
+name=Boss Encountew
+descr=
+< FIELDEVENT_REGENERATION >
+name=Wegenewation
+descr=Aww pwayews awe heawed by 1 HP.\n\nFwequency: Evewy 5th chaptew.
+< FIELDEVENT_RANDOMWARP >
+name=Wandom Wawp
+descr=Aww pwayews awe wawped to wandom panews.\n\nFwequency: Evewy 5th chaptew.
+< FIELDEVENT_CHARITY >
+name=Chawity
+descr=Aww pwayews dwaw an extwa cawd.\n\nFwequency: Evewy 5th chaptew.
+< FIELDEVENT_AIRRAID >
+name=Aiw Waid
+descr=Aww pwayews take 1 damage.\n\nFwequency: Evewy 5th chaptew.
+< FIELDEVENT_MINELAYER >
+name=Minewayew
+descr=A twap is set on a wandom panew.\n\nFwequency: Evewy 3wd chaptew.
+< FIELDEVENT_MIRACLE >
+name=Miwacwe
+descr=Aww Battwe, Bonus, Dwaw, Dwop and Move panews have 2x effect.\n\nFwequency: Evewy 5th chaptew.\nDuwation: 1 chaptew.
+< FIELDEVENT_BATTLEFIELD >
+name=Battwefiewd
+descr=Aww Bonus and Dwop panews become Battwe panews.\n\nFwequency: Evewy 6th chaptew.\nDuwation: 3 chaptews.
+< FIELDEVENT_CONFUSION >
+name=Confusion
+descr=Aww cawds pwayews howd awe shuffwed and cannot be seen by the pwayew.\n\nFwequency: Evewy 7th chaptew.\nDuwation: 1 chaptew.
+< FIELDEVENT_BACKTRACK >
+name=Backtwack
+descr=The movement diwection is wevewsed fow aww pwayews.\n\nFwequency: Evewy 8th chaptew.\nDuwation: 1 chaptew.
+< FIELDEVENT_SPRINT >
+name=Spwint
+descr=Move wowws gain 2x dice.\n(Maximum of 4 dice.)\n\nFwequency: Evewy 6th chaptew.\nDuwation: 1 chaptew.
+< FIELDEVENT_HOMEROULETTE >
+name=Home Wouwette
+descr=Aww home panews awe weshuffwed.\n\nFwequency: Evewy 9th chaptew.
+< FIELDEVENT_BOMBER >
+name=Bombew
+descr=A bomb is pwaced on a wandom panew that expwodes aftew 1-4 chaptews,\ninfwicting 2 damage to aww units in a cwoss-shaped awea.\n\nFwequency: Evewy 2nd chaptew.
+< FIELDEVENT_MYSTERY >
+name=Mystewy
+descr=A wandomwy sewected fiewd event is waunched.\n\nFwequency: Evewy 5th chaptew.
+< FIELDEVENT_FREEZE >
+name=Fweeze
+descr=1/3 of the fiewd's unfwozen panews become fwozen fow 1 chaptew.\n\nFwequency: Evewy 5th chaptew.
+< FIELDEVENT_TREASURE >
+name=Tweasuwe
+descr=A tweasuwe chest containing a bonus is pwaced on a wandom panew.\nWand on the panew to open the chest.\n\nFwequency: Evewy chaptew.
+< FIELDEVENT_AMP >
+name=Ampwify
+descr=A wandom battwe stat is buffed by 1.\n\nFwequency: Evewy 6th chaptew.\nDuwation: 2 chaptews.
+< FIELDEVENT_PLAYGROUND >
+name=Pwaygwound!
+descr=Wand on Pwaygwound panews to pway a minigame.\n\nFwequency: Evewy 5th chaptew.
+< FIELDEVENT_TERROR >
+name=Tewwow
+descr=Some panews wiww change to awwow you to fight Jonathan.\nFwequency: Vawiabwe.\nDuwation: 1 chaptew.
+< FIELDEVENT_FISHING >
+name=Fish-a-Fish
+descr=Chawwenge othew pwayews in a fishing minigame.\n\nFwequency: Evewy 9th chaptew.
+< FIELDEVENT_GOO >
+name=Goo
+descr=1/3 of the fiewd's ungooped panews become covewed with goo fow 1 chaptew.\n\nFwequency: Evewy 5th chaptew.
+< FIELDEVENT_SPORES >
+name=Spowes
+descr=Mushwooms wiww spawn on the fiewd.\n\nFwequency: Evewy 3wd chaptew.

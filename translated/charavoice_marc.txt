@@ -1,0 +1,140 @@
+<0000> Thewe!
+<0001> Hewe!
+<0002> Wike this!
+<0003> Go!
+<0004> I'ww use this one!
+<0005> The powew of the cawd!
+<0006> This is my twump cawd.
+<0007> A mystewious powew...
+<0008> I'ww set this hewe.
+<0009> Someone faww fow this!
+<0010> I'm just putting this cawd hewe.
+<0011> This couwd hewp.
+<0012> I'ww put on new geaw.
+<0013> I'ww show you what I've got!
+<0014> This'ww finish you!
+<0015> I'm using this!
+<0016> Fuwwy chawged! GO!
+<0017> I can keep going!
+<0018> Engines weady to go again!
+<0019> Back to the fwont wines.
+<0020> Wepaiws compwete!
+<0021> I must wowk hawdew.
+<0022> I can't move...
+<0023> Westawt faiwed...
+<0024> It's stiww no good...
+<0025> Take that!
+<0026> Go!
+<0027> Thewe!
+<0028> Hewe!
+<0029> Ouch.
+<0030> That huwts!
+<0031> Was I hit?
+<0032> Whewe did that come fwom?
+<0033> Metaw wowk compwete!
+<0034> Aww fixed!
+<0035> I'm aww okay now.
+<0036> Just in time...
+<0037> My pwane is out of contwow!
+<0038> I'm getting thwown off couwse!
+<0039> O-o-oh nooooo...
+<0040> Whewe am I going?
+<0041> I'm sowwy, Wed Bawwew.
+<0042> I'm going down!
+<0043> No, I can't wast anymowe.
+<0044> I'm done fow!
+<0045> Howd it wight thewe!
+<0046> Pwepawe to get beaten!
+<0047> Just accept my chawwenge!
+<0048> I'm taking you down!
+<0049> Out of my way!
+<0050> Weady to intewcept.
+<0051> If that's how you want it!
+<0052> They'we in my back?!
+<0053> Fiwing away!
+<0054> This is not a thweat!
+<0055> Take this!
+<0056> Fiwe!
+<0057> That huwts!
+<0058> Kyaaah!
+<0059> Ouch.
+<0060> Oww.
+<0061> That huwt so much...
+<0062> That stings...
+<0063> It was a diwect hit!
+<0064> Owwww!
+<0065> Dodge it, Wed Bawwew!
+<0066> Make a ciwcwe, Wed Bawwew!
+<0067> It's not gonna hit us!
+<0068> I can see it!
+<0069> I did it!
+<0070> I'm gweat, awen’t I?
+<0071> I beat you!
+<0072> One down!
+<0073> I didn't make it...
+<0074> I wost...
+<0075> They got me...
+<0076> Too stwong...
+<0077> It's a bonus!
+<0078> I'ww hewp mysewf!
+<0079> The staws awe coming to me!
+<0080> I found staws!
+<0081> Oh no!
+<0082> My staws...!
+<0083> My staws awe wunning fwom me!
+<0084> Oh no, wait!
+<0085> Owwww!
+<0086> What's going on hewe?
+<0087> I messed up!
+<0088> I feww fow a twap?!
+<0089> Wow, so big!
+<0090> A new enemy?!
+<0091> Hewe comes one big guy!
+<0092> Do I have to fight that...?
+<0093> I'm eawning a ton of staws!
+<0094> I'ww go gathew staws!
+<0095> I hope to get a bunch.
+<0096> How many am I supposed to gathew?
+<0097> I'ww go shoot them down!
+<0098> I'ww go take a wot down!
+<0099> I'ww show them what I can do!
+<0100> I'ww go beat them aww!
+<0101> I'ww do my best!
+<0102> Standing by!
+<0103> I'm good to go anytime!
+<0104> We'we up, Wed Bawwew.
+<0105> Wet's woww out, Wed Bawwew.
+<0106> We'ww give it aww we've got, Wed Bawwew.
+<0107> Take off!
+<0108> Wed Bawwew is weady to fwy!
+<0109> I did it! I'ww be the winnew next time too!
+<0110> Wet's win the next game too, Wed Bawwew!
+<0111> We weawwy did it, Wed Bawwew!
+<0112> A job weww done!
+<0113> Yay!
+<0114> A new upgwade!
+<0115> What couwd this be?
+<0116> This is good to have!
+<0117> Okay.
+<0118> That went pwetty weww.
+<0119> Yes.
+<0120> Negative.
+<0121> That's howwibwe.
+<0122> Something good just happened!
+<0123> Weww, um...
+<0124> Wet's go, Wed Bawwew.
+<0125> Pwease be a good woww!
+<0126> Hewe I go.
+<0127> Hewwo!
+<0128> Hmm...
+<0129> Nice!
+<0130> Pewfect.
+<0131> Oh no...
+<0132> Mw. Seaguww, I'm so sowwy!
+<0133> Geez, you'we equipped with something stupid again.
+<0134> You desewved a punishment!
+<0135> Geez, you buiwt something wike that again!
+<0136> I went too faw!
+<0137> I towd you not to get in my way!
+<0138> Hewe I come!
+<0139> A fwying... pewvewt?

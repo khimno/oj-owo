@@ -1,0 +1,19 @@
+< SUMMER2020_A_CAST >
+name=Cast
+descr=Cast the fishing wod. Disabwes the use of othew abiwities whiwe on coowdown. Coowdown: 2 seconds.
+< SUMMER2020_A_SIRENSIGHT >
+name=Siwen Sight
+descr=See thwough the watew, weveawing the junk and fishes. Duwation: 10 seconds. Coowdown: 30 seconds.
+< SUMMER2020_A_IMPROVEDHOOK >
+name=Impwoved Hook
+descr=Youw hook wiww sink undewwatew 50% fastew. Duwation: 15 seconds. Coowdown: 45 seconds.
+< SUMMER2020_A_TREASURE >
+name=Tweasuwe of the Sea
+descr=The next fish you catch wiww have 2x of it's initiaw scowe vawue. Singwe use.
+< SUMMER2020_A_BLESSING >
+name=Wivew's Bwessing
+descr=Fish wiww move 25% fastew. Disabwes the use of othew abiwities besides Cast whiwe active. Can stack. Duwation: 10 seconds. Coowdown: 20 seconds.
+< SUMMER2020_A_MASTERY >
+name=Mastew Angwew
+descr=Wesets the coowdown of aww abiwities, except fow singwe use abiwities and Cast. Singwe use.
+[EOF]

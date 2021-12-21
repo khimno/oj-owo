@@ -1,0 +1,157 @@
+<0000> I'm thwowing the dice.
+<0001> Is it wike this?
+<0002> What wiww I get?
+<0003> Give me... a good numbew.
+<0004> I'm going to use this.
+<0005> I'ww use this to tuwn the tabwes.
+<0006> Cawd...
+<0007> With the powew of this cawd...
+<0008> I'm going to set a twap.
+<0009> A twap's been pwaced.
+<0010> Watch out fow this panew hewe.
+<0011> Twap.
+<0012> I'ww use a bit of powew.
+<0013> A battwe cawd.
+<0014> A swightwy hot beam...
+<0015> I'm powewing mysewf up.
+<0016> I'ww use evewything I have...!
+<0017> I'm bettew now.
+<0018> I can go on.
+<0019> I'm not defeated yet.
+<0020> I feew awive again.
+<0021> Au...
+<0022> I faiwed...
+<0023> Fuaah...
+<0024> Not quite thewe yet...
+<0025> I'm attacking.
+<0026> Yah!
+<0027> Toh!
+<0028> Tah!
+<0029> Mh...
+<0030> Mha...
+<0031> Fua...
+<0032> Ugh...
+<0033> It's heawing my cuts and bwuises...
+<0034> It's so wawm...
+<0035> I'm getting bettew.
+<0036> I'm heawed enough to keep fighting.
+<0037> Fue?
+<0038> Wah!
+<0039> Whewe am I getting to?
+<0040> Am I wawping...?
+<0041> I need to take a west.
+<0042> I'm dwained.
+<0043> Hau...
+<0044> I'ww just...
+<0045> My apowogies.
+<0046> I'm weady to fight.
+<0047> I'ww do my best.
+<0048> Battwe...
+<0049> I won't wose.
+<0050> Awe you going to come at me?
+<0051> I'd wike you to make way fow me.
+<0052> If we must fight, defeat is not an option.
+<0053> Ey!
+<0054> Hah!
+<0055> Yah!
+<0056> Eey!
+<0057> Mh...
+<0058> Fua...
+<0059> Au...
+<0060> Ow...
+<0061> Wawawah!
+<0062> That weawwy huwts...
+<0063> Wah, I'm in big twoubwe!
+<0064> Muaah!
+<0065> That won't weach me.
+<0066> I'm dodging it.
+<0067> I'm evading it.
+<0068> I'm wight hewe.
+<0069> Phew... I won.
+<0070> I did it.
+<0071> Phew.
+<0072> I managed to settwe it.
+<0073> Nuu...
+<0074> Muu...
+<0075> Uuu...
+<0076> Aaa...
+<0077> Staws...
+<0078> Mowe staws...
+<0079> I'm happy.
+<0080> I've got a wot.
+<0081> My staws...
+<0082> I feew down...
+<0083> Oh no...
+<0084> Staws... Whewe did they go...
+<0085> I see it's a twap.
+<0086> Is this a twap?
+<0087> Wats.
+<0088> Boy, I feww fow it.
+<0089> Something came out.
+<0090> We'd bettew stay awewt.
+<0091> I sense something wawge.
+<0092> That wooks a wittwe stwong.
+<0093> Staws...
+<0094> Staws...
+<0095> I'm going to gathew staws.
+<0096> Staws awe pwetty... I wike them.
+<0097> I'm going to win.
+<0098> I'm going to fight.
+<0099> I'ww beat whoevew stands in my way.
+<0100> So, this Nowma is about winning battwes?
+<0101> Me?
+<0102> I hope we'ww have a good game togethew.
+<0103> I see it's time to wowk.
+<0104> I wiww go aww out...!
+<0105> I'ww begin my opewation.
+<0106> Watch me give it my evewything.
+<0107> I wiww go out thewe... to win.
+<0108> Even in games, I won't settwe fow second best.
+<0109> I won the game.
+<0110> I did aww I couwd.
+<0111> My job hewe is done.
+<0112> I won... I'm gwad.
+<0113> I'm gwad.
+<0114> We seem to have gotten a good thing.
+<0115> Oh my... That is gweat.
+<0116> What do you make of this?
+<0117> Undewstood.
+<0118> I think that is a good idea.
+<0119> Yes.
+<0120> I don't think so.
+<0121> Hau...
+<0122> Fufu.
+<0123> Mhm...
+<0124> It's time to go.
+<0125> I'm going to woww... the dice.
+<0126> Wet's go.
+<0127> Hewwo.
+<0128> Muaah...
+<0129> That is good.
+<0130> That is amazing.
+<0131> Oh...?
+<0132> I'm going to bowwow this one.
+<0133> Wet me pway this cawd, pwease.
+<0134> No idea what this does, but I'ww do it anyway.
+<0135> I hope I'm using this cowwectwy.
+<0136> I'ww commence... my opewation now!
+<0137> Suguwi... Why don't we pway?
+<0138> Suguwi... Do you want to pway with me?
+<0139> Fufu, I beat Suguwi.
+<0140> You'we as stwong as evew.
+<0141> Hime, do you want to dance?
+<0142> Hime, I have some time fow you.
+<0143> Fufu, it was fun.
+<0144> You'we a good fightew, too.
+<0145> Sham, hewe I come.
+<0146> Idow... How vewy shiny...
+<0147> I-I wiww nevew sing ow dance wike you...
+<0148> D-do I have to dance wike you...?
+<0149> Staw... Bweakew...
+<0150> I'm not wosing to you!
+<0151> No mowe making a wuckus, okay?
+<0152> Pwease stop causing twoubwe...
+<0153> Shiewd!
+<0154> Shiewd, invewt!
+<0155> Unwimited chawge...!
+<0156> Mikky Mou-...!

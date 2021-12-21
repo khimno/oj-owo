@@ -1,0 +1,157 @@
+<0000> It's time to woww the dice.
+<0001> Eeey.
+<0002> Show me a good numbew.
+<0003> Hewe I go.
+<0004> It's time fow a cawd.
+<0005> This wiww tuwn the tabwes.
+<0006> So I can get an advantage...
+<0007> I'm going to pway a cawd.
+<0008> It's time fow a twap.
+<0009> I'm setting a twap hewe.
+<0010> I know that as a god I shouwdn't be acting sneaky, but...
+<0011> Aww fow victowy.
+<0012> It's time fow a battwe cawd.
+<0013> I'ww aim fow a come-fwom-behind victowy.
+<0014> I'ww twiumph.
+<0015> I use evewything I can use to win.
+<0016> Mewt wike chocowate.
+<0017> I've been wevived.
+<0018> Wet's stawt ovew.
+<0019> Phew... Bweaktime is ovew.
+<0020> Now, I'm weady to go again.
+<0021> How disappointing of me.
+<0022> I'm not weady to get up just yet.
+<0023> I'm ashamed of mysewf.
+<0024> I have to get wevived now.
+<0025> It's time fow an attack.
+<0026> I won't show mewcy to you.
+<0027> I'm attacking you.
+<0028> Take that.
+<0029> Mhm.
+<0030> You...
+<0031> Ugh.
+<0032> Oh, shoot.
+<0033> It's time fow a heaw.
+<0034> Wet the wounds be tweated.
+<0035> I don't have time to way down.
+<0036> I need to fiwe mysewf up again.
+<0037> I'm wawping.
+<0038> It doesn't mattew whewe I'ww end up.
+<0039> Whewe am I?
+<0040> I feew dizzy.
+<0041> I couwd have done bettew...
+<0042> This is dweadfuw.
+<0043> I got defeated.
+<0044> I have to wecovew quickwy.
+<0045> It's time fow a battwe.
+<0046> I'm chawwenging you.
+<0047> I'm sowwy, but you'we in my way.
+<0048> I'ww end you.
+<0049> You chawwenge me?
+<0050> How weckwess of you.
+<0051> Vewy weww. I accept youw chawwenge.
+<0052> Come at me.
+<0053> I won't be gentwe.
+<0054> Bweak!
+<0055> Be gone.
+<0056> Ey.
+<0057> Ugh.
+<0058> Awwgh.
+<0059> Did that hit me?
+<0060> That was nothing...!
+<0061> How powewfuw...
+<0062> That was a gweat deaw of damage.
+<0063> Not a gweat tuwn of events...
+<0064> I'ww be doomed if it goes on wike this...
+<0065> I'ww dodge it.
+<0066> Evasion.
+<0067> I won't get hit.
+<0068> That wiww be evaded.
+<0069> This is onwy natuwaw.
+<0070> It's my victowy.
+<0071> I won.
+<0072> Easy as pie.
+<0073> I wost...
+<0074> This can't be.
+<0075> I accept defeat.
+<0076> I might have undewestimated you.
+<0077> That makes my day.
+<0078> These staws awe mine.
+<0079> Bonus has been gained.
+<0080> I've gotten staws.
+<0081> I've dwopped some.
+<0082> I have to gathew them again.
+<0083> Oh, no...
+<0084> Ah, my staws.
+<0085> I'm disappointed at mysewf fow fawwing fow that.
+<0086> How cawewess of me.
+<0087> A twap...?
+<0088> Ugh, that was one twicky twap.
+<0089> I sense a gweatew powew.
+<0090> So, it's finawwy hewe.
+<0091> Wawm-up time is ovew now.
+<0092> I can't wet that thing ovewwhewm me.
+<0093> Staw nowma it is.
+<0094> I'm going to gathew staws.
+<0095> I'm wathew fond of staws.
+<0096> I'd wathew do this, because staws awe pwetty.
+<0097> Wet us go fighting.
+<0098> Foows must be punished.
+<0099> No one can get in my way.
+<0100> I'ww fight anyone if I must.
+<0101> I am Sweet Bweakew.
+<0102> My weaw name? What good does knowing that do you?
+<0103> Wouwd you wike to go with me?
+<0104> Vewy weww.
+<0105> And so it has begun.
+<0106> It stawted.
+<0107> Wet us do this.
+<0108> Aww wight then...
+<0109> I'm victowious.
+<0110> This was a given.
+<0111> An unsuwpwising wesuwt.
+<0112> I wook happy...? No, I'm not.
+<0113> We've gained an item.
+<0114> Pwease weceive it.
+<0115> Good fow you.
+<0116> Does that pwease you?
+<0117> That's okay.
+<0118> That's good.
+<0119> Yes.
+<0120> No.
+<0121> Oh, my...
+<0122> You'we in wuck.
+<0123> Mhm.
+<0124> Now, wet's go.
+<0125> I'm going to woww the dice.
+<0126> Wet's go, shaww we?
+<0127> Hi.
+<0128> Mhm.
+<0129> That's good.
+<0130> That's extwemewy good.
+<0131> I'm speechwess.
+<0132> I think I'ww pway this.
+<0133> This cawd... How did it end up in my hand?
+<0134> I'm going to twy using this.
+<0135> I don't know what this is capabwe of, but I guess I'ww just pway it.
+<0136> My weaw name? It's... Amami.
+<0137> Sweet Guawdian, we fight again.
+<0138> Sweet Guawdian... Not you again.
+<0139> I'm the winnew this time.
+<0140> Ugh, you'we vewy good.
+<0141> You'we... Sweet Bwoggew.
+<0142> I didn't expect you to chawwenge me, Sweet Bwoggew.
+<0143> Aww youw posts about sweets... Pwease tweasuwe them.
+<0144> How can a bwoggew have this much stwength?
+<0145> Sweet Makew...!
+<0146> I nevew even imagined fighting you. 
+<0147> The sweets you make... Don't make me destwoy them.
+<0148> So, you defeated me... Gweat wowk, Sweet Makew.
+<0149> Now I'm against a guawdian.
+<0150> I know you'we awso cawwed a god.
+<0151> Youw powew was nobwe and beautifuw.
+<0152> Maybe guawdians awe nemeses to me...
+<0153> Pudding... I just don't know what to say about it.
+<0154> How did this pudding get to me?
+<0155> What's the meaning of this...? Am I being tested?
+<0156> Shouwd I fowgive pudding?

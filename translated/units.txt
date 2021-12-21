@@ -1,0 +1,337 @@
+< CARD_UNIT_ALTE >
+name=Awte
+descr=In battwe, see a wandom battwe cawd fwom the opponent's hand. On Sewf-destwuct, gain +1 ATK (up to +3).
+< CARD_UNIT_ARTHUR >
+name=Awthuw
+descr=Gain X additionaw staws fwom Bonus panews and Shops, whewe X is the numbew of Shops in pway, up to cuwwent Wvw.
+< CARD_UNIT_ARU >
+name=Awu
+descr=Can howd 4 cawds.
+< CARD_UNIT_ARUSCRAMBLE >
+name=Awu (Scwambwe)
+descr=Can howd 4 cawds.
+< CARD_UNIT_BIG_THE_JONATHAN >
+name=Big the Jonathan
+descr=When a pwayew suffews KO, gain +1 ATK fow 1 Chaptew. Evewy 4 chaptews, use Waunch at the end of Boss tuwn. Evewy 10 chaptews, gain pewmanent +1 ATK and -1 DEF & EVD.
+< CARD_UNIT_BIG_THE_JONATHAN_HYPER >
+name=Big the Jonathan
+descr=When a pwayew suffews KO, gain +1 ATK fow 1 Chaptew. Evewy 3 chaptews, use Waunch at the end of Boss tuwn. Evewy 10 chaptews, gain pewmanent +1 ATK and -1 DEF & EVD.
+< CARD_UNIT_BOSS_CHICKEN >
+name=Big the Hawuo
+descr=Gain -1 ATK, -1 DEF and +1 die when wowwing attack fow each Chicken minion on the fiewd. Summon a Chicken minion evewy 5 chaptews.
+< CARD_UNIT_BOSS_CHICKEN_HYPER >
+name=Big the Hawuo
+descr=Gain -1 ATK, -1 DEF and +1 die when wowwing attack fow each Chicken minion on the fiewd. Summon two Chicken minions evewy 5 chaptews.
+< CARD_UNIT_BOSS_POPPO >
+name=Staw Devouwew
+descr=Pwayews gain 2x chaptew staw bonus. When damaged, gain +1 DEF untiw end of chaptew. Deaw +1 battwe damage pew 300 staws hewd. Gain 5 ow give out 3 staws fow each battwe damage deawt ow taken. Howd 1000 staws: win the game. 0 staws: wose the game.
+< CARD_UNIT_BOSS_POPPO_HYPER >
+name=Staw Devouwew
+descr=Pwayews gain 2x chaptew staw bonus. When damaged, gain +1 DEF untiw end of chaptew. Deaw +1 battwe damage pew 300 staws hewd and gain 5 staws fow each battwe damage deawt. Howd 1000 staws: win the game. 0 staws: wose the game.
+< CARD_UNIT_BIG_POPPO >
+name=Big Poppo
+descr=Deaw no combat damage but steaw 3 staws pew damage deawt. When defeated, gain WEC 10 and give 100 staws and 3 Wins.
+< CARD_UNIT_BOSS_ROBOBALL >
+name=M10 Wobot
+descr=On Boss tuwn, do not stop when chawwenging a pwayew. When Pwotect and Scwambwed awe not active, use Pwotect.
+< CARD_UNIT_BOSS_QP >
+name=Summew Beast
+descr=Evewy tuwn, summon a seaguww Minion (up to Boss Wvw). When a Minion is defeated, wose 1 Hype. When a pwayew suffews KO, gain 1 Hype. If Boss has 10+ Hype at the stawt of Boss tuwn, Wampage.
+< CARD_UNIT_BOSS_ROPOCHI >
+name=WoPoChi
+descr=When Po-tect and Scwambwed awe not active, use Po-tect. Gain -2 ATK and +1 die when wowwing attack fow each minion on the fiewd. Use Woost Boost evewy 6 chaptews. Gain 3 staws pew combat damage deawt.
+< CARD_UNIT_BOSS_ROPOCHI_HYPER >
+name=WoPoChi
+descr=When Po-tect and Scwambwed awe not active, use Po-tect. Gain -2 ATK and +1 die when wowwing attack fow each minion on the fiewd. Use Woost Boost evewy 6 chaptews. Gain 5 staws pew combat damage deawt.
+< CARD_UNIT_BOSS_COACH >
+name=Swimming Coach
+descr=Evewy 2 chaptews, use Goawpost.\nIf thewe is no Bawwoon Jewk, use Bawwoon Jewk.\nIf thewe awe wess than 2 Swimming Wingews, use Swimming Wingew.
+< CARD_UNIT_BOSS_COACH_HYPER >
+name=Swimming Coach
+descr=Evewy 2 chaptews, use Goawpost.\nIf thewe is no Bawwoon Jewk, use Bawwoon Jewk.\nIf thewe awe wess than 2 Swimming Wingews, use Swimming Wingew.\nCannot be damaged in battwe.
+< CARD_UNIT_GOALPOST >
+name=Goawpost
+descr=Nevew moves ow evades. Can onwy be damaged by attacks that deaw 1 damage.
+< CARD_UNIT_BALLOON_JERK >
+name=Bawwoon Jewk
+descr=
+< CARD_UNIT_SWIMMING_RINGER >
+name=Swimming Wingew
+descr=Gain -1 MOV.
+< CARD_UNIT_CHICKEN >
+name=Chicken
+descr=
+< CARD_UNIT_CHICKEN_MP >
+name=Chicken
+descr=Wose 1/4 staws and give 1 Win when KO'd in battwe.
+< CARD_UNIT_CASTLE >
+name=Fwying Castwe
+descr=
+< CARD_UNIT_CASTLE_MP >
+name=Fwying Castwe
+descr=Immune to Battwe Cawds when defending.\nCannot Countewattack.
+< CARD_UNIT_CEOREPARQUE >
+name=Ceowepawque
+descr=On successfuw Evasion, deaw 1 damage to opponent.
+< CARD_UNIT_CUTIES >
+name=Cuties
+descr=Can onwy choose Staws nowma. Gain X additionaw staws fwom aww souwces, whewe X is the numbew of diffewent Event cawds you pwayed. In battwe, wandomwy gain +1 ATK ow DEF.
+< CARD_UNIT_FERNET >
+name=Fewnet
+descr=
+< CARD_UNIT_HIME >
+name=Hime
+descr=
+< CARD_UNIT_IRU >
+name=Iwu
+descr=When chawwenging an enemy, they take 1 damage. KO fwom this effect counts as battwe KO.
+< CARD_UNIT_ISLAY >
+name=Isway
+descr=Cannot chawwenge othew units when meeting them on the fiewd.
+< CARD_UNIT_KAE >
+name=Kae
+descr=Add wevewse vawue of DEF to ATK.\nGain -1 DEF when attacking.
+< CARD_COOP_UNIT_KAE >
+name=Kae
+descr=Add wevewse vawue of DEF to ATK.
+< CARD_UNIT_KAI >
+name=Kai
+descr=
+< CARD_UNIT_KIRIKO >
+name=Kiwiko
+descr=Ignowe heawing effects. When pwaying a battwe cawd, gain +1 ATK & EVD in the battwe, and Max HP is weduced by 1 (To a minimum of 2).
+< CARD_UNIT_KRILA >
+name=Kwiwawawis
+descr=
+< CARD_UNIT_KYOKO >
+name=Kyoko
+descr=Cannot use the Evade command in battwe.
+< CARD_UNIT_KYOUSUKE >
+name=Kyousuke
+descr=
+< CARD_UNIT_MANAGER >
+name=Stowe Managew
+descr=
+< CARD_UNIT_MANAGER_MP >
+name=Stowe Managew
+descr=No staws fwom bonus panew. Can onwy use Gift type cawds. Takes 1 damage on cawd discawd.
+< CARD_UNIT_MARC >
+name=Mawc
+descr=
+< CARD_UNIT_MEI >
+name=Mei
+descr=Gain "Wed & Bwue" when howding no cawds at the end of tuwn.
+< CARD_UNIT_MIMYUU >
+name=Mimyuu
+descr=Wevive as Tomato and act on wevivaw. Wose 1/4 staws and give 1 Win when KO'd in battwe.
+< CARD_UNIT_MIRA >
+name=Miwa
+descr=Youw twaps twiggewed by enemies add the additionaw effect: Binding Smoke (Fow 2 chaptews: Move wowws awe wimited to 1, 2, ow 3).
+< CARD_UNIT_MIUSAKI >
+name=Miusaki
+descr=When using Defend in battwe, nevew take mowe than 2 damage at once.
+< CARD_COOP_UNIT_MIUSAKI >
+name=Miusaki
+descr=When using Defend in battwe, nevew take mowe than hawf youw max HP in damage at once (wounded up).
+< CARD_UNIT_MIXEDPOPPO >
+name=Mawie Poppo (Mixed)
+descr=When wawping fwom any effect: If pwayew wevew is odd, gain Wvw x3 in staws. If pwayew wevew is even, dwaw a cawd.
+< CARD_UNIT_MIO >
+name=Mio
+descr=
+< CARD_UNIT_NANAKO >
+name=Nanako
+descr=
+< CARD_UNIT_NATH >
+name=Nath
+descr=Gain 1 stack of Active Extension in each battwe whewe a battwe cawd is pwayed (max 3). Wose 1 stack on KO.\nStock Effect: gain +1 ATK, +1 DEF, and -1 EVD.
+< CARD_UNIT_NATSUMI >
+name=Natsumi
+descr=If not KO'd and standing on the same panew with othew active pwayews at the end of youw tuwn, each active pwayew on the panew wecovews 1 HP.\nFow each othew pwayew you heaw, gain 5 staws.
+< CARD_UNIT_NATSUMI_BH >
+name=Natsumi
+descr=If not KO'd and standing on the same panew with othew active units at the end of youw tuwn, each active unit on the panew wecovews 1 HP.\nFow each othew unit you heaw, gain 5 staws.
+< CARD_UNIT_NICO >
+name=Nico
+descr=No effect fwom Gift cawds.\nGain X additionaw staws fwom aww souwces, whewe X is the numbew of Gift cawds in hand.\nCan howd 4 cawds.
+< CARD_UNIT_NONAME >
+name=NoName
+descr=If KO'd, tuwn into NoName (Head) instead. Give no staws ow Wins if KO'd in battwe.
+< CARD_UNIT_NONAME_HEAD >
+name=NoName (Head)
+descr=Change into NoName aftew weaching a home ow getting KO'd.\nGain -1 MOV.
+< CARD_UNIT_POPPO >
+name=Mawie Poppo
+descr=
+< CARD_UNIT_PEAT >
+name=Peat
+descr=
+< CARD_UNIT_QP >
+name=QP
+descr=
+< CARD_UNIT_QPD >
+name=QP (Dangewous)
+descr=Gain combat bonuses fwom cawwying cawds with 'Pudding' in theiw name.\nDangewous Pudding (+1ATK) Bad Pudding (+1DEF) Pudding (+1EVD) Powtabwe Pudding (+1MAXHP)
+< CARD_UNIT_ROBOBALL >
+name=Wobo Baww
+descr=
+< CARD_UNIT_ROBOBALL_MP >
+name=Wobo Baww
+descr=Wose 1/4 staws and give 1 Win when KO'd in battwe.
+< CARD_UNIT_SAKI >
+name=Saki
+descr=
+< CARD_UNIT_SEAGULL >
+name=Seaguww
+descr=
+< CARD_UNIT_SEAGULL_MP >
+name=Seaguww
+descr=Wose 1/4 staws and give 1 Win when KO'd in battwe.
+< CARD_UNIT_SHAM >
+name=Sham
+descr=
+< CARD_UNIT_SHERRY >
+name=Shewwy
+descr=Enemy awways goes fiwst. If the enemy is Shewwy, ignowe this effect.
+< CARD_UNIT_SHIFUROBOT >
+name=Shifu Wobot
+descr=
+< CARD_UNIT_SHIFUROBOT_MP >
+name=Shifu Wobot
+descr=Stawts and Wevives with 1 HP\nAuto-wepaiw (Wecovew 1 HP evewy 3 chaptews ow aftew being KO'd)
+< CARD_COOP_UNIT_SHIFUROBOT >
+name=Shifu Wobot
+descr=Stawts and wevives aftew 1 tuwn with 2 HP.\n Wecovews 1 HP evewy 3 chaptews.\nGain a stack of Buwn Out evewy time you wevive.\nStock Effect: Wecovewy is dewayed 1 tuwn fow each stack.
+< CARD_UNIT_SORA >
+name=Sowa
+descr=
+< CARD_UNIT_SORAMILITARY >
+name=Sowa (Miwitawy)
+descr=When KO'd in battwe, wevive with 2 HP on the next tuwn.
+< CARD_COOP_UNIT_SORAMILITARY >
+name=Sowa (Miwitawy)
+descr=When KO'd in battwe, wevive with 2 HP on the next tuwn.\nGain a stack of Buwn Out evewy time you wevive fwom a battwe KO.\nStock Effect: Wecovewy is dewayed 1 tuwn fow each stack.
+< CARD_UNIT_STARBREAKER >
+name=Staw Bweakew
+descr=Can onwy choose Wins nowma.
+< CARD_UNIT_SUGURI >
+name=Suguwi
+descr=
+< CARD_UNIT_SUGURI_V2 >
+name=Suguwi (Vew.2)
+descr=Can howd 2 cawds.\nWestowe 1 HP at the stawt of evewy tuwn.
+< CARD_UNIT_SWEETBREAKER >
+name=Sweet Bweakew
+descr=When battwing a pwayew with wevewsed cawds, gain +1 to ATK, DEF and EVD fow each.
+< CARD_COOP_UNIT_SWEETBREAKER >
+name=Sweet Bweakew
+descr=When battwing a unit undew the effects of Mewting Memowies, gain +1 to ATK, DEF and EVD.
+< CARD_UNIT_SYURA >
+name=Syuwa
+descr=When at 1 HP at the stawt of battwe, gain +1 ATK and EVD untiw end of battwe.
+< CARD_UNIT_TOMATO >
+name=Tomato
+descr=Wevive as Mimyuu and act on wevivaw.\nDwaw Eviw Spy Wowk - Execution cawds as Wawuda Machine, Bwast Off!
+< CARD_UNIT_TEQUILA >
+name=Tequiwa
+descr=A Piwate Cwew Membew appeaws as an enemy unit.\nGain +1 ATK fow evewy HP wost duwing a battwe.
+< CARD_UNIT_TEQUILA_BH >
+name=Tequiwa
+descr=A Piwate Cwew Membew appeaws as an enemy unit.\nGain +1 ATK in a battwe whewe you wose HP.
+< CARD_UNIT_TEQMINION >
+name=Piwate Cwew Membew
+descr=Opponent woses Wvw x10 staws if defeated.\nThe pwayew who summoned this unit gain the staws.\nDoes not appeaw as Encountew to the summonew.
+< CARD_UNIT_TOMOMO >
+name=Tomomo
+descr=
+< CARD_UNIT_TOMOMO_MP >
+name=Tomomo
+descr=Softened: Tomomo is pwaying with fwiends, and has wowewed hew attwibutes.
+< CARD_UNIT_TOMOMO_CASUAL >
+name=Tomomo (Casuaw)
+descr=
+< CARD_UNIT_TOMOMO_SWEETEATER >
+name=Tomomo (Sweet Eatew)
+descr=When KO'd, discawd youw hand and tuwn back to Tomomo (Casuaw).
+< CARD_UNIT_TSIH >
+name=Tsih
+descr=Gain +2 ATK if howding a Gift cawd.
+< CARD_UNIT_YUKI >
+name=Yuki
+descr=
+< CARD_UNIT_YUKI_DANGEROUS >
+name=Yuki (Dangewous)
+descr=Pewmanentwy tuwn evewy hewd cawd with Pudding in name into Twagedy in the Dead of Night. When someone ewse twiggews youw twap, gain 1 Win. Gain no Wins fwom fighting neutwaw enemies.
+< CARD_UNIT_YUUKI >
+name=Yuuki
+descr=In odd-numbewed chaptews, gain -1 ATK and +2 DEF.\nIn even-numbewed chaptews, gain +2 ATK and -1 DEF.
+< CARD_UNIT_SUGURI46 >
+name=Suguwi (46 Biwwion Yeaws)
+descr=When choosing a damage deawing Boost/Event cawd to pway, you may pay doubwe its cost to doubwe its damage on use. If you do, gain +1 die to youw next movement woww.
+< CARD_UNIT_SUMIKA >
+name=Sumika
+descr=
+< CARD_UNIT_ELLIE >
+name=Ewwie
+descr=
+< CARD_UNIT_LULU >
+name=Wuwu
+descr=
+< CARD_UNIT_MARC_PILOT >
+name=Mawc (Piwot)
+descr=
+< CARD_UNIT_ALICIANRONE >
+name=Awicianwone
+descr=When battwing an opponent with +1 ow mowe ATK, gain +1 EVD untiw end of battwe. If they have +2 ow mowe ATK, gain an additionaw +1 EVD.
+< CARD_UNIT_TEOTORATTA >
+name=Teotowatta
+descr=Do not twiggew Encountew panews.
+< CARD_UNIT_ARNELLE >
+name=Awnewwe
+descr=Can see the cawd on the top of the deck when howding Intewwigence Officew in hand.
+< CARD_UNIT_MAYNIE >
+name=Maynie
+descr=When not in Waging Mode, gain a Wage Countew upon taking damage and wose a Wage Countew upon heawing.
+< CARD_UNIT_KYUPITA >
+name=Kyupita
+descr=
+< CARD_UNIT_CHRIS >
+name=Chwis
+descr=Can howd 4 cawds. Cannot chawwenge to battwes without Chef ow Stowe Managew active. Gain a Stowe Managew Countew upon using a Max 1 copy wimit non-Gift cawd.
+< CARD_UNIT_GOLEM >
+name=Moss Gowem
+descr=
+< CARD_UNIT_GUARDIAN >
+name=Guawdian
+descr=Cannot chawwenge othew pwayews. Shawes the hewd bounties of the summonew.
+< CARD_UNIT_EVILGUARDIAN >
+name=The Hawbingew
+descr=Cannot be damaged ow KO'd outside of battwe. Chawwenge othew units when passing by them. If the opponent is defeated in battwe, steaw 1 fame, gain a stack of Souw Eatew and heaw 1 HP if not Awakened. Give 2 fame + stowen fame when KO'd.
+< CARD_UNIT_FAE >
+name=Auwowa
+descr=+1 MOV. Cannot chawwenge othew pwayews. Heaw the summonew by 1 HP, ow wevive them with hawf HP evewy even chaptews.
+< CARD_UNIT_MERCENARY >
+name=Mewcenawy
+descr=Chawwenges othew pwayews when passing by them. 50% of the staws gained in battwe awe given to the summonew.
+< CARD_UNIT_HALENA >
+name=Hawena
+descr=Gain Wvw x2 staws aftew wanding on youw own home.
+< CARD_UNIT_COOK >
+name=Cook
+descr=Gain a stack of Hungwy when using Evade (max 3). With 3 Hungwy, gain -1 EVD. Wose aww Hungwy when wanding on youw own home.
+< CARD_UNIT_LONERIDER >
+name=Wone Widew
+descr=If youw Move woww wesuwt is highew than 6, gain +1 ATK, +1 DEF and +2 EVD untiw the stawt of youw next tuwn.
+< CARD_UNIT_MERCHANT >
+name=Mewchant
+descr=Can howd 4 cawds.\nGain a Fweight cawd when stopping on anothew pwayew's Home panew.
+< CARD_UNIT_HIMEV2 >
+name=Hime (Moonwight)
+descr=Duwing fuww moon (evewy 5 chaptews), base attwibutes awe -1 ATK, -1 DEF, +3 EVD.
+< CARD_UNIT_FERNETNOBLE >
+name=Fewnet (Nobwe)
+descr=Any pwayew chawwenging you on the fiewd must pay theiw Wvw x Staws to do so.
+< CARD_COOP_UNIT_FERNETNOBLE >
+name=Fewnet (Nobwe)
+descr=When chawwenged by an enemy, the opponent woses youw Wvw x Staws and you gain youw Wvw x Staws.
+[EOF]

@@ -1,0 +1,160 @@
+<0000> Eeey!
+<0001> Wike thiiiiis!
+<0002> Whoop!
+<0003> Hewe I goooo!
+<0004> Time to pway a cawd!
+<0005> A cawd!
+<0006> Ta-daaaa!
+<0007> I'm going to use this one!
+<0008> Fufufu... Twap time!
+<0009> Setting a twap down hewe...
+<0010> Fufufu... Ambush time!
+<0011> Wet's see what'ww happen!
+<0012> I'm going to upgwade mysewf!
+<0013> Aww fow a victowy!
+<0014> Aww wighty, hewe I go!
+<0015> Battwe cawd!
+<0016> Big baaang beww!
+<0017> Nugugu... I have no mowe time to be wying down!
+<0018> Saki, you've got to get to youw feet!
+<0019> I'm not done yet!
+<0020> Nuoooh! I have to catch up!
+<0021> Mauu, it didn't wowk...
+<0022> Fuee, that was a bust.
+<0023> Auu...
+<0024> I didn't make it...!
+<0025> I'm attacking!
+<0026> Attack!
+<0027> I'm going to make this weaw quick!
+<0028> Ewyaah!
+<0029> Mau!!
+<0030> That huwts!
+<0031> Naaan!!
+<0032> Fuee!
+<0033> Heawing!
+<0034> Wawm enewgy!
+<0035> I'm fuwwy chawged!
+<0036> I'm feewing weww wested!
+<0037> Hiee! Whewe am I going!
+<0038> I'm getting tossed!
+<0039> Get me somewhewe peacefuw, pwease!
+<0040> I'm feewing dizzyyyy...
+<0041> Mauu... I'm... done fow.
+<0042> Uh, I can't do this... anymowe...
+<0043> *Zzz*...
+<0044> This is... not good...!
+<0045> Now, pwease pwepawe youwsewf!
+<0046> Pwease die... Just kidding!
+<0047> A battwe's about to begin!
+<0048> Aww wight, I'ww just beat you up!
+<0049> Oh, what what what? Awe we going to fight?
+<0050> Hiee! I'm not weady yet!
+<0051> Bwing it on!
+<0052> I won't wose!
+<0053> Mauwyaah!
+<0054> Hoy!
+<0055> Tey tey!
+<0056> Poy poy!
+<0057> Mau!!
+<0058> Nya!
+<0059> Oww!
+<0060> Hege!
+<0061> Mau mau!!
+<0062> That huwts so much!!!
+<0063> Hyoeeeh!
+<0064> Oh noooo!!
+<0065> Dodging!
+<0066> Evading!
+<0067> Hie! That was a cwose caww!
+<0068> Wawah! I awmost got hit!
+<0069> Wooks wike I win! Ehehe!
+<0070> I got a win just wike that!
+<0071> Oh my, awe you huwt?
+<0072> Hmphew, easy peasy!
+<0073> Mauee...
+<0074> I'm speechwess...
+<0075> I wost...
+<0076> I wanted you to go easy on me...
+<0077> Wow! Staws!
+<0078> They'we shining! I wike stuff wike this!
+<0079> A bunch of staws!
+<0080> I'm so happy!
+<0081> Aaaah! My staws!
+<0082> Howy cookies!
+<0083> Ueee! I dwopped some!
+<0084> Wait fow meeee!
+<0085> O-oh no, thewe was a twap hewe?!
+<0086> Hey, who set the twap hewe?!
+<0087> Gue! I hate twaps!
+<0088> Gyaah!
+<0089> Oh, I'm getting a dangewous vibe awound hewe...
+<0090> This is going to be tough...
+<0091> I'd bettew stay away fwom this one...
+<0092> I can sense something gigantic...
+<0093> I'm gathewing staws! I'm good at stuff wike that!
+<0094> I hope I can get so many staws!
+<0095> Staws awe beautifuw... I want a wot of them!
+<0096> It's fun cowwecting something, isn't it...
+<0097> I feew wike fighting!
+<0098> I want a bunch of wins!
+<0099> Winning feews good, doesn't it?
+<0100> Fighting is necessawy, sometimes!
+<0101> Mauu, nice to meet you!
+<0102> My name's Saki!
+<0103> I'ww do my hawdest!
+<0104> Fufufu, I'ww get us victowy, just you watch.
+<0105> So it begins!
+<0106> Now, wet's do this!
+<0107> Go go!
+<0108> Aww wighty, wet's do ouw best!
+<0109> We did it! We won!
+<0110> I can do this much!
+<0111> Yaay! I'm going to make some sweets to cewebwate!
+<0112> We'we thwowing a pawty tonight!
+<0113> Got an item!
+<0114> This'ww make us stwongew!
+<0115> Did you find something good?
+<0116> Oh, you wanted this? I'm happy fow you!
+<0117> I wike that!
+<0118> I wove that!
+<0119> Yes!
+<0120> No!
+<0121> No good.
+<0122> Wucky you!
+<0123> Hmm?
+<0124> Now, wet's woww up ouw sweeves!
+<0125> Dice!
+<0126> Wet's hit the woad!
+<0127> Hewwo!
+<0128> Hmm...
+<0129> That's fantastic!
+<0130> That's incwedibwe!
+<0131> Mauuuuu...
+<0132> Can I weawwy use this?
+<0133> I'm not famiwiaw with this, but I'ww pway it anyway!
+<0134> It's funny using someone ewse's powews.
+<0135> Wet me bowwow youw powews!
+<0136> Wet's fight a sweet battwe!
+<0137> Whoa, it's you, Sweet B!
+<0138> Fufu, it wooks wike I'm on a highew wevew as a god.
+<0139> You'we vewy good, Sweet B...
+<0140> Q! hewe I come!
+<0141> Q! Bwing it on!
+<0142> Good fight! I'm going to make you some pudding watew.
+<0143> You'we vewy good, Q! We shouwd get some pudding togethew!
+<0144> Th-this is... a wegendawy sweet...
+<0145> You awe...!!
+<0146> Hie! It's hawd fighting him!
+<0147> Phew... I was a newvous wweck fow many weasons.
+<0148> I can't even imagine defeating him...
+<0149> Just so you know, you'we awways doing a nice job!
+<0150> Whoa, I feew wike something bad's happening wight now.
+<0151> An idow...!
+<0152> Sweet Eatew...!
+<0153> I sense Guawdian...!
+<0154> Battwe between Sweet Gods... Wet's get stawted!
+<0155> Hmmmm~♪　Mau~mau~♪
+<0156> Mauuuuuuuwyaaaaaaaah!
+<0157> Why don't you go to sweeeeeep!
+<0158> Dwoooop deaaaaad!!
+<0159> Sweet dweams!

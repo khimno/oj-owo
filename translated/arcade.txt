@@ -1,0 +1,68 @@
+< ITEMDEF_PET_DISPLAY_TYPE >
+Pet
+< ITEMDEF_TOKEN_DISPLAY_TYPE >
+Awcade Token
+< RARITY_COMMON >
+Common
+< RARITY_UNCOMMON >
+Uncommon
+< RARITY_RARE >
+Wawe
+< RARITY_SUPER_RARE >
+Supew Wawe
+< PET_SELECT_NOPET >
+No Pet
+< ARCADE_ORANGE_GET >
+You Got Owanges!
+< ARCADE_PET_GET >
+Pet Get!
+< ARCADE_COMMON_GET >
+You Got a Common Item!
+< ARCADE_NEW_PET_COLOR >
+New Cowow Obtained!
+< ARCADE_PLAY>
+PWAY
+< ARCADE_EXCHANGE >
+Exchange
+< ARCADE_LOADING >
+Woading...
+< ARCADE_EXCHANGE_NOPET >
+No pet sewected.
+< ARCADE_EXCHANGE_CONFIRM >
+Exchange this pet?
+< ARCADE_ERROR_STEAM >
+You awe not connected to Steam.
+< ARCADE_ERROR_MISC >
+Ewwow. Pwease twy again watew.
+< ARCADE_ERROR_TOKEN_COUNT >
+You do not have enough tokens.
+< ARCADE_ERROR_EXCHANGE_QUANTITY >
+Not enough pets to exchange.
+< ARCADE_ERROR_TIMEOUT >
+Timeout. Pwease twy again watew.
+< ARCADE_TOOLTIP_PETCATCHER >
+Use 3 tokens to eawn a pet ow common item!
+< ARCADE_TOOLTIP_EXCHANGE >
+Exchange 2 of the same pet catchew pet fow a new cowow!
+< ARCADE_TOOLTIP_EMOTES >
+Obtain new chat emotes!
+< ARCADE_TOOLTIP_CONSUMABLES >
+Puwchase items fow use in-game!
+< ARCADE_TOOLTIP_GAMEMACHINE >
+Pway pweviouswy weweased minigames!
+< ARCADE_MACHINE_PETCATCHER >
+Pet Catchew
+< ARCADE_MACHINE_SUMMER >
+Summew Pet Catchew
+< ARCADE_MACHINE_BOUNTYHUNT >
+Bounty Hunt Pet Catchew
+< ARCADE_MACHINE_EXCHANGE >
+Pet Exchange
+< ARCADE_MACHINE_EMOTES >
+Emote Gachapon
+< ARCADE_MACHINE_CONSUMABLES >
+Vending Machine
+< ARCADE_MACHINE_BUILD_A_CASTLE >
+Buiwd-a-Castwe
+< ARCADE_MACHINE_SCHOOL_CRASHERS >
+Schoow Cwashews

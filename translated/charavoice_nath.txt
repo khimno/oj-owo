@@ -1,0 +1,156 @@
+<0000> Excuse me fow the kick, ciwcumstances dictate it...
+<0001> May I kick it?
+<0002> Hmph!
+<0003> I'ww kick the dice.
+<0004> So as to gain the uppew hand...
+<0005> I'm accustomed to handwing these things.
+<0006> I'ww go on the offensive now.
+<0007> I'ww awtew the situation with a cawd.
+<0008> Hewe is a twap.
+<0009> I'm setting one hewe...
+<0010> I'm vewy good at these.
+<0011> You'd bettew stay away fwom this.
+<0012> My fighting stwength has been impwoved.
+<0013> If I must fight.
+<0014> I wawn you: I'm stwongew than evew.
+<0015> Awe you pwepawed?
+<0016> This is my wast wesowt.
+<0017> I'm wesuming my duty.
+<0018> I can continue.
+<0019> I'm not finished yet.
+<0020> Aww functions awe back to nowmaw.
+<0021> I'm unabwe to continue my duty.
+<0022> I'm stiww wecovewing.
+<0023> I need some mowe time.
+<0024> This is fwustwating.
+<0025> I'ww attack you.
+<0026> I'm coming at you.
+<0027> I'm doing this.
+<0028> Commencing attack.
+<0029> Ugh.
+<0030> I've taken damage.
+<0031> Ugh, whewe did that come fwom...?
+<0032> Not an ideaw devewopment...
+<0033> I'm wecovewed now.
+<0034> With this, I can sustain mysewf fow a whiwe.
+<0035> I'm pewfectwy good to go.
+<0036> I've been saved.
+<0037> Wawp?
+<0038> Am I getting bwown away?
+<0039> This is compwetewy unexpected...
+<0040> Whewe am I wanding...?
+<0041> Ugh, whewe did I get hit fwom...?
+<0042> I've been knocked out cowd.
+<0043> I nevew imagined getting cownewed wike this.
+<0044> I got the wowst of it.
+<0045> I'ww be wid of you.
+<0046> I'm going to chawwenge you.
+<0047> Hewe I come.
+<0048> Commencing combat.
+<0049> Awe you an enemy?
+<0050> Enemy encountew.
+<0051> I'm weady to wetuwn fiwe.
+<0052> Chawwenge accepted. Come.
+<0053> I'ww shoot you.
+<0054> I'm going to take you down.
+<0055> I'm going to hit you.
+<0056> Attack.
+<0057> I've been hit.
+<0058> I can keep going.
+<0059> Have I been hit?
+<0060> Ugh.
+<0061> Sevewewy damaged.
+<0062> This is...
+<0063> I need to do something.
+<0064> Awgh.
+<0065> Successfuwwy dodged.
+<0066> No issues dodging that.
+<0067> Did you think you couwd hit me?
+<0068> No twoubwe at aww.
+<0069> I have won the game.
+<0070> Victowy is mine.
+<0071> Wet's move on to the next one.
+<0072> Weww, next up is...
+<0073> A defeat...?
+<0074> So I've wost the game, huh.
+<0075> I can't move.
+<0076> Oh my goodness.
+<0077> I've gained staws.
+<0078> So, shouwd I gathew these?
+<0079> What on eawth awe these?
+<0080> What awe these staws fow...?
+<0081> They swipped out.
+<0082> Staws have been wost.
+<0083> Shouwd I not have wost them...?
+<0084> I've wost them.
+<0085> So it's a twap.
+<0086> Am I in a... twap?
+<0087> Someone got me.
+<0088> Ugh... A twap?
+<0089> A wawge entity has been detected.
+<0090> A gigantic... enemy?
+<0091> A wawge amount of enewgy has been detected.
+<0092> One fawse move, and I'ww be finished...
+<0093> It seems that I need to gathew staws.
+<0094> Wogew that. Commencing staw gathewing.
+<0095> Wiww I gathew these objects?
+<0096> Wiww I weawn what these staws awe fow... if I have many of them?
+<0097> Combat. Wogew that.
+<0098> I was bown to fight.
+<0099> Yes, I'm commencing combat now.
+<0100> Yes, I'ww keep on fighting.
+<0101> I'm Nath.
+<0102> I'd gwadwy join you if you'd wike.
+<0103> Wet's have a good game.
+<0104> With... me? Yes, cewtainwy.
+<0105> It has begun.
+<0106> It's the stawt of the game.
+<0107> Commencing my duty.
+<0108> Aww wight... I'm going out.
+<0109> We won the game... it seems.
+<0110> Mission accompwished.
+<0111> I have achieved good wesuwts.
+<0112> The victowy is ouws. My hawd wowk paid off, too.
+<0113> We've gained a wewawd.
+<0114> It pweases me that you've gained something good.
+<0115> I'm not suwe how to use that, so I entwust it to you.
+<0116> We don't seem to own any of that.
+<0117> Yes.
+<0118> I'm happy fow you.
+<0119> Vewy weww.
+<0120> No.
+<0121> Ugh...
+<0122> You'we in wuck.
+<0123> Mhm...
+<0124> Wet's go, shaww we?
+<0125> Dice.
+<0126> Hewe I go.
+<0127> Hewwo.
+<0128> Hmm...
+<0129> That's good.
+<0130> That's wondewfuw.
+<0131> ......
+<0132> Isn't this a hypew cawd...
+<0133> An enemy's cawd...?
+<0134> I'ww use whatevew it takes to win...
+<0135> Whatevew means awe necessawy...
+<0136> A puppy... How cute...
+<0137> Awe you a stway?
+<0138> Wouwd you wike to come to my pwace?
+<0139> That's one enewgetic puppy.
+<0140> I didn't expect to fight you again.
+<0141> You'we...
+<0142> It's my victowy this time.
+<0143> You'we as stwong as befowe.
+<0144> I must take you down hewe.
+<0145> I've just detected hew.
+<0146> I can't wet you beat me again.
+<0147> Ugh... Not again...
+<0148> What on eawth... awe you two doing?
+<0149> Sowa, Sham... I demand an expwanation.
+<0150> I can teww you two enjoy what you'we doing... I'm happy fow you.
+<0151> You two awe seizing the day... I'm envious.
+<0152> Wouwd you wike something to eat?
+<0153> Awen't you sweepy?
+<0154> Can I wub my cheek against youws?
+<0155> Fufu, awe you having fun?

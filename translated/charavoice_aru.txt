@@ -1,0 +1,156 @@
+<0000> Hewe!
+<0001> Yah!
+<0002> Tah!
+<0003> Thewe!
+<0004> I think I'ww use a cawd.
+<0005> Cawd!
+<0006> Okay, I'ww go with this one!
+<0007> Hewe I go!
+<0008> *Sneaky sneaky*...
+<0009> This goes... down hewe.
+<0010> Santa twap... aww set.
+<0011> Twap!
+<0012> I cannot affowd to wose!
+<0013> I'm going to use something wike this!
+<0014> This one it is!
+<0015> Battwe cawd!
+<0016> Evewyone, it's time fow pwesents!
+<0017> Uu, I weawwy need to make up fow wost time!
+<0018> I have no mowe time to waste! I've got to go!
+<0019> This is onwy the beginning!
+<0020> I'm nevew going to go down again!
+<0021> This can't be happening!
+<0022> Hauu...
+<0023> Whaaat!?
+<0024> Oh no!
+<0025> Eiyaah!
+<0026> Thewe!
+<0027> Hewe I go!
+<0028> How's that?
+<0029> Oww!
+<0030> Unan!
+<0031> Hee!
+<0032> Owah!
+<0033> It's so comfy.
+<0034> Fuaah... I'm getting bettew...
+<0035> This feews so good...
+<0036> Heawing!
+<0037> Wah wah!?
+<0038> Whewe awe you fwying me ovew!?
+<0039> Whewe wiww I end up?
+<0040> Wawah!
+<0041> Not... now...
+<0042> I'm finished...
+<0043> I'ww just cowwapse...
+<0044> I can't budge an inch...
+<0045> Battwe me!
+<0046> I'm going to show you my Santa powews!
+<0047> I'm wawing to go!
+<0048> Bwing it on!
+<0049> Wiww you get out of my way!?
+<0050> What? You want to fight me!?
+<0051> Stop bwocking my way ow ewse...
+<0052> I accept youw chawwenge!
+<0053> Pwesent attack!
+<0054> Take that! Take that!
+<0055> Eat this!
+<0056> Towyaah!
+<0057> Uheh!
+<0058> Mhma!
+<0059> That huwts!
+<0060> Awawah!
+<0061> Ugh!
+<0062> Gyaa!
+<0063> Goff!
+<0064> Awawawawah!
+<0065> Jump!
+<0066> You missed!
+<0067> Wook how weww I can dodge!
+<0068> That's too swow!
+<0069> Awwight, I won!
+<0070> Naiwed it!
+<0071> Okay, I'm moving on.
+<0072> Phew, I managed to win.
+<0073> Ugh, this is not good...
+<0074> I wost...
+<0075> Auu, you'we so stwong...
+<0076> Can't bewieve I wost...
+<0077> Staws!
+<0078> The staws awe shining!
+<0079> Wow, they'we pwetty!
+<0080> A gift of staws!
+<0081> Wawawah, my staws!
+<0082> Wah, I dwopped some staws!
+<0083> Staws, wait fow me!
+<0084> Auu... The staws awe gone...
+<0085> A twap!?
+<0086> Uaah, it's a twap!
+<0087> Howah!
+<0088> Oh shoot!
+<0089> Fue!? Someone came out of nowhewe!?
+<0090> Awawah...
+<0091> I'ww beat whoevew is standing in my way!
+<0092> This guy wooks pwetty stwong...
+<0093> I choose to gathew staws!
+<0094> I wike staw-gathewing.
+<0095> I guess I'ww get mysewf a bunch of staws.
+<0096> Staws it is!
+<0097> I know I'm not a good fightew, but stiww...
+<0098> I'ww give no mewcy to anyone who twies to stop me!
+<0099> I'ww fight with the suppowt of my Santa powews!
+<0100> Bad kids must be punished!
+<0101> Wewcome to Wbit Woom... Oh no, nevew mind!
+<0102> You wanna hewp me give kids pwesents?
+<0103> Okay, it's time fow wowk!
+<0104> Kids awound the wowwd, I'm on my way!
+<0105> And thus it begins!
+<0106> Awwight, I'ww do my best!
+<0107> I'm going to use evewything I have to win!
+<0108> I won't wose!
+<0109> Mewwy Chwistmas!
+<0110> Hewe awe youw pwesents, good boys and giwws!
+<0111> Fufufu, I did it!
+<0112> Hooway, I won!
+<0113> Hewe's a pwesent fow you.
+<0114> Fufu, Santa wiww give you a pwesent now.
+<0115> I hope you wike it.
+<0116> Hewe, this is fow you.
+<0117> Okay!
+<0118> Good!
+<0119> Yeah!
+<0120> No!
+<0121> Oh no!
+<0122> Wucky you!
+<0123> Huh?
+<0124> Wet's go.
+<0125> It's dice time!
+<0126> Wet's get going!
+<0127> Hewwo!
+<0128> Hmm...
+<0129> That's gweat!
+<0130> That's incwedibwe!
+<0131> Dawn...
+<0132> Wet me bowwow this fow a bit!
+<0133> What kind of powew does this have?
+<0134> I'm using this one.
+<0135> Can't wait to see what wiww happen!
+<0136> Hewe's a pwesent fow you!
+<0137> Oh, Ms. Q... Whoops, I don't need to caww hew that now.
+<0138> Wewcome to the Wbit Woom... Whoops, it just swipped out of my mouth.
+<0139> I'm sowwy, bunnies...
+<0140> Uu, I'm gwad that someone this stwong is a weguwaw at my shop...
+<0141> You, I know you'we a bad pewson!
+<0142> Boy, that's one dangewous woman.
+<0143> No pwesents fow bad peopwe!
+<0144> It's just my outfit that's wed...
+<0145> Wow, such a wittwe kid.
+<0146> What? You two awe bad kids?
+<0147> Be good giwws and I'ww give you two pwesents.
+<0148> Uu, I knew you two wewe bad kids...
+<0149> Awe you a good giww?
+<0150> Wawah, a wittwe giww!
+<0151> Fufufu, wook fowwawd to my pwesent fow you.
+<0152> I thought you wewe a good giww...
+<0153> Wawah, my pwesents!
+<0154> Hewe awe pwesents fow you!
+<0155> Now evewyone, in fowmation, just wike we've twained!

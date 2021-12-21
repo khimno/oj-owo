@@ -1,0 +1,71 @@
+< CHALLENGE_TOOLTIP_REROLL >
+Pay %d staws to wewoww fow a diffewent chawwenge of this type.
+< CHALLENGE_TOOLTIP_STARCOUNT >
+Cuwwent Staws: %d
+< CHALLENGE_GENERIC_PLAYS >
+Pway %d games.
+< CHALLENGE_GENERIC_WINS >
+Win %d game.
+< CHALLENGE_GENERIC_STARS >
+Cowwect %d staws.
+< CHALLENGE_GENERIC_KOS >
+Eawn %d wins.
+< CHALLENGE_GENERIC_STAR_WINS >
+Win %d game with Staw Nowma.
+< CHALLENGE_GENERIC_KO_WINS >
+Win %d game with Wins Nowma.
+< CHALLENGE_GENERIC_PANELS >
+Twavew %d panews.
+< CHALLENGE_GENERIC_TRAPS >
+Pwace %d twaps.
+< CHALLENGE_GENERIC_STAR_NORMAS >
+Compwete %d staw nowmas.
+< CHALLENGE_GENERIC_WIN_NORMAS >
+Compwete %d win nowmas.
+< CHALLENGE_GENERIC_DAMAGE_DEALT >
+Deaw %d damage.
+< CHALLENGE_GENERIC_HEALING >
+Heaw %d HP.
+< CHALLENGE_GENERIC_PLAY_BOOST >
+Pway %d Boost cawds.
+< CHALLENGE_GENERIC_PLAY_EVENT >
+Pway %d Event cawds.
+< CHALLENGE_GENERIC_PLAY_BATTLE >
+Pway %d Battwe cawds.
+< CHALLENGE_UNIT_PLAYS >
+Pway %d games as %s.
+< CHALLENGE_UNIT2_PLAYS >
+Pway %d games as %s ow %s.
+< CHALLENGE_UNIT_WINS >
+Win %d game as %s.
+< CHALLENGE_TYPE_UNIT_STAR_NORMAS >
+Compwete %d staw nowmas as %s.
+< CHALLENGE_TYPE_UNIT_WIN_NORMAS >
+Compwete %d win nowmas as %s.
+< CHALLENGE_CARD_BRING >
+Bwing at weast one %s to %d games.
+< CHALLENGE_CARD_PLAY >
+Pway %s %d times.
+< CHALLENGE_CARD2_BRING >
+Bwing at weast one %s ow %s to %d games.
+< CHALLENGE_CARD2_PLAY >
+Pway %s ow %s %d times.
+< CHALLENGE_MAP_PLAY >
+Pway %d game on %s.
+< CHALLENGE_MAP2_PLAY >
+Pway %d game on %s ow %s.
+< CHALLENGE_TYPE_EVENT_VDAY_CHOCOLATE >
+Use the chocowate dice to KO %d pwayews.
+< CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
+Use the heawt dice to cowwect %d staws fwom bonus panews.
+< CHALLENGE_TYPE_EVENT_XMAS_ICE >
+Swide ovew %d ice panews.
+< CHALLENGE_LABEL_CURRENT >
+Cuwwent Chawwenges
+< CHALLENGE_MESSAGE_EVENT_NOT_LOADED >
+Pwease wait, fetching cuwwent event status...
+< CHALLENGE_MESSAGE_DAYS >
+d
+< CHALLENGE_MESSAGE_REROLL_CONFIRM >
+Awe you suwe you wish to wewoww this chawwenge?
+[EOF]

@@ -1,0 +1,179 @@
+< COM_CONFIG_SYSTEM >
+System config.
+< COM_CONFIG_SCREEN >
+Scween settings.
+< COM_CONFIG_AUDIO >
+Audio settings.
+< COM_CONFIG_VOICE >
+Voice settings.
+< COM_CONFIG_MODS >
+Cuwwentwy instawwed mods.
+< COM_NEWGAME_SELECTSLOT >
+Sewect a save swot.
+< COM_NEWGAME_SLOTCONFIRM >
+Awe you suwe you wish to use this swot?
+< COM_NEWGAME_ENTERNAME >
+Entew youw pwayew name.
+< COM_NEWGAME_SELECTCHARACTER >
+Sewect a chawactew.
+< COM_NEWGAME_CHARACTERCONFIRM >
+Awe you suwe you wish to use this chawactew?
+< COM_LOADGAME_SELECTSLOT >
+Sewect a save swot to woad.
+< COM_LOADGAME_LOADCONFIRM >
+Awe you suwe you wish to woad this save?
+< COM_SHOP_SELECTITEM >
+Sewect an item to buy.
+< COM_SHOP_BUYCONFIRM >
+Awe you suwe you wish to buy this item?
+< COM_SHOP_BUYEVENTCONFIRM >
+Unwock event pwogwess fow %s?
+< COM_SHOP_ITEMSOLDOUT >
+This item is sowd out.
+< COM_SHOP_ITEMNOTINSTOCK >
+This item has yet to be stocked.
+< COM_SHOP_NOTENOUGHCURRENCY >
+You cannot affowd this item.
+< COM_SHOP_NOSTEAMCONNECTION >
+This item wequiwes Steam connection.
+< COM_SHOP_NOSTEAMCONNECTIONDLC >
+Can't vewify DWC ownewship without Steam connection.
+< COM_SHOP_ALREADYOWNDLC >
+You awweady own this DWC.
+< COM_SHOP_BONUSITEM >
+This item is gifted to aww ownews of %s on Steam.
+< COM_SHOP_CHARACTERITEM >
+This item bewongs to a chawactew you don't own.
+< COM_SHOP_LEVELTOOLOW >
+Youw wevew isn't high enough to buy this item.
+< COM_SHOP_BOUGHTCARDPACK >
+You bought a cawd pack!
+< COM_SHOP_BOUGHTCARD >
+You bought a singwe cawd!
+< COM_SHOP_BOUGHTDISCOUNT >
+You bought a shop discount ticket!
+< COM_SHOP_BOUGHTCHARACTER >
+You bought a new pwayabwe chawactew!
+< COM_SHOP_BOUGHTFIELD >
+You bought a new fiewd!
+< COM_SHOP_BOUGHTCOLORS >
+You bought new unit cowows!
+< COM_SHOP_BOUGHTHAIR >
+You bought a new unit haiw!
+< COM_SHOP_BOUGHTACCESSORY >
+You bought a new accessowy!
+< COM_SHOP_BOUGHTDICE >
+You bought new dice!
+< COM_SHOP_BOUGHTCANDY1 >
+You bought a candy!
+< COM_SHOP_BOUGHTCANDY10 >
+You bought 10 candy!
+< COM_SHOP_BOUGHTCRATE >
+You bought a cwate!
+< COM_SHOP_BOUGHTPET >
+You bought a new pet!
+< COM_SHOP_BOUGHTHOMEMARK >
+You bought a new homemawk!
+< COM_SHOP_BOUGHTGENERICITEM >
+You bought a new item!
+< COM_SHOP_BOUGHTEMOTE >
+You bought a new emote!
+< COM_SHOP_BOUGHTCOSTUME >
+You bought a new costume!
+< COM_SHOP_CONVERTCURRENCY >
+Convewted cuwwency!
+< COM_USERINFO_PLAYERINFO >
+View pwayew infowmation.
+< COM_USERINFO_GAMEINFO >
+View game infowmation.
+< COM_USERINFO_BROWSECARDS >
+Bwowse youw cawds.
+< COM_USERINFO_CARDSINFO >
+Check youw cawd cowwection info.
+< COM_USERINFO_AVATAR >
+Change youw avataw wooks.
+< COM_USERINFO_TAUNTS >
+Customize taunts pew unit fow use in-game.
+< COM_USERINFO_GALLERY >
+Enjoy vawious images, cutscenes, BGMs and voices.
+< COM_USERINFO_STATS >
+Check youw stats with each chawactew on onwine matches.
+< COM_CAMPAIGN_SELECTSCENARIO >
+Sewect scenawio.
+< COM_CAMPAIGN_SELECTSTAGE >
+Sewect stage.
+< COM_CAMPAIGN_BREAKERPACKONLY >
+This campaign can onwy be pwayed by Bweakew Pack ownews.
+< COM_CAMPAIGN_WITCHPACKONLY >
+This campaign can onwy be pwayed by Witch Pack ownews.
+< COM_CAMPAIGN_TOYSTOREPACKONLY >
+This campaign can onwy be pwayed by Toy Stowe Pack ownews.
+< COM_CAMPAIGN_OLDGUARDIANPACKONLY >
+This campaign can onwy be pwayed by Owd Guawdian Pack ownews.
+< COM_CAMPAIGN_WANDERERPACKONLY >
+This campaign can onwy be pwayed by Wandewew Pack ownews.
+< COM_FREEBATTLE_CHOOSEGAMETYPE >
+Sewect a game mode.
+< COM_FIELDSELECT >
+Sewect a game fiewd.
+< COM_RANDOMFIELD_MINIMUMREQUIRED >
+You need to set at weast 3 avaiwabwe wandom wevews.
+< COM_RANDOMFIELDEVENT_MINIMUMREQUIRED >
+You need to set at weast 3 avaiwabwe wandom fiewd events.
+< COM_DECK_PREPARE >
+Sewect a chawactew / cweate a deck.
+< COM_DECK_NOTPREPARED >
+Not yet pwepawed.
+< COM_DECK_CARDLIMITREACHED >
+No mowe cawds of this type can be used.
+< COM_DECK_DLCONLYCARD >
+This cawd is onwy usabwe by DWC ownews.
+< COM_DECK_WAITING >
+Waiting fow the othew pwayews to get weady...
+< COM_DECK_READY >
+Weady to pway the game!
+< COM_GAME_PAUSED >
+Paused.
+< COM_GAME_QUITCONFIRM >
+Awe you suwe you want to quit the game?
+< COM_RESULT_STARSGAINED >
+The staws you gained fwom this game.
+< COM_CREATELOBBY_SETOPTIONS >
+Set wobby options.
+< COM_CREATELOBBY_CREATING >
+Cweating Steam wobby...
+< COM_CREATELOBBY_FAILED >
+Couwd not cweate Steam wobby.
+< COM_CREATELOBBY_NAMEEMPTY >
+The Wobby Name fiewd cannot be empty.
+< COM_LOBBYLIST_SELECTLOBBY >
+Sewect a wobby. Steam fwiends appeaw as gween staws.
+< COM_LOBBYLIST_JOINLOBBY >
+Join the sewected wobby ow contact the wobby ownew.
+< COM_LOBBYLIST_PASSWORDEMPTY >
+The Passwowd fiewd cannot be empty.
+< COM_LOBBYLIST_SEARCHEMPTY >
+The seawch fiewd cannot be empty.
+< COM_LOBBYLIST_CONNECTFAILED >
+Couwd not connect to the wobby.
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOSELECT >
+Can't sewect wobby - wobby data not wetwieved.
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOCONTACT >
+Can't contact wobby ownew - wobby data not wetwieved.
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOJOIN >
+Can't join wobby - wobby data not wetwieved.
+< COM_LOBBY_WAITINGFORPARTICIPANTS >
+Waiting fow othew pawticipants...
+< COM_LOBBY_WAITINGFORPLAYERS >
+Waiting fow othew pwayews...
+< COM_LOBBY_PLAYERSNOTREADY >
+Can't stawt the game untiw evewyone is weady.
+< COM_LOBBY_KICKREADYPLAYER >
+Can't kick a pwayew who's weady.
+< COM_LOBBY_KICKNOTREADY >
+Can't kick that pwayew yet.
+< COM_LOBBY_MIDGAME_JOINED >
+Joined game! You can entew at the stawt of next chaptew.
+< COM_LOBBY_SPECTATOR_WAITINGDECKS >
+Game stawted! Waiting fow pwayews to finish theiw decks...
+[EOF]

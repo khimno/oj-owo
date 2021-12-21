@@ -1,0 +1,39 @@
+< GAME_SYSTEM_ROLLTOREVIVE >
+ow highew\nto wevive!
+< GAME_SYSTEM_WINNERSCREEN_STARS >
+Staws
+< GAME_SYSTEM_WINNERSCREEN_WINS >
+Wins
+< GAME_SYSTEM_WINNERSCREEN_FAME >
+Fame
+< GAME_SYSTEM_HUD_LVL >
+WVW
+< GAME_SYSTEM_HUD_HP >
+HP
+< GAME_SYSTEM_HUD_NORMA >
+Nowma
+< GAME_SYSTEM_HUD_NORMA_MAX >
+MAX!
+< GAME_SYSTEM_HUD_CARDEFFECTS >
+Cawd effects
+< GAME_SYSTEM_HUD_CARDEFFECTS_STACKS >
+Stacks
+< GAME_SYSTEM_HUD_CARDEFFECTS_DURATION >
+Duwation
+< GAME_SYSTEM_SHOP_LEVEL >
+WEVEW %d
+< GAME_SYSTEM_SHOP_NO_BONUS >
+No advantage unwocked.
+< GAME_SYSTEM_SHOP_BONUS_1 >
+Additionaw %d %% chance to have SSW items showing up.
+< GAME_SYSTEM_SHOP_BONUS_2 >
+%d %% item pwice weduction aftew aww cawcuwations.
+< GAME_SYSTEM_SHOP_BONUS_3 >
+An additionaw %d staws wiww be given when sewwing a cawd.
+< GAME_SYSTEM_SHOP_BONUS_4 >
+An additionaw stock of an item may be avaiwabwe.
+< GAME_SYSTEM_SHOP_BONUS_5 >
+Dewivewing items wiww give an extwa %d staws upon compwetion of the quest.
+< GAME_SYSTEM_SHOP_BONUS_6 >
+Up to two additionaw stock of an item may be avaiwabwe.\n- An additionaw shop of this type wiww spawn on the fiewd.
+[EOF]

@@ -1,0 +1,156 @@
+<0000> Thewe!
+<0001> Hewe goes.
+<0002> Ehe.
+<0003> Thewe you go!
+<0004> This one!
+<0005> My tuwn!
+<0006> Ehehe, I'm pwaying a cawd.
+<0007> I guess I wanna pway this.
+<0008> I'm pwaying a smaww pwank.
+<0009> Fuhehe.
+<0010> This goes wight hewe... Okay!
+<0011> I can't wait to see someone step on it.
+<0012> I'm supew weady to do this!
+<0013> I can't affowd to wose.
+<0014> I'ww give it my aww!
+<0015> I'ww beat you!
+<0016> I'ww ewectwify you!
+<0017> I'm fuww of enewgy!
+<0018> I haven't given up yet!
+<0019> I need to make up fow wost time.
+<0020> Aww wight! I'm up again!
+<0021> Whaaat? That's odd.
+<0022> Uu, it didn't go weww.
+<0023> Uuuuu...
+<0024> Muuuu...
+<0025> Tah!
+<0026> Thewe!
+<0027> Hah!
+<0028> Hewe I come!
+<0029> Ow!
+<0030> Ouch?!
+<0031> Hmmhee!
+<0032> Wah?!
+<0033> Fiwst aid!
+<0034> I have to keep going.
+<0035> That gave me enewgy.
+<0036> I feew wike I can do mowe!
+<0037> Wawp?!
+<0038> Whewe am I going?
+<0039> Waah!
+<0040> What in the...
+<0041> Au.
+<0042> Omigod.
+<0043> Awah...
+<0044> I messed up...
+<0045> Wet the battwe begin!
+<0046> Hewe I come!
+<0047> I can do this!
+<0048> I'm gonna have to ask you to make way fow me.
+<0049> Out of my way!
+<0050> Enemy encountew?!
+<0051> What, what?!
+<0052> You wooking fow a fight?
+<0053> Go!
+<0054> Fiwe!
+<0055> Attack!
+<0056> I'ww attack you!
+<0057> Ugh-kuh!
+<0058> Au!
+<0059> Oops.
+<0060> Did I just get scwaped?!
+<0061> Uwah!
+<0062> Not good!
+<0063> Uaaah!
+<0064> This is so not good...
+<0065> That was a cwose one!
+<0066> Weww dodged!
+<0067> Hiee!
+<0068> You can't hit me!
+<0069> Phew... I won.
+<0070> Aww wight, moving on.
+<0071> I managed it...
+<0072> Phew...
+<0073> I got beaten?
+<0074> Kuh...
+<0075> Shoot...
+<0076> I'm defeated...!
+<0077> Sweet!
+<0078> That's aww mine.
+<0079> Awesome.
+<0080> Uhihi.
+<0081> Ah!
+<0082> You've got to be kidding me!
+<0083> It can't be!
+<0084> Sewiouswy!?
+<0085> A twap!?
+<0086> I can't bewieve I feww fow it.
+<0087> Ugh, I botched up.
+<0088> Whoa, why hewe...!?
+<0089> Thewe's something big... Not good.
+<0090> Uh-oh, I'm in twoubwe.
+<0091> I'm not suwe I can handwe this...
+<0092> Hmm, I'm getting bad vibes...
+<0093> We'ww get tons of them.
+<0094> This is a gathewing quest, wight?!
+<0095> I'm excewwent at this kind of stuff.
+<0096> Wet's go gathew staws!
+<0097> I have no choice but to fight.
+<0098> I'm not the best fightew in the wowwd, but...
+<0099> If that's what I have to do.
+<0100> I'ww twy and fight.
+<0101> I'm Sham. Gwad to meet you.
+<0102> Suwe, wet's wowk togethew!
+<0103> Suwe thing! We can do this togethew.
+<0104> I'm so gwad you picked me! Wet's have fun.
+<0105> It's on now!
+<0106> My heawt's wacing.
+<0107> Wet's show them what we've got.
+<0108> The game's on!
+<0109> I suwe am gwad we won.
+<0110> Did we win?! I'm so stoked!
+<0111> We did it pewfectwy...
+<0112> Yeah, that's one pweasant victowy.
+<0113> Did you get something cute?
+<0114> Wow, we've got something!
+<0115> Does that... hewp any?
+<0116> Good fow you! Wanna use it now?
+<0117> Okay!
+<0118> Wooking good!
+<0119> Yep.
+<0120> That's not good.
+<0121> Oh, no!
+<0122> Wucky you!
+<0123> Hmm?
+<0124> Go! Go!
+<0125> Dice!
+<0126> Gooo!
+<0127> Hi!
+<0128> Mhmm.
+<0129> Vewy nice!
+<0130> I'm impwessed! You'we awesome!
+<0131> Nuah! What's the deaw with you!
+<0132> I don't know what this does, but...
+<0133> I wondew what I can do with this.
+<0134> Is it safe to use this?
+<0135> Not suwe if this is a good idea, but...!
+<0136> It's Sowa!
+<0137> Sowa's hewe! I'm hyped.
+<0138> Even if it's you, I won't go easy.
+<0139> I'm gonna go aww out, Sowa!
+<0140> Hey Sowa, wet's fight!
+<0141> Make suwe to use aww you've got!
+<0142> I won this one.
+<0143> You'we just as stwong as I wemembew.
+<0144> D-don't hit me fwom behind, okay...?
+<0145> Huh? Me and Sowa...? What awe you doing?
+<0146> Nath, fight me!
+<0147> Whoa, awe you gonna fight me, Nath?
+<0148> I can't bewieve I won...
+<0149> I knew I wouwdn't do weww against you.
+<0150> Omigod!? Thewe's a cute wittwe giww hewe!
+<0151> Hi, wittwe giww, how about you come hang out with me!
+<0152> Y-you want to hang out with me? Yeah, suwe. What shouwd we do?
+<0153> That was fun! By the way, have you evew thought of becoming an idow?
+<0154> Tiny and cute, yet stwong... You'd make the pewfect idow...
+<0155> *cwap cwap*... You two awe shining mowe than anyone ewse...
